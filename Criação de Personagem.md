@@ -147,3 +147,39 @@ Os personagens começam com:
 
 **Classe de Armadura (CA):**  
 Base = armadura + modificador de DEX (limitado pelo tipo da armadura)
+
+
+---
+
+|Círculo|Custo em Pontos de Runa|Racional|
+|---|---|---|
+|1º|1|Magias básicas, efeitos táticos simples.|
+|2º|3|Poderes de área e controle de campo, requerem maior investimento em entalhe.|
+|3º|5|Habilidades marcantes, debuffs e buffs duradouros.|
+|4º|8|Efeitos de invocação, controle mais avançado e impactos mecânicos fortes.|
+|5º|12|Rituais poderosos, invocações permanentes (ou quase), transformações de grande escala.|
+
+---
+
+| Nível | Pontos de Runa Ganhos no Avanço |
+| ----- | ------------------------------- |
+| 1     | 2                               |
+| 2     | 2                               |
+| 3     | 3                               |
+| 4     | 3                               |
+| 5     | 4                               |
+| 6     | 4                               |
+| 7     | 5                               |
+| 8     | 5                               |
+| 9     | 6                               |
+| 10    | 6                               |
+| 11    | 7                               |
+| 12    | 7                               |
+| 13    | 8                               |
+| 14    | 8                               |
+| 15    | 9                               |
+| 16    | 9                               |
+| 17    | 10                              |
+| 18    | 10                              |
+| 19    | 11                              |
+| 20    | 11                              |
