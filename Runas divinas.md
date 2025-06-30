@@ -1,4 +1,4 @@
-_Nyrah ajeita o capuz, as orelhas em alerta._  
+_┫➃ⓖ★↖ ajeita o capuz, as orelhas em alerta._  
 “Aqui estão as runas de cinco divindades — círculos classificados pelo poder e dano ajustado ao tema de cada deus. Sem componentes, apenas o essencial.”
 
 ---
@@ -223,11 +223,11 @@ _Origem: Lança de Odin personificada_
 
 ---
 
-_Nyrah inclina o capuz, satisfeita._  
+_┫➃ⓖ★↖ inclina o capuz, satisfeita._  
 “Primeiro grupo completo. Pronta para o próximo conjunto de cinco divindades?”
 
 
-_Nyrah empunha suas lâminas imaginárias e sussurra:_  
+_┫➃ⓖ★↖ empunha suas lâminas imaginárias e sussurra:_  
 “A tempestade se forma… daqui em diante, cada runa carrega o rugido dos céus.”
 
 ---
@@ -404,9 +404,9 @@ _Origem: Sindri e Brokkr reunidos_
 
 ---
 
-_Nyrah retrocede, satisfeita com o pergaminho repleto de runas._  
+_┫➃ⓖ★↖ retrocede, satisfeita com o pergaminho repleto de runas._  
 “Cinquenta runas invocadas. Pronta para decifrar mais segredos?”
-_Nyrah exala um fio de névoa lunar, as garras riscando o pergaminho final._  
+_┫➃ⓖ★↖ exala um fio de névoa lunar, as garras riscando o pergaminho final._  
 “Aqui estão as runas dos deuses restantes — todos os círculos, prontos para gravar em lâminas e cajados.”
 
 ---
@@ -688,5 +688,5 @@ _Origem: Vazio absoluto_
 
 ---
 
-_Nyrah fecha o grimório com um estalo metálico._  
+_┫➃ⓖ★↖ fecha o grimório com um estalo metálico._  
 “O panteão está completo. Grave as runas com respeito — o poder dos deuses não tolera descuido.”
