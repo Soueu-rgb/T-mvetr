@@ -91,10 +91,10 @@ _Armas Permitidas: Espadas Curtas_
 
 ### 2º Círculo
 
-|Nome|Escola|Tempo|Alcance|Duração|Ataque / CD|Efeito|
-|---|---|---|---|---|---|---|
-|**Ignivar**|Evocação|1 ação|15 pés|Instantâneo|—|Fagulha de Combate: 1d6 de dano de fogo em alvo secundário dentro do alcance.|
-|**Lacera**|Transmutação|1 ação|Corpo a corpo|Instantâneo|—|Gume Rasgante: acerto causa sangramento (1d4 cortante/rodada até estancar com ação).|
+| Nome        | Escola       | Tempo  | Alcance       | Duração     | Ataque / CD | Efeito                                                                               |
+| ----------- | ------------ | ------ | ------------- | ----------- | ----------- | ------------------------------------------------------------------------------------ |
+| **Ignivar** | Evocação     | 1 ação | 15 pés        | Instantâneo | —           | Fagulha de Combate: 1d6 de dano de fogo em alvo secundário dentro do alcance.        |
+| **Lacera**  | Transmutação | 1 ação | Corpo a corpo | Instantâneo | —           | Gume Rasgante: acerto causa sangramento (1d4 cortante/rodada até estancar com ação). |
 
 ### 3º Círculo
 

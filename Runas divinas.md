@@ -240,24 +240,24 @@ _Origem: Thor reencarnado_
 
 ### 1º Círculo
 
-|Nome|Escola|Tempo|Alcance|Duração|Armas Permitidas|Ataque / CD|Efeito|
-|---|---|---|---|---|---|---|---|
-|**Anemion**|Transmutação|1 ação|15 pés|Instantâneo|Martelos, maças|Força CD 8+prof.+FOR|Levanta inimigo no ar, ganhando **1d6 de dano de trovão** e fica **prone** se falhar no CD.|
-|**Boreaflux**|Transmutação|1 ação|30 pés linha|Instantâneo|Martelos|—|Rajada de vento concentrada atravessa alvos, causando **2d6 de dano contundente** e ignora cobertura leve.|
+| Nome          | Escola       | Tempo  | Alcance      | Duração     | Armas Permitidas | Ataque / CD          | Efeito                                                                                                     |
+| ------------- | ------------ | ------ | ------------ | ----------- | ---------------- | -------------------- | ---------------------------------------------------------------------------------------------------------- |
+| **Anemion**   | Transmutação | 1 ação | 15 pés       | Instantâneo | Martelos, maças  | Força CD 8+prof.+FOR | Levanta inimigo no ar, ganhando **1d6 de dano de trovão** e fica **prone** se falhar no CD.                |
+| **Boreaflux** | Transmutação | 1 ação | 30 pés linha | Instantâneo | Martelos         | —                    | Rajada de vento concentrada atravessa alvos, causando **2d6 de dano contundente** e ignora cobertura leve. |
 
 ### 2º Círculo
 
-|Nome|Escola|Tempo|Alcance|Duração|Armas Permitidas|Ataque / CD|Efeito|
-|---|---|---|---|---|---|---|---|
-|**Ciclorrho**|Conjuração|1 ação|10 pés raio|1 rodada|Martelos, espadas|Força CD 8+prof.+FOR|Redemoinho prende todos na área; falhar no CD ficam **restritos** (mov. reduzido a 0) e sofrem **1d4 contundente**.|
-|**Dravima**|Transmutação|Permanente|Próprio|Até disparar|Qualquer arma|—|Cada ataque acumula até 3 cargas; consumir todas num golpe adiciona **3d6 de dano de trovão** e empurra alvo 10 pés.|
+| Nome          | Escola       | Tempo      | Alcance     | Duração      | Armas Permitidas  | Ataque / CD          | Efeito                                                                                                               |
+| ------------- | ------------ | ---------- | ----------- | ------------ | ----------------- | -------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| **Ciclorrho** | Conjuração   | 1 ação     | 10 pés raio | 1 rodada     | Martelos, espadas | Força CD 8+prof.+FOR | Redemoinho prende todos na área; falhar no CD ficam **restritos** (mov. reduzido a 0) e sofrem **1d4 contundente**.  |
+| **Dravima**   | Transmutação | Permanente | Próprio     | Até disparar | Qualquer arma     | —                    | Cada ataque acumula até 3 cargas; consumir todas num golpe adiciona **3d6 de dano de trovão** e empurra alvo 10 pés. |
 
 ### 3º Círculo
 
-|Nome|Escola|Tempo|Alcance|Duração|Armas Permitidas|Ataque / CD|Efeito|
-|---|---|---|---|---|---|---|---|
-|**Eurus**|Transmutação|1 bônus ação|Próprio|1 minuto|Qualquer arma|—|+2 no dano de ataques base, –1 na CA; ao fim da duração, sofre **1d4 de dano contundente** por excesso de fúria.|
-|**Fulgur**|Evocação|1 ação|30 pés|Instantâneo|Qualquer arma|—|Invoca eletricidade: **2d6 de dano de raio** em alvos molhados (ou falham no CD de CON 8+prof.+CAR para metade).|
+| Nome       | Escola       | Tempo        | Alcance | Duração     | Armas Permitidas | Ataque / CD | Efeito                                                                                                           |
+| ---------- | ------------ | ------------ | ------- | ----------- | ---------------- | ----------- | ---------------------------------------------------------------------------------------------------------------- |
+| **Eurus**  | Transmutação | 1 bônus ação | Próprio | 1 minuto    | Qualquer arma    | —           | +2 no dano de ataques base, –1 na CA; ao fim da duração, sofre **1d4 de dano contundente** por excesso de fúria. |
+| **Fulgur** | Evocação     | 1 ação       | 30 pés  | Instantâneo | Qualquer arma    | —           | Invoca eletricidade: **2d6 de dano de raio** em alvos molhados (ou falham no CD de CON 8+prof.+CAR para metade). |
 
 ### 4º Círculo
 
