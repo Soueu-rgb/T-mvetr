@@ -27,7 +27,7 @@ Agora... me mostre do que é feito. Pedra, gelo... ou sombra?
 | **[[Nornborn Seers]]**          | WIS +2, INT +1       | d6  | +1       | História, Religião         | *“Eles não falam muito... mas quando falam, o destino ouve.”*                          |
 | **[[Skogfolk Silvana]]**        | DEX +1, WIS +2       | d8  | +1       | Sobrevivência, Furtividade | *“Eles somem como névoa e caçam como lobos. Nunca os subestime por parecerem calmos.”* |
 | **[[Huldra Liante]]**           | CHA +2, DEX +1       | d6  | +1       | Persuasão, Enganação       | *“Você vai amá-las, claro... até perceber que está afundando.”*                        |
-| **[[Humanos (Homo Nordicus)]]** | +1 em três atributos | d8  | +1       | Duas perícias à escolha    | *“Sempre inquietos. Nunca param... e talvez seja isso que os torne perigosos.”*        |
+| **[[Humanos (Homo Nordicus)]]** | +1 em três atributos | d8  | +1       | Duas perícias              | *“Sempre inquietos. Nunca param... e talvez seja isso que os torne perigosos.”*        |
 
 
 ---
