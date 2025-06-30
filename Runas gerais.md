@@ -318,10 +318,10 @@ _Armas Permitidas: Machados Duplos_
 
 ### 1º Círculo
 
-|Nome|Escola|Tempo|Alcance|Duração|Ataque / CD|Efeito|
-|---|---|---|---|---|---|---|
-|**Estilhaço**|Evocação|1 ação|Corpo a corpo|Instantâneo|—|Cada acerto gera fragmentos cortantes: +1d4 de dano cortante adicional.|
-|**Brado**|Abjuração|1 ação|10 pés raio|1 rodada|Sabedoria CD 8+prof.+Car|Grito retumba: falha no CD fica amedrontado por 1 rodada.|
+| Nome          | Escola    | Tempo        | Alcance       | Duração     | Ataque / CD              | Efeito                                                                  |
+| ------------- | --------- | ------------ | ------------- | ----------- | ------------------------ | ----------------------------------------------------------------------- |
+| **Estilhaço** | Evocação  | 1 ação bônus | Corpo a corpo | Instantâneo | —                        | Cada acerto gera fragmentos cortantes: +1d4 de dano cortante adicional. |
+| **Brado**     | Abjuração | 1 ação       | 10 pés raio   | 1 rodada    | Sabedoria CD 8+prof.+Car | Grito retumba: falha no CD fica amedrontado por 1 rodada.               |
 
 ### 2º Círculo
 
@@ -332,10 +332,10 @@ _Armas Permitidas: Machados Duplos_
 
 ### 3º Círculo
 
-|Nome|Escola|Tempo|Alcance|Duração|Ataque / CD|Efeito|
-|---|---|---|---|---|---|---|
-|**Ciclone**|Conjuração|1 ação|10 pés raio|1 rodada|—|Cria redemoinho giratório: inimigos presos sofrem 1d4 de dano contundente por rodada.|
-|**Forja**|Abjuração|Bônus|Próprio|1 minuto|—|Confere +1 de dano perfurante e +1 de CA enquanto empunhar os machados.|
+| Nome        | Escola     | Tempo  | Alcance     | Duração  | Ataque / CD | Efeito                                                                                |
+| ----------- | ---------- | ------ | ----------- | -------- | ----------- | ------------------------------------------------------------------------------------- |
+| **Ciclone** | Conjuração | 1 ação | 10 pés raio | 1 rodada | —           | Cria redemoinho giratório: inimigos presos sofrem 1d4 de dano contundente por rodada. |
+| **Forja**   | Abjuração  | Bônus  | Próprio     | 1 minuto | —           | Confere +1 de dano perfurante e +1 de CA enquanto empunhar os machados.               |
 
 ### 4º Círculo
 

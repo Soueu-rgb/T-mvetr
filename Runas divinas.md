@@ -195,10 +195,10 @@ _Origem: Lança de Odin personificada_
 
 ### 1º Círculo
 
-|Nome|Escola|Tempo|Alcance|Duração|Armas Permitidas|Ataque / CD|Efeito|
-|---|---|---|---|---|---|---|---|
-|**Accolade**|Transmutação|Permanente|Próprio|Até reiniciar|Lanças e espadas longas|—|Consegue até 3 ataques consecutivos; cada acerto aumenta o dano do próximo em +1d4 de perfurante (acumula até +3d4).|
-|**Bravurn**|Abjuração|1 ação|20 pés raio|Instantâneo|—|—|Amplifica ferimentos: inimigos sangrando em área sofrem +1d6 de dano perfurante ao receber efeito de sangramento.|
+| Nome         | Escola       | Tempo      | Alcance     | Duração       | Armas Permitidas        | Ataque / CD | Efeito                                                                                                               |
+| ------------ | ------------ | ---------- | ----------- | ------------- | ----------------------- | ----------- | -------------------------------------------------------------------------------------------------------------------- |
+| **Accolade** | Transmutação | Permanente | Próprio     | Até reiniciar | Lanças e espadas longas | —           | Consegue até 3 ataques consecutivos; cada acerto aumenta o dano do próximo em +1d4 de perfurante (acumula até +3d4). |
+| **Bravurn**  | Abjuração    | 1 ação     | 20 pés raio | Instantâneo   | —                       | —           | Amplifica ferimentos: inimigos sangrando em área sofrem +1d6 de dano perfurante ao receber efeito de sangramento.    |
 
 ### 2º Círculo
 
@@ -216,10 +216,10 @@ _Origem: Lança de Odin personificada_
 
 ### 4º Círculo
 
-|Nome|Escola|Tempo|Alcance|Duração|Armas Permitidas|Ataque / CD|Efeito|
-|---|---|---|---|---|---|---|---|
-|**Gravitas**|Evocação|1 ação|Próprio|Instantâneo|—|—|Peso do Julgamento: próximo ataque vertical cria onda de choque em 5 pés, **1d6 de dano concussão** e atordoa (falha em Con).|
-|**Imperator**|Transmutação|1 ação|30 pés|Instantâneo|Lança|—|Julgamento Supremo: lança a lança até 30 pés (1d8 perfurante) e ela retorna para sua mão causando 1d8 perfurante ao voltar.|
+| Nome          | Escola       | Tempo  | Alcance | Duração     | Armas Permitidas | Ataque / CD | Efeito                                                                                                                       |
+| ------------- | ------------ | ------ | ------- | ----------- | ---------------- | ----------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| **Gravitas**  | Evocação     | 1 ação | Próprio | Instantâneo | —                | —           | Peso do Julgamento: próximo ataque vertical cria onda de choque em 5 pés, **1d8 de dano elétrico** e atordoa (falha em Con). |
+| **Imperator** | Transmutação | 1 ação | 30 pés  | Instantâneo | Lança            | —           | Julgamento Supremo: lança a lança até 30 pés (1d8 perfurante) e ela retorna para sua mão causando 1d8 perfurante ao voltar.  |
 
 ---
 
