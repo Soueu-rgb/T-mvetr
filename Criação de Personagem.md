@@ -101,7 +101,7 @@ Todos os personagens começam com **4 em cada atributo** e podem distribuir **+4
 
 | Nível | Pontos de Classe | XP Necessário |
 | ----- | ---------------- | ------------- |
-| 1     | 0                | 0             |
+| 1     | 40               | 0             |
 | 2     | 3                | 300           |
 | 3     | 3                | 900           |
 | 4     | 3                | 2.700         |

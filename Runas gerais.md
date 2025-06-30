@@ -165,10 +165,10 @@ _Armas Permitidas: Facas_
 
 ### 3º Círculo
 
-|Nome|Escola|Tempo|Alcance|Duração|Ataque / CD|Efeito|
-|---|---|---|---|---|---|---|
-|**Nensho**|Evocação|1 ação|Corpo a corpo|Instantâneo|—|Calor Cortante: acerto causa 1d4 de dano de fogo adicional por rodada até extinção.|
-|**Sazanami**|Evocação|1 ação|20 pés linha|Instantâneo|—|Serrilhamento: projéteis causam 1d6 de dano cortante e ricocheteiam em mais 2 alvos.|
+| Nome         | Escola   | Tempo  | Alcance       | Duração     | Ataque / CD | Efeito                                                                               |
+| ------------ | -------- | ------ | ------------- | ----------- | ----------- | ------------------------------------------------------------------------------------ |
+| **Nensho**   | Evocação | 1 ação | Corpo a corpo | Instantâneo | —           | Calor Cortante: acerto causa 1d4 de dano de fogo adicional por rodada até extinção.  |
+| **Sazanami** | Evocação | 1 ação | 20 pés linha  | Instantâneo | —           | Serrilhamento: projéteis causam 1d6 de dano cortante e ricocheteiam em mais 2 alvos. |
 
 ### 4º Círculo
 
