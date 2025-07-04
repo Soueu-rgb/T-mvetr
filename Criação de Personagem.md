@@ -186,3 +186,12 @@ Base = armadura + modificador de DEX (limitado pelo tipo da armadura)
 | 18    | 10                              |
 | 19    | 11                              |
 | 20    | 11                              |
+
+---
+
+| Ação Concedida       | Custo em Pontos de Habilidade | Racional                                                                                                  |
+| -------------------- | ----------------------------- | --------------------------------------------------------------------------------------------------------- |
+| **Segunda Ação**     | 10                            | Permite um segundo ato completo no próprio turno — alto impacto tático, exige foco e técnica rúnica.      |
+| **Terceira Ação**    | 18                            | Concede um terceiro ato no mesmo turno — poder quase sobre‑humano, demanda um gasto massivo de energia.   |
+| **Ação Bônus Extra** | 6                             | Adiciona uma ação bônus além da habitual — flexibilidade valiosa, porém menos decisiva que ação completa. |
+| **Reação Extra**     | 8                             | Oferece uma reação adicional por rodada — potencial para contra‑ataques ou defesas imprevistas.           |
