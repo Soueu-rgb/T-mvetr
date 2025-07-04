@@ -12,7 +12,10 @@ _┫➃ⓖ★↖ ajeita o capuz, as orelhas em alerta._
 | 3º      | 5                       |
 | 4º      | 8                       |
 | 5º      | 12                      |
-
+| 6º      | 17                      |
+| 7º      | 23                      |
+| 8º      | 30                      |
+|9º|38|
 ---
 # Skurval, a Fome da Lua
 

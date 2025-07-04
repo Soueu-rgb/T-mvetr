@@ -158,6 +158,9 @@ Base = armadura + modificador de DEX (limitado pelo tipo da armadura)
 |3º|5|Habilidades marcantes, debuffs e buffs duradouros.|
 |4º|8|Efeitos de invocação, controle mais avançado e impactos mecânicos fortes.|
 |5º|12|Rituais poderosos, invocações permanentes (ou quase), transformações de grande escala.|
+|6º|17|Runas transformacionais de nível épico, demandam grande energia e domínio rúnico.|
+|7º|23|Poderes capazes de alterar fluxos elementais ou cósmicos; entalhes arriscados e instáveis.|
+|8º|30|Runas de cataclismos, rearranjos espaciais ou temporais; quase divinas em sua magnitude.|
 
 ---
 
