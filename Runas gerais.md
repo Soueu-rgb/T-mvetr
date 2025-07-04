@@ -239,10 +239,10 @@ _Armas Permitidas: Fuzis de Precisão_
 
 ### 3º Círculo
 
-| Nome       | Escola        | Tipo   | Alcance | Duração                   | Acerto / CD                                 | Dano / Efeito                       | Descrição                                                                                                                                                                        | Alvos  |
-| ---------- | ------------- | ------ | ------- | ------------------------- | ------------------------------------------- | ----------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
-| **Frysta** | Transmutation | Action | 60 ft   | 1 turno                   | Constituição CD 8 + prof + CAR para sucesso | 1d6 cold + paralisado (falha)       | Você dispara um projétil congelante. Falha no CD, sofre 1d6 cold e fica paralisado até o fim do próximo turno; sucesso sofre metade do dano e não paralisa.                              | 1 alvo |
-| **Glòfar** | Abjuration    | Action | 30 ft   | Concentração até 4 turnos | —                                           | -1d4 em salvamentos contra controle | Marca a alma do alvo: enquanto durar a concentração, sempre que ele fizer um teste de resistência contra efeitos de controle (paralisia, medo etc.), rolhe 1d4 e subtraia do resultado.  | 1 alvo |
+| Nome       | Escola        | Tipo   | Alcance | Duração                   | Acerto / CD                                 | Dano / Efeito                       | Descrição                                                                                                                                                                               | Alvos  |
+| ---------- | ------------- | ------ | ------- | ------------------------- | ------------------------------------------- | ----------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| **Frysta** | Transmutation | Action | 60 ft   | 1 turno                   | Constituição CD 8 + prof + CAR para sucesso | 1d6 cold + paralisado (falha)       | Você dispara um projétil congelante. Falha no CD, sofre 1d6 cold e fica paralisado até o fim do próximo turno; sucesso sofre metade do dano e não paralisa.                             | 1 alvo |
+| **Glòfar** | Abjuration    | Action | 30 ft   | Concentração até 4 turnos | —                                           | -1d4 em salvamentos contra controle | Marca a alma do alvo: enquanto durar a concentração, sempre que ele fizer um teste de resistência contra efeitos de controle (paralisia, medo etc.), rolhe 1d4 e subtraia do resultado. | 1 alvo |
 
 ### 4º Círculo
 
