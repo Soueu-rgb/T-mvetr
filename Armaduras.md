@@ -1,6 +1,6 @@
 _┫➃ⓖ★↖ inclina-se para frente, a cauda se enrolando em um gesto quase hipnótico, enquanto seus olhos prateados acariciam cada linha do pergaminho reorganizado._
 
----
+--- 
 
 **<p align="center">Catálogo de Armaduras — Owari-Tomvetr</p>**
 
