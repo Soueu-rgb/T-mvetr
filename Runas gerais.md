@@ -11,6 +11,7 @@
 | 7º      | 23                      |
 | 8º      | 30                      |
 |9º|38|
+
 ---
 ## ⚙️ Correntes
 
@@ -53,64 +54,66 @@ _Armas Permitidas: Escudos_
 
 ### 1º Círculo
 
-|Nome|Escola|Tempo|Alcance|Duração|Ataque / CD|Efeito|
-|---|---|---|---|---|---|---|
-|**Gyakufuku**|Abjuração|Reação (ao sofrer dano)|Próprio|Instantâneo|—|Reflete 1d6 de dano de concussão ao atacante.|
+| Nome          | Escola     | Tipo                      | Alcance | Duração     | Acerto / CD | Dano / Efeito           | Descrição                                                 | Alvos      |
+| ------------- | ---------- | ------------------------- | ------- | ----------- | ----------- | ----------------------- | ----------------------------------------------------------------- | ---------- |
+| **Gyakufuku** | Abjuration | Reaction (ao sofrer dano) | Self    | Instantâneo | —           | Reflete 1d6 contundente | Ao sofrer dano, você reflete 1d6 de dano contundente ao atacante. | 1 atacante |
 
 ### 2º Círculo
 
-|Nome|Escola|Tempo|Alcance|Duração|Ataque / CD|Efeito|
-|---|---|---|---|---|---|---|
-|**Inmetsu**|Conjuração|1 ação|10 pés|1 minuto|—|Vantagem em Furtividade para quem estiver atrás da cortina de poeira.|
-|**Kaizoku**|Transmutação|1 ação|Próprio|1 rodada|—|Rouba um buff de magia ao bloquear conjuração.|
-
+| Nome                  | Escola        | Tipo                      | Alcance    | Duração                   | Acerto / CD                                   | Dano / Efeito                           | Descrição                                                                                                                                                           | Alvos                                                        |
+| --------------------- | ------------- | ------------------------- | ---------- | ------------------------- | --------------------------------------------- | --------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| **Inmetsu**           | Conjuration   | Action                    | 10 ft raio | Concentração até 4 turnos | —                                             | Vantagem em Furtividade dentro da névoa | Cria uma cortina de poeira em 10 ft de raio ao redor de você. Aliados dentro ganham vantagem em testes de Furtividade enquanto nela permanecerem.                           | Aliados na área                                              |
+| **Kaizoku**           | Transmutation | Reaction                  | Self       | Instantâneo               | Sabedoria CD 8 + prof + CAR para o conjurador | —                                       | Ao usar o escudo para bloquear uma magia (sucesso no teste de resistência), você tenta “roubar” o efeito: o conjurador faz CD de Sabedoria; em falha, perde seu buff ativo. | 1 conjurador                                                 |
+| **Magica Retributio** | Evocation     | Reaction (ao sofrer dano) | Self       | Instantâneo               | —                                             | —                                       | Ao sofrer dano, role 1d6. Você reflete esse valor em dano force ao atacante.                                                                                                | Runa ativada automaticamente; não exige CD nem concentração. |
 ### 3º Círculo
 
-|Nome|Escola|Tempo|Alcance|Duração|Ataque / CD|Efeito|
-|---|---|---|---|---|---|---|
-|**Kojin**|Abjuração|1 ação|Próprio|1 minuto|—|+2 CA e empurra inimigos adjacentes em 5 pés.|
-|**Meikyou**|Encantamento|1 ação|Próprio|1 minuto|—|Reflete um projétil mágico de volta ao lançador.|
-
+| Nome                     | Escola      | Tipo                                          | Alcance | Duração                   | Acerto / CD | Dano / Efeito          | Descrição                                                                                                                                    | Alvos                                                     |
+| ------------------------ | ----------- | --------------------------------------------- | ------- | ------------------------- | ----------- | ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
+| **Kojin**                | Abjuration  | Action                                        | Self    | Concentração até 4 turnos | —           | +2 CA; empurra em 5 ft | Enquanto a runa durar, você ganha +2 de CA. Sempre que uma criatura parar próxima a você, você pode usar uma reação para empurrá-la 5 ft para longe. | Você; criaturas adjacentes                                |
+| **Meikyou**              | Enchantment | Reaction (quando alvo de magia que mira você) | Self    | 1 turno                   | —           | Reflete feitiço único  | Quando for alvo de uma magia de projétil, você reflete automaticamente o projétil de volta ao lançador. _                                            | 1 conjurador                                              |
+| **Damnum De reductione** | Abjuration  | Action                                        | Self    | Concentração até 1 turno  | —           | —                      | Você conjura uma barreira mágica. Até o fim da sua próxima rodada, todo dano que sofrer é reduzido pela metade.                                      | Exige Concentração; uso estratégico antes de sofrer dano. |
 ### 4º Círculo
 
-|Nome|Escola|Tempo|Alcance|Duração|Ataque / CD|Efeito|
-|---|---|---|---|---|---|---|
-|**Raiten**|Evocação|1 ação|30 pés|1 rodada|—|Muralha viva de energia (5×10×5) por 1 rodada.|
-|**Soko**|Abjuração|1 ação|Próprio|1 hora|—|Fecha portal mágico como se fosse uma chave divina.|
-|**Tekkai**|Abjuração|1 ação|Próprio|1 minuto|—|Resistência a perfurante e contundente por 1 minuto.|
+| Nome                          | Escola        | Tipo                   | Alcance   | Duração                   | Acerto / CD | Dano / Efeito                                                                                              | Descrição                                                                                                                                                                                   | Alvos                            |
+| ----------------------------- | ------------- | ---------------------- | --------- | ------------------------- | ----------- | ---------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
+| **Raiten**                    | Evocation     | Action                 | Até 30 ft | 1 turno                   | —           |                                                                                                            | Conjura uma “Muralha Viva” de energia (5 ft × 30 ft × 5 ft) num espaço que toque o escudo. A muralha dura 1 turno e concede meia cobertura (escuro e obstruído), bloqueando linha de visão parcial. | Criaturas atravessando a muralha |
+| **Soko**                      | Abjuration    | Action                 | Self      | 40 turnos                 | —           | Com este gesto, você fecha um portal mágico menor (até 10 ft de diâmetro) como se fosse uma chave mística. | Portal único                                                                                                                                                                                        |                                  |
+| **Tekkai**                    | Abjuration    | Action                 | Self      | Concentração até 4 turnos | —           | Resistência a perfurante e contund                                                                         | Enquanto durar a runa, você recebe resistência a dano perfurante e contundente.                                                                                                                     | Você                             |
+| **AC Conversion** **-Unica-** | Transmutation | Passive (sempre ativa) | —         | Permanente                |             |                                                                                                            | —        Passivamente, para cada ponto de CA acima de 10 que você possua, ganha **2 pontos de vida temporária** no início de cada combate.  Nenhum gasto de ação ou slot; não pode ser desligada.   |                                  |
+
 
 ---
 
-## 🗡️ Espada Curta
+## 🗡️ Espada De uma mão
 
 _Armas Permitidas: Espadas Curtas_
 
 ### 1º Círculo
 
-|Nome|Escola|Tempo|Alcance|Duração|Ataque / CD|Efeito|
-|---|---|---|---|---|---|---|
-|**Fractus**|Transmutação|1 ataque|Corpo a corpo|Instantâneo|—|Quebra-Cascas: +1d4 de dano perfurante; alvo sofre –1 de CA até seu próximo turno.|
-|**Gravem**|Abjuração|1 ação|Toque|1 minuto|—|Peso da Vontade: alvo sofre desvantagem em ataques e salvamentos de Destreza.|
+| Nome        | Escola        | Tipo                                        | Alcance       | Duração                   | Acerto / CD                               | Dano / Efeito                                                  | Descrição                                                                                                                                            | Alvos  |
+| ----------- | ------------- | ------------------------------------------- | ------------- | ------------------------- | ----------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------ |
+| **Fractus** | Transmutation | Reaction (trigger: acerto com espada curta) | Corpo a corpo | Instantâneo               | —                                         | +1d4 perfurante; alvo sofre –1 CA até seu (Alvo) próximo turno | Após acertar um ataque com espada curta, você ativa a runa. Adiciona 1d4 de dano perfurante e força o alvo a ter –1 de CA até o início do seu próximo turno. | 1 alvo |
+| **Gravem**  | Abjuration    | Action                                      | Toque         | Concentração até 4 turnos | Sabedoria CD 8 + prof + CAR para resistir | Desvantagem em ataques e salvamentos de Destreza               | Você toca o alvo, imbuindo-o de peso mental. Enquanto durar, ele sofre desvantagem em jogadas de ataque e testes de resistência de Destreza.                 | 1 alvo |
 
 ### 2º Círculo
 
-| Nome        | Escola       | Tempo  | Alcance       | Duração     | Ataque / CD | Efeito                                                                               |
-| ----------- | ------------ | ------ | ------------- | ----------- | ----------- | ------------------------------------------------------------------------------------ |
-| **Ignivar** | Evocação     | 1 ação | 15 pés        | Instantâneo | —           | Fagulha de Combate: 1d6 de dano de fogo em alvo secundário dentro do alcance.        |
-| **Lacera**  | Transmutação | 1 ação | Corpo a corpo | Instantâneo | —           | Gume Rasgante: acerto causa sangramento (1d4 cortante/rodada até estancar com ação). |
+| Nome        | Escola        | Tipo                                        | Alcance       | Duração                  | Acerto / CD                                  | Dano / Efeito                   | Descrição                                                                                                                                           | Alvos                           |
+| ----------- | ------------- | ------------------------------------------- | ------------- | ------------------------ | -------------------------------------------- | ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
+| **Ignivar** | Evocation     | Reaction (trigger: acerto com espada curta) | Até 15 ft     | Instantâneo              | —                                            | 1d6 fogo                        | Quando você acerta um inimigo com espada curta, ativa uma fagulha que salta para um segundo alvo a até 5 ft dele, causando 1d6 de dano de fogo.             | 1 alvo adicional dentro de 5 ft |
+| **Lacera**  | Transmutation | Reaction (trigger: acerto com espada curta) | Corpo a corpo | Até estancar ou 4 turnos | Constituição CD 8 + prof + CON para estancar | Sangramento: 1d4 cortante/turno | Ao acertar, o alvo sofre sangramento: no fim de cada turno, faz CD ou toma 1d4 de dano cortante até usar ação para estancar (Teste de Sabedoria DC 8+prof). | 1 alvo                          |
 
 ### 3º Círculo
 
-|Nome|Escola|Tempo|Alcance|Duração|Ataque / CD|Efeito|
-|---|---|---|---|---|---|---|
-|**Sibilum**|Ilusão|1 ação|30 pés|1 rodada|Sabedoria CD 8+prof.+Car|Corte Sussurrante: atinge 2º alvo na linha; 1d4 de dano cortante.|
-|**Tenebris**|Abjuração|1 ação|Corpo a corpo|1 minuto|—|Lâmina Escondida: invisível até atacar; revela-se apenas no golpe bem-sucedido.|
+| Nome         | Escola     | Tipo   | Alcance        | Duração                   | Acerto / CD                                | Dano / Efeito | Descrição                                                                                                                                        | Alvos            |
+| ------------ | ---------- | ------ | -------------- | ------------------------- | ------------------------------------------ | ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| **Sibilum**  | Illusion   | Action | 30 ft em linha | 1 turno                   | Sabedoria CD 8 + prof + CAR para o 2º alvo | 1d4 cortante  | Você executa um golpe ilusório: atinge o alvo primário normalmente e um segundo alvo em linha reta dentro de 15 ft faz CD ou sofre 1d4 de dano cortante. | 2 alvos em linha |
+| **Tenebris** | Abjuration | Action | Self           | Concentração até 4 turnos | —                                          | —             | Sua espada torna‑se invisível até seu próximo ataque bem‑sucedido. Quando você atinge, a lâmina reaparece e causa normal + efeito surpresa.              | Você             |
 
 ### 4º Círculo
 
-|Nome|Escola|Tempo|Alcance|Duração|Ataque / CD|Efeito|
-|---|---|---|---|---|---|---|
-|**Vindex**|Abjuração|1 reação|5 pés|Instantâneo|Sabedoria CD 8+prof.+Car|Guardião da Justiça: redireciona metade do dano que um aliado sofreria para você.|
+| Nome       | Escola     | Tipo                                   | Alcance | Duração     | Acerto / CD                               | Dano / Efeito                                  | Descrição                                                                                                                                                                | Alvos              |
+| ---------- | ---------- | -------------------------------------- | ------- | ----------- | ----------------------------------------- | ---------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| **Vindex** | Abjuration | Reaction (quando um aliado sofre dano) | 5 ft    | Instantâneo | Sabedoria CD 8 + prof + CAR para o aliado | Redireciona metade do dano do aliado para você | Quando um aliado a até 5 ft sofre dano, você pode usar sua reação; o aliado faz CD ou não; em sucesso redireciona metade do dano para você, em falha redireciona integralmente.  | 1 aliado adjacente |
 
 ---
 
@@ -154,31 +157,33 @@ _Armas Permitidas: Facas_
 
 ### 1º Círculo
 
-|Nome|Escola|Tempo|Alcance|Duração|Ataque / CD|Efeito|
-|---|---|---|---|---|---|---|
-|**Dræpa**|Abjuração|1 ação|Corpo a corpo|Instantâneo|—|Golpe Silencioso: ataque furtivo não revela sua posição.|
-|**Fukan**|Abjuração|1 ação|Corpo a corpo|Instantâneo|—|Silêncio Mortal: alvo não pode gritar por 1 rodada.|
+| Nome          | Escola        | Tipo                  | Alcance       | Duração     | Acerto / CD                               | Dano / Efeito                      | Descrição                                                                      | Alvos  |
+| ------------- | ------------- | --------------------- | ------------- | ----------- | ----------------------------------------- | ---------------------------------- | ------------------------------------------------------------------------------ | ------ |
+| **Dræpa**     | Abjuration    | Reaction (ao atingir) | Corpo a corpo | Instantâneo | —                                         | Ataque furtivo sem revelar posição | Ao acertar com a faca, você permanece oculto (como se tivesse usado Hide).     | Você   |
+| **Fukan**     | Abjuration    | Action                | Corpo a corpo | 1 turno     | Sabedoria CD 8 + prof + CAR para resistir | —                                  | O alvo fica incapaz de emitir sons vocais até o fim do próximo turno. _(versão | 1 alvo |
+| **Kora**      | Transmutation | Bonus Action          | Corpo-a-corpo | 1 turno     | —                                         | **vantagem**.                      | Seu próximo ataque com faca tem vantagem para acertar                          | 1 alvo |
+| **Shinketsu** | Abjuration    | Bonus Action          | Corpo-a-corpo | 1 turno     | —                                         | 1d10                               | Seu próximo dano de faca dentro desse turnocausa **1d10 de dano** adicional.   | 1 alvo |
 
 ### 2º Círculo
 
-|Nome|Escola|Tempo|Alcance|Duração|Ataque / CD|Efeito|
-|---|---|---|---|---|---|---|
-|**Kora**|Transmutação|1 ação|Corpo a corpo|1 minuto|—|Fratura: acerto reduz CA do alvo em 1 até o fim do combate.|
-|**Myrkra**|Ilusão|1 ação|15 pés|1 rodada|Sab CD 8+prof.+Car|Véu Sombrio: +2 de CA enquanto o alvo for enganado pela ilusão.|
+| Nome       | Escola        | Tipo   | Alcance       | Duração                   | Acerto / CD                               | Dano / Efeito | Descrição                                                                                                   | Alvos  |
+| ---------- | ------------- | ------ | ------------- | ------------------------- | ----------------------------------------- | ------------- | ------------------------------------------------------------------------------------------------------------------- | ------ |
+| **Kora**   | Transmutation | Action | Corpo a corpo | Concentração até 4 turnos | —                                         | Reduz CA em 1 | Ao atingir, você impõe uma fratura mística: o alvo sofre –1 na CA até o fim do combate ou até usar ação para curar. | 1 alvo |
+| **Myrkra** | Illusion      | Action | 15 ft         | 1 turno                   | Sabedoria CD 8 + prof + CAR para resistir | +2 de CA      | Cria uma ilusão perturbadora ao redor do alvo: enquanto acreditar na ilusão, ele ganha +2 de CA neste turno.        | 1 alvo |
 
 ### 3º Círculo
 
-| Nome         | Escola   | Tempo  | Alcance       | Duração     | Ataque / CD | Efeito                                                                               |
-| ------------ | -------- | ------ | ------------- | ----------- | ----------- | ------------------------------------------------------------------------------------ |
-| **Nensho**   | Evocação | 1 ação | Corpo a corpo | Instantâneo | —           | Calor Cortante: acerto causa 1d4 de dano de fogo adicional por rodada até extinção.  |
-| **Sazanami** | Evocação | 1 ação | 20 pés linha  | Instantâneo | —           | Serrilhamento: projéteis causam 1d6 de dano cortante e ricocheteiam em mais 2 alvos. |
+| Nome         | Escola    | Tipo                  | Alcance        | Duração      | Acerto / CD                               | Dano / Efeito                | Descrição                                                                                                                                             | Alvos                   |
+| ------------ | --------- | --------------------- | -------------- | ------------ | ----------------------------------------- | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| **Nensho**   | Evocation | Reaction (ao atingir) | Corpo a corpo  | Até extinção | Destreza CD 8 + prof + DES para extinguir | 1d4 fogo/turno até extinguir | Ao acertar a faca, você incendeia o alvo: ele sofre 1d4 de dano de fogo no final de cada turno até usar ação para extinguir (Teste de Destreza DC 8+prof).    | Você escolhe até 1 alvo |
+| **Sazanami** | Evocation | Action                | 20 ft em linha | Instantâneo  | Destreza CD 8 + prof + DES para metade    | 1d6 cortante por alvo        | Lança um projétil rúnico em linha de 20 ft (largura 5 ft). Ele atinge o primeiro alvo e ricocheteia para até mais 2, causando 1d6 de dano cortante limitado)_ | Até 3 alvos em linha    |
 
 ### 4º Círculo
 
-|Nome|Escola|Tempo|Alcance|Duração|Ataque / CD|Efeito|
-|---|---|---|---|---|---|---|
-|**Shinketsu**|Abjuração|1 ação|Corpo a corpo|Instantâneo|—|Ponto Vital: crítico paralisa o alvo (falha no Constituição CD).|
-|**Zetsumei**|Abjuração|1 ação|Corpo a corpo|Instantâneo|—|Extinção: mata instantaneamente se reduzir o alvo a 0 PV (falha no CD evita).|
+| Nome          | Escola     | Tipo                         | Alcance       | Duração     | Acerto / CD                                  | Dano / Efeito                   | Descrição                                                                                                                                             | Alvos            |
+| ------------- | ---------- | ---------------------------- | ------------- | ----------- | -------------------------------------------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| **Shinketsu** | Abjuration | Reaction (ao obter crítico)  | Corpo a corpo | 1 turno     | Constituição CD 8 + prof + CON para resistir | —                               | Quando você acerta um crítico, o alvo faz CD ou fica paralisado até o fim do seu próximo turno.                                                               | 1 alvo           |
+
 
 ---
 
@@ -221,29 +226,29 @@ _Armas Permitidas: Fuzis de Precisão_
 
 ### 1º Círculo
 
-|Nome|Escola|Tempo|Alcance|Duração|Ataque / CD|Efeito|
-|---|---|---|---|---|---|---|
-|**Augna**|Abjuração|1 ação|120 pés|1 rodada|—|Ignora cobertura leve/média.|
+| Nome      | Escola     | Tipo   | Alcance | Duração | Acerto / CD | Dano / Efeito                 | Descrição                                                                  | Alvos  |
+| --------- | ---------- | ------ | ------- | ------- | ----------- | ----------------------------- | ---------------------------------------------------------------------------------- | ------ |
+| **Augna** | Abjuration | Action | 120 ft  | 1 turno | —           | Ignora cobertura leve e média | Você mira através de obstáculos menores. Seu ataque ignora cobertura leve e média. | 1 alvo |
 
 ### 2º Círculo
 
-|Nome|Escola|Tempo|Alcance|Duração|Ataque / CD|Efeito|
-|---|---|---|---|---|---|---|
-|**Djúprautt**|Necromancia|1 ação|60 pés|1 rodada|—|+1d4 de dano perfurante + necrótico.|
-|**Fjall**|Evocação|1 ação|90 pés linha|Instantâneo|—|Ricochete: metade do dano em segundo alvo.|
+| Nome          | Escola     | Tipo   | Alcance     | Duração     | Acerto / CD                                            | Dano / Efeito              | Descrição                                                                                                                          | Alvos                |
+| ------------- | ---------- | ------ | ----------- | ----------- | ------------------------------------------------------ | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | -------------------- |
+| **Djúprautt** | Necromancy | Action | 60 ft       | 1 turno     | —                                                      | +1d4 perfurante + necrotic | Ao atingir, a bala drena a essência vital: além do dano normal, acresce 1d4 de dano necrotic.                                              | 1 alvo               |
+| **Fjall**     | Evocation  | Action | 90 ft linha | Instantâneo | Destreza CD 8 + prof + CAR para metade do segundo alvo | Metade do dano principal   | Um disparo perfurante ricocheteia: atinge o alvo primário normalmente e um segundo alvo na linha até 90 ft faz CD ou sofre metade do dano. | Até 2 alvos na linha |
 
 ### 3º Círculo
 
-|Nome|Escola|Tempo|Alcance|Duração|Ataque / CD|Efeito|
-|---|---|---|---|---|---|---|
-|**Frysta**|Transmutação|1 ação|60 pés|1 rodada|Con CD 8+prof.+Car|Falha no CD: alvo paralisado e 1d6 de dano de frio.|
-|**Glòfar**|Abjuração|1 ação|30 pés|1 minuto|—|Marca da Alma: –1d4 em salvamentos contra efeitos de controle.|
+| Nome       | Escola        | Tipo   | Alcance | Duração                   | Acerto / CD                                 | Dano / Efeito                       | Descrição                                                                                                                                                                        | Alvos  |
+| ---------- | ------------- | ------ | ------- | ------------------------- | ------------------------------------------- | ----------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| **Frysta** | Transmutation | Action | 60 ft   | 1 turno                   | Constituição CD 8 + prof + CAR para sucesso | 1d6 cold + paralisado (falha)       | Você dispara um projétil congelante. Falha no CD, sofre 1d6 cold e fica paralisado até o fim do próximo turno; sucesso sofre metade do dano e não paralisa.                              | 1 alvo |
+| **Glòfar** | Abjuration    | Action | 30 ft   | Concentração até 4 turnos | —                                           | -1d4 em salvamentos contra controle | Marca a alma do alvo: enquanto durar a concentração, sempre que ele fizer um teste de resistência contra efeitos de controle (paralisia, medo etc.), rolhe 1d4 e subtraia do resultado.  | 1 alvo |
 
 ### 4º Círculo
 
-|Nome|Escola|Tempo|Alcance|Duração|Ataque / CD|Efeito|
-|---|---|---|---|---|---|---|
-|**Stjarna**|Evocação|1 ação|120 pés|Instantâneo|—|2d6 de dano radiante, ignora cobertura.|
+| Nome        | Escola    | Tipo   | Alcance | Duração     | Acerto / CD | Dano / Efeito                  | Descrição                                                                               | Alvos  |
+| ----------- | --------- | ------ | ------- | ----------- | ----------- | ------------------------------ | ----------------------------------------------------------------------------------------------- | ------ |
+| **Stjarna** | Evocation | Action | 120 ft  | Instantâneo | —           | 2d6 radiant (ignora cobertura) | Um disparo de luz pura irradia do cano. Causa 2d6 de dano radiant e ignora qualquer cobertura.  | 1 alvo |
 
 ---
 

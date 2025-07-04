@@ -15,7 +15,8 @@ _┫➃ⓖ★↖ ajeita o capuz, as orelhas em alerta._
 | 6º      | 17                      |
 | 7º      | 23                      |
 | 8º      | 30                      |
-|9º|38|
+| 9       | 38                      |
+
 ---
 # Skurval, a Fome da Lua
 
@@ -25,32 +26,33 @@ _Origem: Fenrir redivivo_
 
 ### 1º Círculo
 
-| Nome         | Escola       | Tempo                | Alcance | Duração     | Armas Permitidas          | Ataque / CD | Efeito                                                                                                   |
-| ------------ | ------------ | -------------------- | ------- | ----------- | ------------------------- | ----------- | -------------------------------------------------------------------------------------------------------- |
-| **Ekkovarg** | Evocação     | 1 reação (ao crit.)  | Próprio | Instantâneo | Qualquer arma com crítico | —           | Ao acertar **crítico**, todas as criaturas até 10 pés sofrem **1d6 de dano de trovão** como eco de aura. |
-| **Mordrak**  | Transmutação | 1 reação (ao acerto) | Próprio | Instantâneo | Armas corpo a corpo       | —           | Ao **acertar**, recupera PV iguais a **1d6**, sugando vigor do alvo.                                     |
+| Nome     | Escola        | Tipo                                        | Alcance             | Duração     | Armas                 | Acerto/CD | Dano        | Descrição                                                                                                                                                      | Alvos                   |
+| -------- | ------------- | ------------------------------------------- | ------------------- | ----------- | --------------------- | --------- | ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| Ekkovarg | Evocation     | Reaction (trigger: seu ataque crítico)      | Self (10 ft radius) | Instantâneo | Qualquer arma crítica | —         | 1d6 thunder | Ao atingir um crítico, emana um pulso de trovão (sem componentes). Cada criatura em até 10 ft faz Con save (DC 8 + prof + Cha) ou sofre 1d6 de dano de trovão. | Qualquer número na área |
+| Mordrak  | Transmutation | Reaction (trigger: seu ataque bem‑sucedido) | Self                | Instantâneo | Armas corpo a corpo   | —         | Cura 1d6 HP | Ao acertar um ataque corpo a corpo, você suga vigor do alvo, recuperando 1d6 PV (sem exceder os PV máximos). Similar a Vampiric Strike.                        | Você                    |
+
 
 ### 2º Círculo
 
-|Nome|Escola|Tempo|Alcance|Duração|Armas Permitidas|Ataque / CD|Efeito|
-|---|---|---|---|---|---|---|---|
-|**Fjellknas**|Transmutação|1 ação|Toque (arma pesada)|Instantâneo|Martelos, espadas gigantes, canhões, rifles de impacto|Teste de Força CD 8 + prof. + mod.|Racha o solo em 5 pés; criaturas falhas no **Teste de Força** caem **prone**.|
-|**Hjelmtenner**|Necromancia|1 reação (ao acerto)|Próprio|1 rodada|—|—|Ao **acertar**, role 1d4; com resultado 1, o alvo sofre desvantagem em testes de conjuração e CDs de magia até o fim da próxima rodada.|
+| Nome            | Escola        | Tipo     | Alcance             | Duração     | Armas Permitidas                              | Acerto / CD                                  | Dano & Efeito                  | Descrição                                                                                                                                             | Alvos                      |
+| --------------- | ------------- | -------- | ------------------- | ----------- | --------------------------------------------- | -------------------------------------------- | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
+| **Fjellknas**   | Transmutation | Action   | Toque (arma pesada) | Instantâneo | Martelos, espadas gigantes, rifles de impacto | Força CD 8 + prof +  para metade e sem prone | 1d6 concussão + prone*(falha)* | Racha o solo num raio de 15 ft sob o alvo. Falha no CD fica prone e sofre dano total; sucesso sofre dano pela metade, sem cair. _(inspirado em Earth Tremor)_ | Qualquer número na área    |
+| **Hjelmtenner** | Necromancy    | Reaction | Self                | 1 rodada    | —                                             | —                                            | — (efeito de status)           | Ao acertar, role 1d4. Se sair 1, o alvo sofre desvantagem em testes e CDs de magia até o fim da sua próxima rodada.                                           | 1 alvo (quem você acertou) |
 
 ### 3º Círculo
 
-|Nome|Escola|Tempo|Alcance|Duração|Armas Permitidas|Ataque / CD|Efeito|
-|---|---|---|---|---|---|---|---|
-|**Lunskade**|Evocação|1 ação|60 pés|1 minuto|—|Constituição CD 8 + prof. + mod.|Marca o alvo; até o fim da duração, no início de cada turno, ele e criaturas até 10 pés sofrem **2d6 de dano cortante** (laceração lunar).|
-|**Skarnthyr**|Abjuração|1 ação|30 pés|1 minuto|—|—|Aliados até 10 pés ganham **vantagem** em testes de resistência contra condições (medo, envenenado etc.) durante 1 minuto.|
-|**Ulvaheim**|Transmutação|Reação (crit.)|Próprio|Instantâneo|—|—|Ao sofrer **acerto crítico**, use esta reação para fazer um ataque corpo a corpo **com vantagem** contra quem o atacou.|
 
+| Nome          | Escola        | Tipo     | Alcance | Duração     | Armas Permitidas | Acerto / CD                                | Dano         | Descrição                                                                                                                                               | Alvos                                 |
+| ------------- | ------------- | -------- | ------- | ----------- | ---------------- | ------------------------------------------ | ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- |
+| **Lunskade**  | Evocation     | Action   | 60 ft   | 4 turnos    | —                | Constituição CD 8 + prof + Car para metade | 2d6 cortante | Marca o alvo com energia lunar. No início de cada turno, quem falhar no CD sofre dano total; sucesso reduz à metade. _(baseado em Moonbeam, com área reduzida)_ | 1 alvo principal + criaturas em 15 ft |
+| **Skarnthyr** | Abjuration    | Action   | 30 ft   | 4 turnos    | —                | —                                          | —            | Aliados em até 10 ft ganham vantagem em testes de resistência contra condições (medo, envenenado etc.).                                                         | Até qualquer número dentro da aura    |
+| **Ulvaheim**  | Transmutation | Reaction | Self    | Instantâneo | —                | —                                          | —            | Ao sofrer um acerto crítico, use esta reação para fazer um ataque corpo a corpo com vantagem contra quem o atacou.                                              | 1 alvo (quem o atacou)                |
 ### 4º Círculo
 
-|Nome|Escola|Tempo|Alcance|Duração|Armas Permitidas|Ataque / CD|Efeito|
-|---|---|---|---|---|---|---|---|
-|**Vargulv**|Conjuração|1 bônus de ação|60 pés|1 minuto|—|—|Conjura um **Lobo-Fantasma** (veja ficha abaixo) que obedece seus comandos por 1 minuto.|
-|**Yvenklyr**|Evocação|Permanente (ativo)|Próprio|Até acionado|—|—|Acumula até 5 cargas ao acertar ataques; em 5 cargas, o próximo **crítico** causa **5d6 de dano de trovão** em 5 pés.|
+| Nome         | Escola      | Tipo         | Alcance | Duração                 | Armas Permitidas | Acerto / CD | Dano                        | Descrição                                                                                                              | Alvos                            |
+| ------------ | ----------- | ------------ | ------- | ----------------------- | ---------------- | ----------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------- |
+| **Vargulv**  | Conjuration | Bonus Action | 60 ft   | 4 turnos                | —                | —           | —                           | Conjura um Lobo-Fantasma que obedece seus comandos.                                                                            | 1 lobo-fantasma (CR 1)           |
+| **Yvenklyr** | Evocation   | Free Action  | Self    | Permanente até acionado | —                | —           | 4d6 trovão (carga completa) | Ganha 1 carga por acerto (máx 5). Ao atingir 5, seu próximo crítico expele 4d6 de dano de trovão numa esfera de 5 ft ao redor. | Qualquer número na área de 15 ft |
 
 ---
 
@@ -243,31 +245,31 @@ _Origem: Thor reencarnado_
 
 ### 1º Círculo
 
-| Nome          | Escola       | Tempo  | Alcance      | Duração     | Armas Permitidas | Ataque / CD          | Efeito                                                                                                     |
-| ------------- | ------------ | ------ | ------------ | ----------- | ---------------- | -------------------- | ---------------------------------------------------------------------------------------------------------- |
-| **Anemion**   | Transmutação | 1 ação | 15 pés       | Instantâneo | Martelos, maças  | Força CD 8+prof.+FOR | Levanta inimigo no ar, ganhando **1d6 de dano de trovão** e fica **prone** se falhar no CD.                |
-| **Boreaflux** | Transmutação | 1 ação | 30 pés linha | Instantâneo | Martelos         | —                    | Rajada de vento concentrada atravessa alvos, causando **2d6 de dano contundente** e ignora cobertura leve. |
+| Nome          | Escola        | Tipo   | Alcance        | Duração     | Armas Permitidas | Acerto / CD                                   | Dano / Efeito   | Descrição                                                                                                                      | Alvos                    |
+| ------------- | ------------- | ------ | -------------- | ----------- | ---------------- | --------------------------------------------- | --------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
+| **Anemion**   | Transmutation | Action | 15 ft          | Instantâneo | Martelos, maças  | Sabedoria CD 8 + prof + FOR para evitar prone | 1d6 trovão      | Você levanta o alvo no ar com um golpe carregado de vento. Falha no CD fica prone e sofre 1d6 de dano de trovão; sucesso sofre metade. | 1 alvo                   |
+| **Boreaflux** | Transmutation | Action | 30 ft em linha | Instantâneo | Martelos         | —                                             | 2d6 contundente | Dispara uma rajada de vento concentrado numa linha de até 30 ft (largura 5 ft), ignorando cobertura leve.                              | Todas criaturas na linha |
 
 ### 2º Círculo
 
-| Nome          | Escola       | Tempo      | Alcance     | Duração      | Armas Permitidas  | Ataque / CD          | Efeito                                                                                                               |
-| ------------- | ------------ | ---------- | ----------- | ------------ | ----------------- | -------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| **Ciclorrho** | Conjuração   | 1 ação     | 10 pés raio | 1 rodada     | Martelos, espadas | Força CD 8+prof.+FOR | Redemoinho prende todos na área; falhar no CD ficam **restritos** (mov. reduzido a 0) e sofrem **1d4 contundente**.  |
-| **Dravima**   | Transmutação | Permanente | Próprio     | Até disparar | Qualquer arma     | —                    | Cada ataque acumula até 3 cargas; consumir todas num golpe adiciona **3d6 de dano de trovão** e empurra alvo 10 pés. |
+| Nome          | Escola        | Tipo        | Alcance    | Duração         | Armas Permitidas  | Acerto / CD                                | Dano / Efeito                     | Descrição                                                                                                                                                                       | Alvos                       |
+| ------------- | ------------- | ----------- | ---------- | --------------- | ----------------- | ------------------------------------------ | --------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
+| **Ciclorrho** | Conjuration   | Action      | 10 ft raio | 1 turno         | Martelos, espadas | Constituição CD 8 + prof + FOR para metade | 1d4 contundente + restrito        | Cria um turbilhão que prende todos na área. Falha no CD fica restrito (velocidade 0); sucesso sofre metade do dano e não fica restrito. _(baseado em Gust of Wind e Web; adicionei CD)_ | Até qualquer número na área |
+| **Dravima**   | Transmutation | Free Action | Próprio    | Até descarregar | Qualquer arma     | —                                          | +3 cargas (3d6 trovão + empurrão) | Cada ataque bem‑sucedido carrega a runa (máx 3). Ao usar a carga, consome todas num golpe que causa 3d6 de dano de trovão e empurra o alvo 10 ft para longe.                            | 1 alvo por consumo          |
 
 ### 3º Círculo
 
-| Nome       | Escola       | Tempo        | Alcance | Duração     | Armas Permitidas | Ataque / CD | Efeito                                                                                                           |
-| ---------- | ------------ | ------------ | ------- | ----------- | ---------------- | ----------- | ---------------------------------------------------------------------------------------------------------------- |
-| **Eurus**  | Transmutação | 1 bônus ação | Próprio | 1 minuto    | Qualquer arma    | —           | +2 no dano de ataques base, –1 na CA; ao fim da duração, sofre **1d4 de dano contundente** por excesso de fúria. |
-| **Fulgur** | Evocação     | 1 ação       | 30 pés  | Instantâneo | Qualquer arma    | —           | Invoca eletricidade: **2d6 de dano de raio** em alvos molhados (ou falham no CD de CON 8+prof.+CAR para metade). |
+| Nome       | Escola        | Tipo         | Alcance | Duração     | Armas Permitidas | Acerto / CD                                | Dano / Efeito                               | Descrição                                                                                                           | Alvos       |
+| ---------- | ------------- | ------------ | ------- | ----------- | ---------------- | ------------------------------------------ | ------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| **Eurus**  | Transmutation | Bonus Action | Próprio | 4 turnos    | Qualquer arma    | —                                          | +2 dano; –1 CA; 1d4 contundente pós­duração | Ganha +2 em dano nos ataques, mas sofre –1 na CA. Ao final do 4º turno, sofre 1d4 de dano contundente por fadiga.           | Você        |
+| **Fulgur** | Evocation     | Action       | 30 ft   | Instantâneo | Qualquer arma    | Constituição CD 8 + prof + CAR para metade | 2d6 raio                                    | Conjura eletricidade que salta ao longo de até 3 alvos adjacentes molhados. Falhar no CD sofre dano total; sucesso metade.  | Até 3 alvos |
 
 ### 4º Círculo
 
-|Nome|Escola|Tempo|Alcance|Duração|Armas Permitidas|Ataque / CD|Efeito|
-|---|---|---|---|---|---|---|---|
-|**Galeia**|Abjuração|1 ação|Próprio|1 minuto|—|—|Cria pequenos vórtices ao redor: +2 de esquiva por toda a duração.|
-|**Hypsion**|Transmutação|1 ação|15 pés raio|Instantâneo|—|Força CD 8+prof.+FOR|Reduz velocidade em 10 pés e causa **1d6 de dano contundente** a todos que falharem no CD.|
+| Nome        | Escola        | Tipo   | Alcance    | Duração     | Armas Permitidas | Acerto / CD                         | Dano / Efeito                              | Descrição                                                                                                                                                                               | Alvos                   |
+| ----------- | ------------- | ------ | ---------- | ----------- | ---------------- | ----------------------------------- | ------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| **Galeia**  | Abjuration    | Action | Próprio    | 4 turnos    | —                | —                                   | +2 esquiva                                 | Pequenos vórtices gêmeos giram ao redor do usuário, concedendo +2 de bônus à CA até o fim da duração.                                                                                           | Você                    |
+| **Hypsion** | Transmutation | Action | 15 ft raio | Instantâneo | —                | Força CD 8 + prof + FOR para metade | 1d6 contundente + redução de 10 ft de mov. | Uma onda concussiva abala o solo num raio de 15 ft. Falha no CD sofre dano total e tem velocidade reduzida em 10 ft até o fim do próximo turno; sucesso sofre metade e sem redução. _(invento)_ | Todas criaturas na área |
 
 ---
 
@@ -315,23 +317,23 @@ _Origem: Odin forjador_
 
 ### 1º Círculo
 
-|Nome|Escola|Tempo|Alcance|Duração|Armas Permitidas|Ataque / CD|Efeito|
-|---|---|---|---|---|---|---|---|
-|**Forjask**|Transmutação|1 ação|Toque|1 minuto|Martelos, martelo de guerra|—|Marca o alvo: metade do dano que você sofre nos próximos 1 minuto é absorvida para curar você em **1d6** por turno.|
-|**Ragnar**|Evocação|1 ação|Toque|1 minuto|Arma corpo a corpo|—|Marca flamejante: **1d6 de dano de fogo** no fim do turno do alvo e continua por 1 minuto (sem CD adicional).|
+| Nome        | Escola        | Tipo   | Alcance      | Duração                   | Armas Permitidas            | Acerto / CD                                     | Dano / Cura        | Descrição                                                                                                                                                                                             | Alvos  |
+| ----------- | ------------- | ------ | ------------ | ------------------------- | --------------------------- | ----------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| **Forjask** | Transmutation | Action | Self (Toque) | Concentração até 4 turnos | Martelos, martelo de guerra | —                                               | Cura 1d6 por turno | Você marca a arma. Enquanto durar, metade do dano que você sofre é absorvida; no início do seu turno, cura 1d6 pontos de vida. _(Concentração; inspirado em Armor of Agathys e Healing Spirit — ajuste leve)_ | Você   |
+| **Ragnar**  | Evocation     | Action | Self (Toque) | 4 turnos                  | Qualquer arma corpo a corpo | Sabedoria CD 8 + prof + CAR para final de turno | 1d6 fogo por turno | Marca flamejante no alvo tocado. No fim de cada turno do alvo, ele sofre 1d6 de dano de fogo; sem CD adicional. _(Adicionado CD para meio dano em equilíbrio com Flaming Sphere.)_                            | 1 alvo |
 
 ### 2º Círculo
 
-|Nome|Escola|Tempo|Alcance|Duração|Armas Permitidas|Ataque / CD|Efeito|
-|---|---|---|---|---|---|---|---|
-|**Skjalfan**|Invocação|1 ação|30 pés|1 rodada|—|—|Libera corvos rúnicos: ao silenciar um inimigo, cada corvo causa **1d4 de dano perfurante**.|
-|**Tímaskur**|Transmutação|1 reação|60 pés|Instantâneo|—|Sabedoria CD 8+prof.+CAR|Atinge em momento fora de sincronia: alvo perde sua próxima ação se falhar no CD.|
+| Nome         | Escola        | Tipo     | Alcance | Duração     | Armas Permitidas | Acerto / CD                              | Dano                      | Descrição                                                                                                                                      | Alvos                      |
+| ------------ | ------------- | -------- | ------- | ----------- | ---------------- | ---------------------------------------- | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------- |
+| **Skjalfan** | Conjuration   | Action   | 30 ft   | 1 rodada    | —                | —                                        | Cada corvo 1d4 perfurante | Libera 3 corvos rúnicos que voam até silenciar inimigos (você escolhe até 3). Se um corvo atingir um inimigo silenciado, causa 1d4 de dano perfurante. | Até 3 inimigos silenciados |
+| **Tímaskur** | Transmutation | Reaction | 60 ft   | Instantâneo | —                | Sabedoria CD 8 + prof + CAR para sucesso | —                         | Reage a ação de um inimigo à distância. Se falhar no CD, ele perde a próxima ação.                                                                     | 1 alvo                     |
 
 ### 3º Círculo
 
-|Nome|Escola|Tempo|Alcance|Duração|Armas Permitidas|Ataque / CD|Efeito|
-|---|---|---|---|---|---|---|---|
-|**Vergrind**|Abjuração|1 ação|Próprio|1 minuto|—|—|Concede visão tripla: vantagem nos próximos 3 ataques, mas não pode usar outra runa durante a duração.|
+| Nome         | Escola     | Tipo   | Alcance | Duração  | Armas Permitidas | Acerto / CD | Dano / Efeito | Descrição                                                                                                                     | Alvos |
+| ------------ | ---------- | ------ | ------- | -------- | ---------------- | ----------- | ------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| **Vergrind** | Abjuration | Action | Self    | 4 turnos | —                | —           | —             | Você recebe “Visão Tripla”: vantagem nos seus próximos 3 ataques (dentro da duração), mas enquanto durar não pode ativar outra runa.  | Você  |
 
 ---
 
