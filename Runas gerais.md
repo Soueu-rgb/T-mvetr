@@ -97,7 +97,7 @@ _Armas Permitidas: Espadas Curtas_
 
 ### 2º Círculo
 
-| Nome        | Escola        | Tipo                                        | Alcance       | Duração                  | Acerto / CD                                  | Dano / Efeito                   | Descrição                                                                                                                                           | Alvos                           |
+| Nome        | Escola        | Tipo                                        | Alcance       | Duração                  | Acerto / CD                                  | Dano / Efeito                   | Descrição                                                                                                                                                   | Alvos                           |
 | ----------- | ------------- | ------------------------------------------- | ------------- | ------------------------ | -------------------------------------------- | ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
 | **Ignivar** | Evocation     | Reaction (trigger: acerto com espada curta) | Até 15 ft     | Instantâneo              | —                                            | 1d6 fogo                        | Quando você acerta um inimigo com espada curta, ativa uma fagulha que salta para um segundo alvo a até 5 ft dele, causando 1d6 de dano de fogo.             | 1 alvo adicional dentro de 5 ft |
 | **Lacera**  | Transmutation | Reaction (trigger: acerto com espada curta) | Corpo a corpo | Até estancar ou 4 turnos | Constituição CD 8 + prof + CON para estancar | Sangramento: 1d4 cortante/turno | Ao acertar, o alvo sofre sangramento: no fim de cada turno, faz CD ou toma 1d4 de dano cortante até usar ação para estancar (Teste de Sabedoria DC 8+prof). | 1 alvo                          |
@@ -173,7 +173,7 @@ _Armas Permitidas: Facas_
 
 ### 3º Círculo
 
-| Nome         | Escola    | Tipo                  | Alcance        | Duração      | Acerto / CD                               | Dano / Efeito                | Descrição                                                                                                                                             | Alvos                   |
+| Nome         | Escola    | Tipo                  | Alcance        | Duração      | Acerto / CD                               | Dano / Efeito                | Descrição                                                                                                                                                     | Alvos                   |
 | ------------ | --------- | --------------------- | -------------- | ------------ | ----------------------------------------- | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
 | **Nensho**   | Evocation | Reaction (ao atingir) | Corpo a corpo  | Até extinção | Destreza CD 8 + prof + DES para extinguir | 1d4 fogo/turno até extinguir | Ao acertar a faca, você incendeia o alvo: ele sofre 1d4 de dano de fogo no final de cada turno até usar ação para extinguir (Teste de Destreza DC 8+prof).    | Você escolhe até 1 alvo |
 | **Sazanami** | Evocation | Action                | 20 ft em linha | Instantâneo  | Destreza CD 8 + prof + DES para metade    | 1d6 cortante por alvo        | Lança um projétil rúnico em linha de 20 ft (largura 5 ft). Ele atinge o primeiro alvo e ricocheteia para até mais 2, causando 1d6 de dano cortante limitado)_ | Até 3 alvos em linha    |
@@ -252,7 +252,7 @@ _Armas Permitidas: Fuzis de Precisão_
 
 ---
 
-## 🥷 Katana
+## ﾒ Katana
 
 _Armas Permitidas: Katanas_
 
@@ -422,4 +422,46 @@ _Armas Permitidas: Revólveres_
 
 ---
 
-_N_
+
+## 🤺 Rapieira
+
+### 1º Círculo (4 Runas)
+
+| Nome                  | Escola        | Tempo        | Alcance       | Duração     | Acerto / CD                                  | Efeito                                                                                                                    |
+| --------------------- | ------------- | ------------ | ------------- | ----------- | -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| **Agulha Veloz**      | Transmutation | 1 ataque     | Corpo a corpo | Instantâneo | —                                            | Seu próximo ataque com rapieira ganha +1d4 perfurante.                                                                    |
+| **Estocada Fantasma** | Illusion      | Bônus Action | Próprio       | 1 turno     | Sabedoria CD 8 + prof + CAR para resistir    | Você executa uma estocada ilusória: o alvo faz CD ou sofre 1d4 cortante e não pode reagir até o fim do seu próximo turno. |
+| **Sangria Sílica**    | Necromancy    | Reaction     | Próprio       | 1 turno     | Constituição CD 8 + prof + CAR para estancar | Ao acertar, o alvo sangra: sofre 1 PV de dano perfurante no fim de cada turno até usar ação para estancar                 |
+| **Fio de Seda**       | Conjuration   | 1 ação       | Self (15 ft)  | 1 turno     | —                                            | Cria um fio fino de seda: área de 15 ft em linha; criaturas atravessando sofrem 1d4 de dano cortante.                     |
+
+---
+
+### 2º Círculo (4 Runas)
+
+| Nome                    | Escola        | Tempo    | Alcance        | Duração                   | Acerto / CD                                  | Efeito                                                                                                                                      |
+| ----------------------- | ------------- | -------- | -------------- | ------------------------- | -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Dança Letal**         | Transmutation | 1 ação   | Self (10 ft)   | Concentração até 4 turnos | —                                            | Você faz até 3 ataques de rapieira com +1 de bônus em cada, mas não pode se mover até o fim da ação.                                        |
+| **Refúgio de Seda**     | Abjuration    | Reaction | Self (5 ft)    | 1 turno                   | —                                            | Ao ser atingido, você invoca um escudo de seda que lhe concede +2 CA até o fim do turno.                                                    |
+| **Estocada Dupla**      | Evocation     | 1 ação   | 15 ft em linha | Instantâneo               | —                                            | Você dispara duas lâminas velozes: dois alvos em linha até 15 ft recebem seu ataque de rapieira normalmente.                                |
+| **Perfuração Venenosa** | Transmutation | 1 ação   | Corpo a corpo  | 4 turnos                  | Constituição CD 8 + prof + CAR para resistir | Você imbuí a lâmina com veneno mágico; acerto causa +1d4 de dano venenoso e o alvo faz o CD ou sofre desvantagem em salvar de Constituição. |
+
+---
+
+### 3º Círculo (4 Runas)
+
+| Nome                 | Escola        | Tempo        | Alcance     | Duração                   | Acerto / CD | Efeito                                                                                                                                 |
+| -------------------- | ------------- | ------------ | ----------- | ------------------------- | ----------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| **Arpão de Seda**    | Conjuration   | 1 ação       | 30 ft linha | Instantâneo               | —           | Lança um arpão de seda que puxa o primeiro alvo em até 10 ft até você e causa 1d6 perfurante.                                          |
+| **Manto de Agulhas** | Abjuration    | Bônus Action | Self (5 ft) | Concentração até 4 turnos | —           | Enquanto durar, qualquer criatura que te ataque corpo a corpo sofre 1d4 cortante.                                                      |
+| **Salto Ágil**       | Transmutation | Action       | Self        | 1 turno                   | —           | Você usa o fio de seda para se lançar: até 30 ft de deslocamento como parte da ação, podendo atravessar espaços ocupados.              |
+| **Lâmina Suspensa**  | Enchantment   | Reaction     | Self        | 1 turno                   | —           | Quando um inimigo falha ao te atacar, você pode usar a rapieira suspensa em um fio para atacar de volta: 1d6 cortante sem gastar ação. |
+
+---
+
+### 4º Círculo (3 Runas)
+
+| Nome                | Escola      | Tempo  | Alcance      | Duração                   | Acerto / CD                                | Efeito                                                                                                                                                        |
+| ------------------- | ----------- | ------ | ------------ | ------------------------- | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Teia Mortal**     | Conjuration | Action | 15 ft raio   | 1 turno                   | Destreza CD 8 + prof + DES para metade     | Cria uma teia mágica: criaturas na área sofrem 3d6 cortante e ficam Restritas (velocidade 0) até o fim do próximo turno; CD para meio dano e não ficar presa. |
+| **Dança Angelical** | Evocation   | Action | Self (15 ft) | Concentração até 4 turnos | —                                          | Por 1 min, você faz um ataque de rapieira extra como ataque bonus bônus em cada seu turno.                                                                    |
+| **Vórtice de Seda** | Evocation   | Action | 15 ft raio   | Instantâneo               | Constituição CD 8 + prof + CON para metade | Gira a lâmina criando um turbilhão de seda afiada: 4d6 cortante para todas as criaturas na área; sucesso no CD sofre metade.                                  |
