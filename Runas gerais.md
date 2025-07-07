@@ -425,7 +425,7 @@ _Armas Permitidas: Revólveres_
 
 ## 🤺 Rapieira
 
-### 1º Círculo (4 Runas)
+### 1º Círculo
 
 | Nome                  | Escola        | Tempo        | Alcance       | Duração     | Acerto / CD                                  | Efeito                                                                                                                    |
 | --------------------- | ------------- | ------------ | ------------- | ----------- | -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
@@ -436,7 +436,7 @@ _Armas Permitidas: Revólveres_
 
 ---
 
-### 2º Círculo (4 Runas)
+### 2º Círculo
 
 | Nome                    | Escola        | Tempo    | Alcance        | Duração                   | Acerto / CD                                  | Efeito                                                                                                                                      |
 | ----------------------- | ------------- | -------- | -------------- | ------------------------- | -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -447,7 +447,7 @@ _Armas Permitidas: Revólveres_
 
 ---
 
-### 3º Círculo (4 Runas)
+### 3º Círculo
 
 | Nome                 | Escola        | Tempo        | Alcance     | Duração                   | Acerto / CD | Efeito                                                                                                                                 |
 | -------------------- | ------------- | ------------ | ----------- | ------------------------- | ----------- | -------------------------------------------------------------------------------------------------------------------------------------- |
@@ -458,10 +458,4 @@ _Armas Permitidas: Revólveres_
 
 ---
 
-### 4º Círculo (3 Runas)
-
-| Nome                | Escola      | Tempo  | Alcance      | Duração                   | Acerto / CD                                | Efeito                                                                                                                                                        |
-| ------------------- | ----------- | ------ | ------------ | ------------------------- | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Teia Mortal**     | Conjuration | Action | 15 ft raio   | 1 turno                   | Destreza CD 8 + prof + DES para metade     | Cria uma teia mágica: criaturas na área sofrem 3d6 cortante e ficam Restritas (velocidade 0) até o fim do próximo turno; CD para meio dano e não ficar presa. |
-| **Dança Angelical** | Evocation   | Action | Self (15 ft) | Concentração até 4 turnos | —                                          | Por 1 min, você faz um ataque de rapieira extra como ataque bonus bônus em cada seu turno.                                                                    |
-| **Vórtice de Seda** | Evocation   | Action | 15 ft raio   | Instantâneo               | Constituição CD 8 + prof + CON para metade | Gira a lâmina criando um turbilhão de seda afiada: 4d6 cortante para todas as criaturas na área; sucesso no CD sofre metade.                                  |
+### 4º Círculo
