@@ -164,31 +164,31 @@ _Origem: Lágrima estelar_
 
 ### 1º Círculo
 
-|Nome|Escola|Tempo|Alcance|Duração|Armas Permitidas|Ataque / CD|Efeito|
-|---|---|---|---|---|---|---|---|
-|**Borealis**|Evocação|1 ação|30 pés|Instantâneo|—|—|Cria cortina de luz polar: **1d6 de dano de frio** em inimigos dentro de 10 pés e +1 de precisão em próximos ataques.|
-|**Cryoflux**|Transmutação|1 ação|60 pés linha|Instantâneo|—|—|Raio de gelo: **2d6 de dano de frio** e reduz CA do alvo em 1 até o fim do próximo turno.|
+| Nome         | Escola        | Tipo   | Alcance     | Duração     | Armas Permitidas | Acerto / CD                                | Dano / Efeito                           | Descrição & Ajuste                                                                                                                                                                                          | Alvos                   |
+| ------------ | ------------- | ------ | ----------- | ----------- | ---------------- | ------------------------------------------ | --------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| **Borealis** | Evocation     | Action | 30 ft       | Instantâneo | —                | Constituição CD 8 + prof + CON para metade | 1d6 cold; +1 precisão no próximo ataque | Uma aurora polar irrompe num raio de 10 ft centrado onde desejar. Falha no CD sofre dano total; sucesso metade. Enquanto estiver em área de luz (até seu próximo turno), você ganha +1 em jogada de ataque. | Todas criaturas na área |
+| **Cryoflux** | Transmutation | Action | 60 ft linha | Instantâneo | —                | Constituição CD 8 + prof + CON para metade | 2d6 cold.                               | Um raio de gelo corta numa linha de até 60 ft (largura 5 ft). Falha no CD sofre dano total; sucesso sofre metade de dano.                                                                                   | Cada criatura na linha  |
 
 ### 2º Círculo
 
-|Nome|Escola|Tempo|Alcance|Duração|Armas Permitidas|Ataque / CD|Efeito|
-|---|---|---|---|---|---|---|---|
-|**Drakkar**|Conjuração|1 ação|20 pés linha|Instantâneo|—|—|Invoca barco de gelo que avança 20 pés em linha, atropelando inimigos e causando **2d6 de dano perfurante**.|
-|**Estelombre**|Evocação|1 ação|30 pés|Instantâneo|—|—|Dispara 3 estrelas cristalinas (1d4 de dano de frio cada) que retornam ao usuário, acertando quem estiver no caminho.|
+| Nome           | Escola      | Tipo   | Alcance     | Duração     | Armas Permitidas | Acerto / CD                            | Dano / Efeito  | Descrição & Ajuste                                                                                                                                                                                                                                         | Alvos                           |
+| -------------- | ----------- | ------ | ----------- | ----------- | ---------------- | -------------------------------------- | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
+| **Drakkar**    | Conjuration | Action | 20 ft linha | Instantâneo | —                | —                                      | 2d6 perfurante | Invoca um barco de gelo que avança 20 ft em linha (largura 5 ft), atropelando inimigos. Cada criatura na linha faz CD de Força (8 + prof + FOR) para metade do dano; falha sofre dano total.                                                               | Criaturas na linha              |
+| **Estelombre** | Evocation   | Action | 30 ft       | Instantâneo | —                | Destreza CD 8 + prof + DES para metade | 3 × 1d4 cold   | Três estrelas cristalinas disparam a até 30 ft, atingindo até 3 alvos distintos (você escolhe). Cada alvo faz CD ou sofre dano total; sucesso metade. Após isso, as estrelas retornam e atingem novamente qualquer criatura no caminho (mesmo CD e dano).  | Até 3 alvos primários + retorno |
 
 ### 3º Círculo
 
-|Nome|Escola|Tempo|Alcance|Duração|Armas Permitidas|Ataque / CD|Efeito|
-|---|---|---|---|---|---|---|---|
-|**Frigus**|Transmutação|1 ação|Próprio|1 minuto|—|—|Mãos congeladas: +1 de dano em ataques rápidos e **1d4 de dano de frio** extra em cada acerto.|
-|**Glaciespira**|Conjuração|1 ação|20 pés raio|Instantâneo|—|Constituição CD 8+prof+Car|Vórtice de gelo: inimigos na área devem passar no CD ou serem sugados ao centro, sofrendo **2d6 de dano de frio**.|
+| Nome            | Escola       | Tempo  | Alcance     | Duração     | Armas Permitidas | Ataque / CD                | Efeito                                                                                                             |
+| --------------- | ------------ | ------ | ----------- | ----------- | ---------------- | -------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| **Frigus**      | Transmutação | 1 ação | Próprio     | 4 turnos    | —                | —                          | Mãos congeladas: +1 de dano em ataques rápidos e **1d4 de dano de frio** extra em cada acerto.                     |
+| **Glaciespira** | Conjuração   | 1 ação | 20 pés raio | Instantâneo | —                | Constituição CD 8+prof+Car | Vórtice de gelo: inimigos na área devem passar no CD ou serem sugados ao centro, sofrendo **2d6 de dano de frio**. |
 
 ### 4º Círculo
 
-|Nome|Escola|Tempo|Alcance|Duração|Armas Permitidas|Ataque / CD|Efeito|
-|---|---|---|---|---|---|---|---|
-|**Niveus**|Abjuração|1 ação|30 pés|1 minuto|—|—|Névoa de neve: dificulta visão, concedendo +2 de esquiva ao conjurador enquanto durar.|
-|**Polaria**|Encantamento|1 reação|Crítico|Instantâneo|—|Constituição CD 8+prof+Car|Ao acertar **crítico**, inimigos até 5 pés sofrem **1d6 de dano de frio** e ficam atordoados até o fim do próximo turno.|
+| Nome        | Escola       | Tempo    | Alcance | Duração     | Armas Permitidas | Ataque / CD                | Efeito                                                                                                                   |
+| ----------- | ------------ | -------- | ------- | ----------- | ---------------- | -------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| **Niveus**  | Abjuração    | 1 ação   | 30 pés  | 4 turnos    | —                | —                          | Névoa de neve: dificulta visão, concedendo +2 de CA ao conjurador enquanto durar.                                        |
+| **Polaria** | Encantamento | 1 reação | Crítico | Instantâneo | —                | Constituição CD 8+prof+Car | Ao acertar **crítico**, inimigos até 5 pés sofrem **1d6 de dano de frio** e ficam atordoados até o fim do próximo turno. |
 
 ---
 
