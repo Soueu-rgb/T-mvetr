@@ -58,18 +58,16 @@ _┫➃ⓖ★↖ inclina-se para trás, os bigodes vibrando em aprovação, como
 
 ## ✧ Tabela de Armaduras ✧
 
-|**Nome**|**Tipo / Raritas**|**Aparência**|**CA**|**Requisito**|**Preço (mín/máx)**|**PF**|**PF Maestria**|**Debuff Circunstancial**|**Comentário de ┫➃ⓖ★↖**|
-|---|---|---|---|---|---|---|---|---|---|
-|**Lorica Pellis**|Levis / Vulgare|Couro cru com costuras simples|11 + DES|DES 10, Prof. armadura leve|80 / 130|—|—|Chuva forte: desvantagem furt.|_Bom para treinar, mas não conte com ela em combate sério._|
-|**Scutum Communis**|Singularis / Vulgare|Madeira rústica, pintura gasta|+1 AC|FOR 8, Prof. com escudo|5 / 15|—|—|Lama: deslocamento –1,5 m|_Barato, mas madeira não para lâminas afiadas._|
-|**Camisa de Malha**|Media / Vulgare|Anéis de ferro entrelaçados|12 + DES (máx 2)|FOR 10, Prof. armadura média|170 / 220|—|—|Gelo ruim: –1 em Atletismo|_Cada anel pesa como preocupação na mente._|
-|**Peitoral de Bronze**|Media / Vulgare|Placas simples de bronze|13 + DES (máx 2)|FOR 11, Prof. armadura média|200 / 270|—|—|Calor: bronze esquenta (+1 dano fogo)|_Elegante, mas o calor será seu inimigo._|
-|**Pelagra da Neve**|Levis / Inusitata|Pelos brancos com runas sutis|12 + DES|DES 12|380 / 460|1|3|Umidade intensa: –1 CA|_Bonita, mas runas tremulam com a umidade._|
-|**Colete Rúnico Leve**|Levis / Inusitata|Couro com entalhes de runas|12 + DES|DES 13, PF 1, Prof. armadura leve|420 / 500|1|3|Lama: –1 Furtividade|_Runas interessantes, mas perdem o brilho na lama._|
-|**Cota de Malha Leve**|Media / Inusitata|Anéis rúnicos finos|14 + DES (máx 2)|FOR 12, PF 1, Prof. armadura média|470 / 530|1|3|Gelo: –1 Deslocamento|_Reforça, mas o frio ainda te persegue._|
-|**Scutum Argenteum**|Singularis / Inusitata|Aço prateado com relevo rúnico|+2 AC|FOR 10, PF 1, Prof. com escudo|450 / 560|1|3|Lama/areia: chance 1/6 de escorregar|_Brilha como lua cheia, mas cuidado ao escorregar._|
-|**Lorica Squamulae**|Media / Inusitata|Escamas de bronze acinzentado|14 + DES (máx 2)|FOR 13, PF 1, Prof. armadura média|370 / 460|1|3|Chuva forte: –1 CA|_Escamas firmes, mas gotas pesadas amolecem o coração._|
-|**Baucum Bronzearum**|Singularis / Inusitata|Escudo redondo de bronze simples|+1 AC|FOR 9, Prof. com escudo|100 / 140|1|3|Lama: deslocamento –1,5 m|_Robusto, mas lama não pede passagem._|
+|Nome|Categoria|CA|Requisito|Custo|Peso|Comentário|
+|---|---|---|---|---|---|---|
+|Couro Cru|Light Armor|11 + Destreza|Prof. em armadura leve|10 po|8 lb|Barata e confortável, pouca proteção.|
+|Malha Simples|Light Armor|12 + Destreza|Prof. em armadura leve|20 po|13 lb|Anéis de couro com reforço metálico.|
+|Armadura de Pelica|Light Armor|12 + Destreza|Prof. em armadura leve|25 po|15 lb|Couro endurecido, proteção ligeiramente maior.|
+|Couro Estudado|Light Armor|12 + Destreza|Prof. em armadura leve|45 po|13 lb|Reforços metálicos, +1 CA extra.|
+|Armadura de Placas Rústica (Hide)|Medium Armor|12 + Destreza (máx 2)|Prof. em armadura média|10 po|12 lb|Escamas de couro rígido, moderada proteção.|
+|Cota de Malha|Medium Armor|13 + Destreza (máx 2)|Prof. em armadura média|75 po|20 lb|Anéis de ferro entrelaçados.|
+|Peitoral de Ferro|Medium Armor|14 + Destreza (máx 2)|Prof. em armadura média|100 po|25 lb|Placas metálicas simples.|
+|Escudo Rústico|Shield|+2 CA|Prof. com escudo|10 po|6 lb|Madeira comum, útil mas vulnerável.|
 
 ---
 
