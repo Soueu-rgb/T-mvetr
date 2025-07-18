@@ -132,10 +132,11 @@ _Armas Permitidas: Facas_
 
 ### 2º Círculo
 
-| Nome       | Escola        | Tipo   | Alcance       | Duração                   | Acerto / CD                               | Dano / Efeito | Descrição                                                                                                   | Alvos  |
-| ---------- | ------------- | ------ | ------------- | ------------------------- | ----------------------------------------- | ------------- | ------------------------------------------------------------------------------------------------------------------- | ------ |
-| **Kora**   | Transmutation | Action | Corpo a corpo | Concentração até 4 turnos | —                                         | Reduz CA em 1 | Ao atingir, você impõe uma fratura mística: o alvo sofre –1 na CA até o fim do combate ou até usar ação para curar. | 1 alvo |
-| **Myrkra** | Illusion      | Action | 15 ft         | 1 turno                   | Sabedoria CD 8 + prof + CAR para resistir | +2 de CA      | Cria uma ilusão perturbadora ao redor do alvo: enquanto acreditar na ilusão, ele ganha +2 de CA neste turno.        | 1 alvo |
+| Nome             | Escola        | Tipo         | Alcance       | Duração                   | Acerto / CD                               | Dano / Efeito       | Descrição                                                                                                           | Alvos  |
+| ---------------- | ------------- | ------------ | ------------- | ------------------------- | ----------------------------------------- | ------------------- | ------------------------------------------------------------------------------------------------------------------- | ------ |
+| **Kora**         | Transmutation | Action       | Corpo a corpo | Concentração até 4 turnos | —                                         | Reduz CA em 1       | Ao atingir, você impõe uma fratura mística: o alvo sofre –1 na CA até o fim do combate ou até usar ação para curar. | 1 alvo |
+| **Myrkra**       | Illusion      | Action       | 15 ft         | 1 turno                   | Sabedoria CD 8 + prof + CAR para resistir | +2 de CA            | Cria uma ilusão perturbadora ao redor do alvo: enquanto acreditar na ilusão, ele ganha +2 de CA neste turno.        | 1 alvo |
+| **Volito Telum** | Transmutação  | Bonus Action | Self          | Instantaneo               | Primeiro ataque em combate                | Acerto com vantagem | Teleporte de até 10 ft antes do ataque; o primeiro ataque ganha vantagem.                                           | 1 alvo |
 
 ### 3º Círculo
 
