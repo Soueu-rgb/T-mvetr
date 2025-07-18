@@ -55,7 +55,7 @@ Todos os personagens começam com **4 em cada atributo** e podem distribuir **+4
 
 ## ⚔️ Classes e Subclasses
 
-> *Caminhos moldados pela lâmina, pela runa ou pelo sussurro.*
+> *Caminhos moldados pela lâmina, pela runa ou pelo sussurro. (Não afetam o combate)*
 
 ### 1. **Melee Físico (Corpo a Corpo)**
 

@@ -128,9 +128,9 @@ _Origem: Luz pura traída_
 
 ### 2º Círculo
 
-| Nome          | Escola        | Tipo   | Alcance    | Duração     | Armas Permitidas | Acerto / CD                               | Dano / Efeito                                                  | Descrição & Ajuste                                                                                                                                                 | Alvos             |
-| ------------- | ------------- | ------ | ---------- | ----------- | ---------------- | ----------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- |
-| **Discordia** | Abjuration    | Action | 20 ft raio | 1 turno     | —                | Sabedoria CD 8 + prof + CAR para resistir | Não podem conjurar magias enquanto durar (1 turno)             | Um pulso de silêncio absoluto envolve a área. Quem falhar no CD fica impedido de conjurar runas até o fim do próximo turno.                                        | Criaturas na área |
+| Nome          | Escola     | Tipo   | Alcance    | Duração | Armas Permitidas | Acerto / CD                               | Dano / Efeito                                      | Descrição & Ajuste                                                                                                          | Alvos             |
+| ------------- | ---------- | ------ | ---------- | ------- | ---------------- | ----------------------------------------- | -------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| **Discordia** | Abjuration | Action | 20 ft raio | 1 turno | —                | Sabedoria CD 8 + prof + CAR para resistir | Não podem conjurar magias enquanto durar (1 turno) | Um pulso de silêncio absoluto envolve a área. Quem falhar no CD fica impedido de conjurar runas até o fim do próximo turno. | Criaturas na área |
 
 
 ### 3º Círculo
@@ -142,10 +142,10 @@ _Origem: Luz pura traída_
 
 ### 4º Círculo
 
-| Nome          | Escola     | Tipo   | Alcance | Duração                   | Armas Permitidas | Acerto / CD                               | Dano / Efeito                     | Descrição & Ajuste                                                                                                                                | Alvos  |
-| ------------- | ---------- | ------ | ------- | ------------------------- | ---------------- | ----------------------------------------- | --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
-| **Harmonia**  | Abjuration | Action | Self    | Concentração até 4 turnos | —                | —                                         | +2 CA; +2 em resistência a magias | Uma aura de luz equilibrada envolve você. Enquanto durar, você recebe +2 de bônus à CA e +2 em testes de resistência contra magia.                | Você   |
-| **Ignisvera** | Evocation  | Action | Touch   | Instantâneo               | —                | Sabedoria CD 8 + prof + CAR para resistir | 2d6 fogo + remove 1 buff          | Seu toque inflama a essência do alvo: ele sofre 2d6 de dano de fogo; em seguida faz CD ou perde um efeito benéfico (buff) ativo de até 1º nível.  | 1 alvo |
+| Nome          | Escola     | Tipo   | Alcance | Duração                   | Armas Permitidas | Acerto / CD                               | Dano / Efeito                     | Descrição & Ajuste                                                                                                                               | Alvos  |
+| ------------- | ---------- | ------ | ------- | ------------------------- | ---------------- | ----------------------------------------- | --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | ------ |
+| **Harmonia**  | Abjuration | Action | Self    | Concentração até 4 turnos | —                | —                                         | +2 CA; +2 em resistência a magias | Uma aura de luz equilibrada envolve você. Enquanto durar, você recebe +2 de bônus à CA e +2 em testes de resistência contra magia.               | Você   |
+| **Ignisvera** | Evocation  | Action | Touch   | Instantâneo               | —                | Sabedoria CD 8 + prof + CAR para resistir | 2d6 fogo + remove 1 buff          | Seu toque inflama a essência do alvo: ele sofre 2d6 de dano de fogo; em seguida faz CD ou perde um efeito benéfico (buff) ativo de até 1º nível. | 1 alvo |
 
 ### 5º Círculo
 
