@@ -701,9 +701,9 @@ _Origem: Vazio absoluto_
 
 ### 1º Círculo
 
-|Nome|Escola|Tipo|Alcance|Duração|Armas Permitidas|Acerto / CD|Efeito|
-|---|---|---|---|---|---|---|---|
-|**Abyssus**|Evocation|Action|30 ft|1 turno|—|Constituição CD 8 + prof + CON para metade|Cria área de vazio num raio de 15 ft: falha no CD sofre 2d6 necrotic e não pode ser curado enquanto permanecer na área.|
+| Nome        | Escola    | Tipo   | Alcance | Duração | Armas Permitidas | Acerto / CD                                | Efeito                                                                                                                  |
+| ----------- | --------- | ------ | ------- | ------- | ---------------- | ------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------- |
+| **Abyssus** | Evocation | Action | 30 ft   | 1 turno | —                | Constituição CD 8 + prof + CON para metade | Cria área de vazio num raio de 15 ft: falha no CD sofre 2d6 necrotic e não pode ser curado enquanto permanecer na área. |
 
 ---
 

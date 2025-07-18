@@ -13,40 +13,6 @@
 |9º|38|
 
 ---
-## ⚙️ Correntes
-
-_Armas Permitidas: Correntes_
-
-### 1º Círculo
-
-|Nome|Escola|Tempo|Alcance|Duração|Ataque / CD|Efeito|
-|---|---|---|---|---|---|---|
-|**Dodan**|Transmutação|1 ação|Toque|1 minuto|—|+1d4 de dano contundente em cada acerto.|
-|**Kiban**|Abjuração|1 ação|Próprio|Até ativar|—|Crítico derruba alvo (prone).|
-
-### 2º Círculo
-
-|Nome|Escola|Tempo|Alcance|Duração|Ataque / CD|Efeito|
-|---|---|---|---|---|---|---|
-|**Furimuku**|Abjuração|1 ação|30 pés|Instantâneo|Sab CD 8+prof.+Car|1d6 perfurante a até 2 alvos numa linha.|
-|**Ketsuin**|Encantamento|1 ação|15 pés|1 minuto|Sab CD 8+prof.+Car|Falha no CD: imobilizado pela corrente psíquica.|
-
-### 3º Círculo
-
-|Nome|Escola|Tempo|Alcance|Duração|Ataque / CD|Efeito|
-|---|---|---|---|---|---|---|
-|**Kozui**|Conjuração|1 ação|20 pés|1 rodada|—|Puxa inimigos até 10 pés sem teste.|
-|**Rensa**|Evocação|1 ação|Próprio|1 rodada|—|Transfere 50% do dano recebido ao atacante mais próximo.|
-
-### 4º Círculo
-
-|Nome|Escola|Tempo|Alcance|Duração|Ataque / CD|Efeito|
-|---|---|---|---|---|---|---|
-|**Shinzoku**|Abjuração|1 bônus de ação|Próprio|Instantâneo|—|Compartilha metade do dano recebido entre você e um aliado.|
-|**Soko**|Transmutação|1 ação|Toque|1 minuto|—|Redireciona um crítico recebido para quem escolher.|
-|**Tekketsu**|Abjuração|1 ação|Próprio|1 hora|—|Concede resistência a perfurante e contundente +2 por 1 hora.|
-
----
 
 ## 🛡️ Escudos
 
@@ -193,30 +159,30 @@ _Armas Permitidas: Facas Duplas_
 
 ### 1º Círculo
 
-|Nome|Escola|Tempo|Alcance|Duração|Ataque / CD|Efeito|
-|---|---|---|---|---|---|---|
-|**Aetheris**|Evocação|1 ação|15 pés|Instantâneo|—|Vapor Letal: causa 1d4 de dano cortante a até 3 alvos.|
-|**Cruor**|Abjuração|1 ação|Corpo a corpo|1 rodada|—|Sifão de Sangue: regenera 1 PV por 2 pontos de dano infligido (máx 5).|
+| Nome         | Escola     | Tipo   | Alcance      | Duração                  | Acerto / CD                                | Dano / Efeito                                                                                                                       |
+| ------------ | ---------- | ------ | ------------ | ------------------------ | ------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
+| **Aetheris** | Evocation  | Action | 15 ft        | Instantâneo              | Constituição CD 8 + prof + CON para metade | Vapor Letal: dispara gotículas cortantes num cone de 15 ft. Falha no CD sofre 1d4 slashing; sucesso metade. (até 3 alvos distintos) |
+| **Cruor**    | Abjuration | Action | Self (melee) | Concentração até 1 turno | —                                          | Sifão de Sangue: enquanto durar, toda vez que você infligir dano, regenera 1 PV a cada 2 pontos de dano (máx 5 PV).                 |
 
 ### 2º Círculo
 
-|Nome|Escola|Tempo|Alcance|Duração|Ataque / CD|Efeito|
-|---|---|---|---|---|---|---|
-|**Fissura**|Transmutação|1 ação|10 pés|Instantâneo|—|Racha Vontades: falha no Sab CD sofre 1d6 de dano psíquico e desvantagem em ataques.|
-|**Reflexus**|Abjuração|1 ação|5 pés|1 minuto|—|Espelho Intencional: reflete metade do dano mágico recebido de volta ao conjurador.|
+| Nome         | Escola        | Tipo     | Alcance | Duração                   | Acerto / CD                               | Dano / Efeito                                                                                                     |
+| ------------ | ------------- | -------- | ------- | ------------------------- | ----------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| **Fissura**  | Transmutation | Action   | 10 ft   | Instantâneo               | Sabedoria CD 8 + prof + CAR para resistir | Racha Vontades: falha no CD sofre 1d6 psychic e desvantagem em ataques até o fim do próximo turno.                |
+| **Reflexus** | Abjuration    | Reaction | 5 ft    | Concentração até 4 turnos | —                                         | Espelho Intencional: ao receber dano mágico, reflete metade de volta ao conjurador enquanto durar a Concentração. |
 
 ### 3º Círculo
 
-|Nome|Escola|Tempo|Alcance|Duração|Ataque / CD|Efeito|
-|---|---|---|---|---|---|---|
-|**Insania**|Encantamento|1 ação|Corpo a corpo|1 rodada|Sab CD 8+prof.+Car|Grito Interior: alvo sofre medo e 1d4 de dano psíquico toda vez que agir.|
-|**Umbra**|Ilusão|1 ação|15 pés|1 minuto|Sab CD 8+prof.+Car|Sombra Dupla: clones sombrios causam 1d4 de dano necrótico ao atacar com você.|
+| Nome        | Escola      | Tipo   | Alcance | Duração                | Acerto / CD                 | Dano / Efeito                                                                                                |
+| ----------- | ----------- | ------ | ------- | ---------------------- | --------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| **Insania** | Enchantment | Action | Melee   | 1 turno                | Sabedoria CD 8 + prof + CAR | Grito Interior: falha no CD fica frightened; sempre que agir sofre 1d4 psychic.                              |
+| **Umbra**   | Illusion    | Action | 15 ft   | Concentração até 1 min | Sabedoria CD 8 + prof + CAR | Sombra Dupla: cria clones sombrios que atacam junto; cada ataque bem‑sucedido causa +1d4 necrotic adicional. |
 
 ### 4º Círculo
 
-|Nome|Escola|Tempo|Alcance|Duração|Ataque / CD|Efeito|
-|---|---|---|---|---|---|---|
-|**Velox**|Transmutação|1 bônus|Próprio|1 rodada|—|Vento Cortante: +10 pés deslocamento; primeiro ataque atinge dois alvos adjacentes.|
+| Nome      | Escola        | Tipo         | Alcance | Duração | Armas Permitidas | Acerto / CD | Dano / Efeito                                                                                      |
+| --------- | ------------- | ------------ | ------- | ------- | ---------------- | ----------- | -------------------------------------------------------------------------------------------------- |
+| **Velox** | Transmutation | Bonus Action | Self    | 1 turno | Facas Duplas     | —           | Vento Cortante: +10 ft deslocamento; seu primeiro ataque neste turno atinge dois alvos adjacentes. |
 
 ---
 
@@ -226,63 +192,29 @@ _Armas Permitidas: Fuzis de Precisão_
 
 ### 1º Círculo
 
-| Nome      | Escola     | Tipo   | Alcance | Duração | Acerto / CD | Dano / Efeito                 | Descrição                                                                  | Alvos  |
+| Nome      | Escola     | Tipo   | Alcance | Duração | Acerto / CD | Dano / Efeito                 | Descrição                                                                          | Alvos  |
 | --------- | ---------- | ------ | ------- | ------- | ----------- | ----------------------------- | ---------------------------------------------------------------------------------- | ------ |
-| **Augna** | Abjuration | Action | 120 ft  | 1 turno | —           | Ignora cobertura leve e média | Você mira através de obstáculos menores. Seu ataque ignora cobertura leve e média. | 1 alvo |
+| **Augna** | Abjuration | Action | 120 ft  | 1 turno | —           | Ignora cobertura leve e média | Você mira através de obstáculos menores. Seu ataque ignora cobertura leve e média. | 1 alvo |
 
 ### 2º Círculo
 
-| Nome          | Escola     | Tipo   | Alcance     | Duração     | Acerto / CD                                            | Dano / Efeito              | Descrição                                                                                                                          | Alvos                |
-| ------------- | ---------- | ------ | ----------- | ----------- | ------------------------------------------------------ | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | -------------------- |
-| **Djúprautt** | Necromancy | Action | 60 ft       | 1 turno     | —                                                      | +1d4 perfurante + necrotic | Ao atingir, a bala drena a essência vital: além do dano normal, acresce 1d4 de dano necrotic.                                              | 1 alvo               |
-| **Fjall**     | Evocation  | Action | 90 ft linha | Instantâneo | Destreza CD 8 + prof + CAR para metade do segundo alvo | Metade do dano principal   | Um disparo perfurante ricocheteia: atinge o alvo primário normalmente e um segundo alvo na linha até 90 ft faz CD ou sofre metade do dano. | Até 2 alvos na linha |
+| Nome          | Escola     | Tipo   | Alcance     | Duração     | Acerto / CD                                       | Dano / Efeito              | Descrição                                                                                                                   | Alvos                |
+| ------------- | ---------- | ------ | ----------- | ----------- | ------------------------------------------------- | -------------------------- | --------------------------------------------------------------------------------------------------------------------------- | -------------------- |
+| **Djúprautt** | Necromancy | Action | 60 ft       | 1 turno     | —                                                 | +1d4 perfurante + necrotic | Ao atingir, a bala drena a essência vital: além do dano normal, acresce 1d4 de dano necrotic.                               | 1 alvo               |
+| **Fjall**     | Evocation  | Action | 90 ft linha | Instantâneo | Destreza CD 8 + prof + CAR para metade do 2º alvo | Metade do dano principal   | Um disparo perfurante ricocheteia: atinge o alvo primário normalmente e um 2º alvo na linha faz CD ou sofre metade do dano. | Até 2 alvos na linha |
 
 ### 3º Círculo
 
-| Nome       | Escola        | Tipo   | Alcance | Duração                   | Acerto / CD                                 | Dano / Efeito                       | Descrição                                                                                                                                                                               | Alvos  |
-| ---------- | ------------- | ------ | ------- | ------------------------- | ------------------------------------------- | ----------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
-| **Frysta** | Transmutation | Action | 60 ft   | 1 turno                   | Constituição CD 8 + prof + CAR para sucesso | 1d6 cold + paralisado (falha)       | Você dispara um projétil congelante. Falha no CD, sofre 1d6 cold e fica paralisado até o fim do próximo turno; sucesso sofre metade do dano e não paralisa.                             | 1 alvo |
-| **Glòfar** | Abjuration    | Action | 30 ft   | Concentração até 4 turnos | —                                           | -1d4 em salvamentos contra controle | Marca a alma do alvo: enquanto durar a concentração, sempre que ele fizer um teste de resistência contra efeitos de controle (paralisia, medo etc.), rolhe 1d4 e subtraia do resultado. | 1 alvo |
+| Nome       | Escola        | Tipo   | Alcance | Duração                   | Acerto / CD                                 | Dano / Efeito                       | Descrição                                                                                                                                                 | Alvos  |
+| ---------- | ------------- | ------ | ------- | ------------------------- | ------------------------------------------- | ----------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| **Frysta** | Transmutation | Action | 60 ft   | 1 turno                   | Constituição CD 8 + prof + CAR para sucesso | 1d6 cold + paralisado (falha)       | Você dispara um projétil congelante. Falha no CD sofre 1d6 cold e fica paralisado até o fim do próximo turno; sucesso metade do dano.                     | 1 alvo |
+| **Glòfar** | Abjuration    | Action | 30 ft   | Concentração até 4 turnos | —                                           | –1d4 em salvamentos contra controle | Marca a alma do alvo: enquanto durar, sempre que ele fizer teste de resistência contra controle (paralisia, medo etc.), role 1d4 e subtraia do resultado. | 1 alvo |
 
 ### 4º Círculo
 
-| Nome        | Escola    | Tipo   | Alcance | Duração     | Acerto / CD | Dano / Efeito                  | Descrição                                                                               | Alvos  |
-| ----------- | --------- | ------ | ------- | ----------- | ----------- | ------------------------------ | ----------------------------------------------------------------------------------------------- | ------ |
-| **Stjarna** | Evocation | Action | 120 ft  | Instantâneo | —           | 2d6 radiant (ignora cobertura) | Um disparo de luz pura irradia do cano. Causa 2d6 de dano radiant e ignora qualquer cobertura.  | 1 alvo |
-
----
-
-## ﾒ Katana
-
-_Armas Permitidas: Katanas_
-
-### 1º Círculo
-
-|Nome|Escola|Tempo|Alcance|Duração|Ataque / CD|Efeito|
-|---|---|---|---|---|---|---|
-|**Akari**|Evocação|1 ação|Corpo a corpo|Instantâneo|—|Cegueira por 1 rodada (falha no Con CD).|
-|**Fushin**|Transmutação|1 ação|Corpo a corpo|1 rodada|—|Elemental aleatório: +1d4 de dano de fogo/frio/perfurante.|
-
-### 2º Círculo
-
-|Nome|Escola|Tempo|Alcance|Duração|Ataque / CD|Efeito|
-|---|---|---|---|---|---|---|
-|**Kagetsu**|Ilusão|1 ação|30 pés|1 rodada|Sab CD 8+prof.+Car|Duplica imagem: inimigos atacam a ilusão (falha no CD).|
-|**Kurai**|Abjuração|1 ação|Corpo a corpo|1 minuto|—|Invisibilidade até o próximo ataque.|
-
-### 3º Círculo
-
-|Nome|Escola|Tempo|Alcance|Duração|Ataque / CD|Efeito|
-|---|---|---|---|---|---|---|
-|**Mugen**|Abjuração|1 bônus|Próprio|1 rodada|—|Dura indefinidamente: arma nunca quebra e causa +1d4 perfurante.|
-|**Yurei**|Ilusão|1 ação|30 pés|1 rodada|—|Teleporta você 5 pés atrás do alvo após o ataque, causando 1d6 necrótico.|
-
-### 4º Círculo
-
-|Nome|Escola|Tempo|Alcance|Duração|Ataque / CD|Efeito|
-|---|---|---|---|---|---|---|
-|**Shiori**|Abjuração|Reação|5 pés|Instantâneo|—|Contra-ataque silencioso e não provoca reação de outros inimigos.|
-|**Tetsu**|Abjuração|1 ação|Corpo a corpo|1 minuto|—|Resistência a perfurante e contundente por 1 minuto.|
+| Nome        | Escola    | Tipo   | Alcance | Duração     | Acerto / CD | Dano / Efeito                  | Descrição                                                                                      | Alvos  |
+| ----------- | --------- | ------ | ------- | ----------- | ----------- | ------------------------------ | ---------------------------------------------------------------------------------------------- | ------ |
+| **Stjarna** | Evocation | Action | 120 ft  | Instantâneo | —           | 2d6 radiant (ignora cobertura) | Um disparo de luz pura irradia do cano. Causa 2d6 de dano radiant e ignora qualquer cobertura. | 1 alvo |
 
 ---
 
@@ -292,31 +224,31 @@ _Armas Permitidas: Espingardas_
 
 ### 1º Círculo
 
-|Nome|Escola|Tempo|Alcance|Duração|Ataque / CD|Efeito|
-|---|---|---|---|---|---|---|
-|**Bruma**|Evocação|1 ação|30 pés|1 rodada|—|Dispara cartucho etéreo: névoa encobre área de 10 pés, concedendo vantagem em Furtividade.|
-|**Tremor**|Transmutação|1 ação|15 pés raio|Instantâneo|—|Disparo concussivo: inimigos na área sofrem 1d6 de dano contundente e devem passar em Con CD 8+prof.+Car para não cair prone.|
+| Nome       | Escola        | Tipo   | Alcance    | Duração     | Acerto / CD                                | Dano / Efeito                                                          | Descrição                                                                                                                                                                           | Alvos             |
+| ---------- | ------------- | ------ | ---------- | ----------- | ------------------------------------------ | ---------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| **Bruma**  | Evocation     | Action | 30 ft      | 1 turno     | —                                          | Cria névoa; vantagem em Furtividade para quem estiver dentro           | Dispara um cartucho etéreo que gera uma névoa densa num raio de 10 ft centrado onde você escolher. Aliados ganham vantagem em testes de Furtividade enquanto permanecerem na névoa. | Aliados na névoa  |
+| **Tremor** | Transmutation | Action | 15 ft raio | Instantâneo | Constituição CD 8 + prof + CAR para metade | 1d6 bludgeoning; falha cai prone; sucesso sofre metade e não cai prone | Um disparo concussivo emana do cano. Criaturas na área fazem CD ou sofrem o dano total e ficam prone; em sucesso sofrem metade do dano, sem prone.                                  | Criaturas na área |
 
 ### 2º Círculo
 
-|Nome|Escola|Tempo|Alcance|Duração|Ataque / CD|Efeito|
-|---|---|---|---|---|---|---|
-|**Chama Viva**|Evocação|1 ação|25 pés|Instantâneo|—|Cartucho flamejante causa 2d6 de dano de fogo em cone de 15 pés.|
-|**Ricochete**|Ilusão|1 ação|60 pés|Instantâneo|—|Projétil fantasmal ricocheteia em até 2 alvos adicionais, causando 1d6 perfurante cada.|
+| Nome           | Escola    | Tipo   | Alcance    | Duração     | Acerto / CD                            | Dano / Efeito         | Descrição                                                                                                                              | Alvos                 |
+| -------------- | --------- | ------ | ---------- | ----------- | -------------------------------------- | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | --------------------- |
+| **Chama Viva** | Evocation | Action | 25 ft cone | Instantâneo | Destreza CD 8 + prof + DES para metade | 2d6 fire              | Você dispara um cartucho flamejante num cone de 15 ft de comprimento. Criaturas na área fazem CD ou sofrem dano total; sucesso metade. | Criaturas no cone     |
+| **Ricochete**  | Illusion  | Action | 60 ft      | Instantâneo | —                                      | 1d6 piercing por alvo | Um disparo fantasmal salta até três alvos distintos dentro de 60 ft; cada alvo sofre 1d6 de dano perfurante.                           | Até 3 alvos distintos |
 
 ### 3º Círculo
 
-|Nome|Escola|Tempo|Alcance|Duração|Ataque / CD|Efeito|
-|---|---|---|---|---|---|---|
-|**Carga Rápida**|Abjuração|Bônus|Próprio|1 rodada|—|Recarrega a espingarda como ação bônus e concede +2 em ataque desse disparo.|
-|**Ondulação**|Transmutação|1 ação|30 pés|1 rodada|—|Dispara tiro em ondas: inimigos numa linha de 30 pés sofrem 2d4 de dano perfurante e são empurrados 5 pés.|
+| Nome             | Escola        | Tipo         | Alcance | Duração | Acerto / CD                                | Dano / Efeito                                                                        | Descrição                                                                                                                                                                           | Alvos              |
+| ---------------- | ------------- | ------------ | ------- | ------- | ------------------------------------------ | ------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| **Carga Rápida** | Abjuration    | Bonus Action | Self    | 1 turno | —                                          | +2 no ataque do próximo disparo                                                      | Como ação bônus, você recarrega instantaneamente e ganha +2 de bônus no ataque deste disparo.                                                                                       | Você               |
+| **Ondulação**    | Transmutation | Action       | 30 ft   | 1 turno | Constituição CD 8 + prof + CAR para metade | 2d4 piercing + empurra 5 ft (falha no CD sofre ambos; sucesso sofre metade sem push) | Um tiro em onda de choque percorre uma linha de até 30 ft (largura 5 ft). Criaturas na linha fazem CD: falha sofrem o dano total e são empurradas 5 ft; sucesso metade e não movem. | Criaturas na linha |
 
 ### 4º Círculo
 
-|Nome|Escola|Tempo|Alcance|Duração|Ataque / CD|Efeito|
-|---|---|---|---|---|---|---|
-|**Estouro**|Evocação|1 ação|10 pés bola|Instantâneo|Constituição CD 8+prof.+Car|Disparo explosivo: 3d6 de dano concussão em bola de 10 pés (metade no sucesso do CD).|
-|**Vórtice**|Conjuração|1 ação|20 pés|1 rodada|—|Cartucho gravitacional: cria vórtice que prende inimigos (Força CD 8+prof.+Car para escapar).|
+| Nome        | Escola      | Tipo   | Alcance      | Duração     | Acerto / CD                                | Dano / Efeito | Descrição                                                                                                                           | Alvos               |
+| ----------- | ----------- | ------ | ------------ | ----------- | ------------------------------------------ | ------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------- |
+| **Estouro** | Evocation   | Action | 10 ft esfera | Instantâneo | Constituição CD 8 + prof + CAR para metade | 3d6 thunder   | Dispara um cartucho explosivo. Criaturas no raio fazem CD: falha sofrem dano total; sucesso metade.                                 | Criaturas na esfera |
+| **Vórtice** | Conjuration | Action | 20 ft raio   | 1 turno     | Força CD 8 + prof + FOR para escapar       | —             | Cria um vórtice gravitacional num raio de 20 ft. Criaturas fazem CD: falha ficam imobilizadas até o fim do turno; sucesso resistem. | Criaturas na área   |
 
 ---
 
@@ -326,31 +258,31 @@ _Armas Permitidas: Machados Duplos_
 
 ### 1º Círculo
 
-| Nome          | Escola    | Tempo        | Alcance       | Duração     | Ataque / CD              | Efeito                                                                  |
-| ------------- | --------- | ------------ | ------------- | ----------- | ------------------------ | ----------------------------------------------------------------------- |
-| **Estilhaço** | Evocação  | 1 ação bônus | Corpo a corpo | Instantâneo | —                        | Cada acerto gera fragmentos cortantes: +1d4 de dano cortante adicional. |
-| **Brado**     | Abjuração | 1 ação       | 10 pés raio   | 1 rodada    | Sabedoria CD 8+prof.+Car | Grito retumba: falha no CD fica amedrontado por 1 rodada.               |
+| Nome          | Escola     | Tipo         | Alcance       | Duração     | Acerto / CD                               | Dano / Efeito | Descrição                                                                                                                                 | Alvos             |
+| ------------- | ---------- | ------------ | ------------- | ----------- | ----------------------------------------- | ------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| **Estilhaço** | Evocation  | Bonus Action | Corpo a corpo | Instantâneo | —                                         | +1d4 slashing | Cada vez que você acertar com um machado duplo, fragmentos cortantes se dispersam, causando 1d4 de dano cortante adicional ao mesmo alvo. | Você (acerto)     |
+| **Brado**     | Abjuration | Action       | 10 ft raio    | 1 turno     | Sabedoria CD 8 + prof + CAR para resistir | —             | Um grito retumbante ecoa: criaturas na área que falharem no CD ficam frightened até o fim do seu próximo turno.                           | Criaturas na área |
 
 ### 2º Círculo
 
-|Nome|Escola|Tempo|Alcance|Duração|Ataque / CD|Efeito|
-|---|---|---|---|---|---|---|
-|**Colosso**|Transmutação|1 ação|Corpo a corpo|Instantâneo|—|Acerto derruba alvo e causa 1d6 de dano contundente adicional.|
-|**Marés**|Evocação|1 ação|15 pés em cone|Instantâneo|—|Varre inimigos: cone de 15 pés causa 2d4 de dano perfurante e empurra 5 pés.|
+| Nome        | Escola        | Tipo   | Alcance       | Duração     | Acerto / CD | Dano / Efeito                              | Descrição                                                                                                               | Alvos             |
+| ----------- | ------------- | ------ | ------------- | ----------- | ----------- | ------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| **Colosso** | Transmutation | Action | Corpo a corpo | Instantâneo | —           | +1d6 bludgeoning; alvo é derrubado (prone) | Ao acertar, você usa o ímpeto para derrubar o inimigo. Além do dano normal, aplica 1d6 contundente e o alvo cai prone.  | 1 alvo            |
+| **Marés**   | Evocation     | Action | 15 ft cone    | Instantâneo | —           | 2d4 piercing; empurra 5 ft                 | Um ataque em cone varre os alvos: todos na área sofrem 2d4 de dano perfurante e são empurrados 5 ft para longe de você. | Criaturas no cone |
 
 ### 3º Círculo
 
-| Nome        | Escola     | Tempo  | Alcance     | Duração  | Ataque / CD | Efeito                                                                                |
-| ----------- | ---------- | ------ | ----------- | -------- | ----------- | ------------------------------------------------------------------------------------- |
-| **Ciclone** | Conjuração | 1 ação | 10 pés raio | 1 rodada | —           | Cria redemoinho giratório: inimigos presos sofrem 1d4 de dano contundente por rodada. |
-| **Forja**   | Abjuração  | Bônus  | Próprio     | 1 minuto | —           | Confere +1 de dano perfurante e +1 de CA enquanto empunhar os machados.               |
+| Nome        | Escola      | Tipo         | Alcance    | Duração  | Acerto / CD             | Dano / Efeito                                                      | Descrição                                                                                                                                                                          | Alvos             |
+| ----------- | ----------- | ------------ | ---------- | -------- | ----------------------- | ------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| **Ciclone** | Conjuration | Action       | 10 ft raio | 1 turno  | Força CD 8 + prof + FOR | Criaturas presas sofrem 1d4 bludgeoning no fim de cada turno delas | Você invoca um redemoinho giratório que prende as criaturas (FAIL CD ficam restrained pelo turno). Presas, elas sofrem 1d4 de dano contundente ao final de cada um de seus turnos. | Criaturas na área |
+| **Forja**   | Abjuration  | Bonus Action | Self       | 4 turnos | —                       | +1 piercing; +1 CA                                                 | Enquanto empunhar os machados duplos, recebe +1 de bônus de CA e adiciona +1 de dano perfurante em cada acerto.                                                                    | Você              |
 
 ### 4º Círculo
 
-|Nome|Escola|Tempo|Alcance|Duração|Ataque / CD|Efeito|
-|---|---|---|---|---|---|---|
-|**Impacto**|Evocação|1 ação|20 pés linha|Instantâneo|—|Linha de impacto: 3d6 de dano contundente em linha de 20 pés (falha no CD de Destreza para metade).|
-|**Titã**|Transmutação|1 ação|Corpo a corpo|1 rodada|—|Ganha tamanho Grande: vantagem em testes de Força e +1d6 de dano perfurante, desvantagem em Furtividade.|
+| Nome        | Escola        | Tipo   | Alcance    | Duração     | Acerto / CD                            | Dano / Efeito                                         | Descrição                                                                                                                                   | Alvos              |
+| ----------- | ------------- | ------ | ---------- | ----------- | -------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| **Impacto** | Evocation     | Action | 20 ft line | Instantâneo | Destreza CD 8 + prof + DES para metade | 3d6 bludgeoning                                       | Uma onda de choque percorre 20 ft em linha (5 ft de largura). Falha no CD sofre dano total; sucesso metade do dano.                         | Criaturas na linha |
+| **Titã**    | Transmutation | Action | Self       | 1 turno     | —                                      | Vantagem Strength; +1d6 piercing; desvantagem Stealth | Você assume proporções de um gigante: ganha vantagem em testes de Força e adiciona 1d6 de perfurante, mas sofre desvantagem em Furtividade. | Você               |
 
 ---
 
@@ -360,31 +292,31 @@ _Armas Permitidas: Machados Pesados_
 
 ### 1º Círculo
 
-|Nome|Escola|Tempo|Alcance|Duração|Ataque / CD|Efeito|
-|---|---|---|---|---|---|---|
-|**Queda**|Evocação|1 ação|Corpo a corpo|Instantâneo|—|Acerto cai como martelo: +1d6 de dano contundente e alvo fica prone em 5 pés.|
-|**Eco**|Ilusão|1 ação|30 pés|1 rodada|Sabedoria CD 8+prof.+Car|Impacto ecoa no local: falha no CD sofre desvantagem em iniciativa e ataques.|
+| Nome      | Escola    | Tipo   | Alcance       | Duração     | Acerto / CD                 | Dano / Efeito                            | Descrição                                                                                                | Alvos          |
+| --------- | --------- | ------ | ------------- | ----------- | --------------------------- | ---------------------------------------- | -------------------------------------------------------------------------------------------------------- | -------------- |
+| **Queda** | Evocation | Action | Corpo a corpo | Instantâneo | —                           | +1d6 bludgeoning; alvo fica prone a 5 ft | O golpe atinge como um pesado martelo: além do dano da arma, aplica 1d6 contundente e derruba o alvo.    | 1 alvo         |
+| **Eco**   | Illusion  | Action | 30 ft         | 1 turno     | Sabedoria CD 8 + prof + CAR | —                                        | Um eco ilusório repete o impacto: quem falhar no CD sofre desvantagem em iniciativa e jogadas de ataque. | 1 área (30 ft) |
 
 ### 2º Círculo
 
-|Nome|Escola|Tempo|Alcance|Duração|Ataque / CD|Efeito|
-|---|---|---|---|---|---|---|
-|**Fenda**|Conjuração|1 ação|15 pés|Instantâneo|—|Abre sulco no chão: alvo falha no Força CD é aprisionado (restrito) e recebe 2d4 de dano perfurante.|
-|**Titânico**|Transmutação|1 ação|Próprio|1 minuto|—|+2 de dano contundente e vantagem em salvamentos de resistência contra atordoamento.|
+| Nome         | Escola        | Tipo   | Alcance | Duração     | Acerto / CD                         | Dano / Efeito                                 | Descrição                                                                                                       | Alvos  |
+| ------------ | ------------- | ------ | ------- | ----------- | ----------------------------------- | --------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ------ |
+| **Fenda**    | Conjuration   | Action | 15 ft   | Instantâneo | Força CD 8 + prof + FOR para evitar | 2d4 piercing; alvo restrained (restrito)      | Você abre um sulco no chão; quem falhar no CD fica preso (movimento 0) e sofre 2d4 de dano perfurante.          | 1 alvo |
+| **Titânico** | Transmutation | Action | Self    | 1 min       | —                                   | +2 bludgeoning; vantagem em Con saves vs stun | Você imbuí a força infernal: ganha +2 de dano contundente e vantagem em salvamentos de Con contra atordoamento. | Você   |
 
 ### 3º Círculo
 
-|Nome|Escola|Tempo|Alcance|Duração|Ataque / CD|Efeito|
-|---|---|---|---|---|---|---|
-|**Ressonância**|Evocação|1 ação|Corpo a corpo|1 rodada|—|Cada ataque atinge até 2 alvos adjacentes com 1d4 de dano concussão.|
-|**Chama Negra**|Evocação|1 ação|30 pés|Instantâneo|—|Gera chama negra no impacto: 2d6 de dano de fogo negro em área de 5 pés.|
+| Nome            | Escola    | Tipo   | Alcance       | Duração     | Acerto / CD | Dano / Efeito                                             | Descrição                                                                                                                       | Alvos             |
+| --------------- | --------- | ------ | ------------- | ----------- | ----------- | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| **Ressonância** | Evocation | Action | Corpo a corpo | 1 turno     | —           | Cada ataque atinge até 2 alvos adjacentes com 1d4 thunder | Sua pancada ecoa: ao acertar um inimigo, uma onda concussiva adicional causa 1d4 de dano de trovão a um segundo alvo adjacente. | Você (acerto)     |
+| **Chama Negra** | Evocation | Action | 30 ft         | Instantâneo | —           | 2d6 fire em 5 ft radius                                   | O machado libera uma explosão de chamas negras no ponto de impacto, incendiando tudo num raio de 5 ft.                          | Criaturas na área |
 
 ### 4º Círculo
 
-|Nome|Escola|Tempo|Alcance|Duração|Ataque / CD|Efeito|
-|---|---|---|---|---|---|---|
-|**Terremoto**|Conjuração|1 ação|20 pés raio|Instantâneo|Constituição CD 8+prof.+Car|Abala terreno: 3d6 de dano contundente e alvo falho no CD cai prone.|
-|**Colosso**|Transmutação|1 bônus|Próprio|1 rodada|—|Ganha tamanho Colossal: +2 de dano perfurante e +10 pés deslocamento, desvantagem em Furtividade.|
+| Nome          | Escola        | Tipo         | Alcance      | Duração     | Acerto / CD                                | Dano / Efeito                                     | Descrição                                                                                                                                     | Alvos             |
+| ------------- | ------------- | ------------ | ------------ | ----------- | ------------------------------------------ | ------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| **Terremoto** | Conjuration   | Action       | 20 ft radius | Instantâneo | Constituição CD 8 + prof + CAR para metade | 3d6 bludgeoning; falha fica prone                 | Você abala o terreno sob os pés dos inimigos: quem falhar no CD sofre 3d6 de dano contundente e cai prone; sucesso metade sem prone.          | Criaturas na área |
+| **Colosso**   | Transmutation | Bonus Action | Self         | 1 turno     | —                                          | +2 piercing; +10 ft movement; desvantagem Stealth | Você expande sua estatura a proporções colossais: adiciona 1d6 perfurante +2 perfurante e +10 ft movimento; sofre desvantagem em Furtividade. | Você              |
 
 ---
 
@@ -394,31 +326,31 @@ _Armas Permitidas: Revólveres_
 
 ### 1º Círculo
 
-|Nome|Escola|Tempo|Alcance|Duração|Ataque / CD|Efeito|
-|---|---|---|---|---|---|---|
-|**Estouro**|Evocação|1 ação|30 pés|Instantâneo|—|Cartucho retentor: seu próximo disparo causa +1d4 de dano concussão e atordoa (Con CD falha).|
-|**Foco**|Abjuração|1 ação|Corpo a corpo|1 rodada|—|Mira precisa: vantagem no próximo ataque com revólver.|
+|Nome|Escola|Tipo|Alcance|Duração|Acerto / CD|Dano / Efeito|Descrição|Alvos|
+|---|---|---|---|---|---|---|---|---|
+|**Estouro**|Evocation|Action|30 ft|Instantâneo|—|Próximo disparo +1d4 bludgeoning e stun (Con CD 8 + prof + CON para evitar)|Você carrega um cartucho retentor. Seu próximo tiro causa +1d4 de dano contundente e atordoa o alvo em falha no CD.|1 alvo|
+|**Foco**|Abjuration|Action|Self|1 turno|—|Vantagem no próximo ataque com revólver|Você concentra sua mira: ganha vantagem em seu próximo ataque com um revólver dentro deste turno.|Você|
 
 ### 2º Círculo
 
-|Nome|Escola|Tempo|Alcance|Duração|Ataque / CD|Efeito|
-|---|---|---|---|---|---|---|
-|**Chumbo**|Transmutação|1 ação|60 pés|Instantâneo|—|Padrão de chumbo: número de projéteis dobra, cada um causa 1d4 perfurante.|
-|**Eco**|Ilusão|1 ação|60 pés|1 rodada|Sabedoria CD 8+prof.+Car|Disparo fantasma: cria eco que causa 1d4 de dano psíquico no atingido e no alvo vizinho.|
+| Nome       | Escola        | Tipo   | Alcance | Duração     | Acerto / CD                               | Dano / Efeito                             | Descrição                                                                                                                           | Alvos                |
+| ---------- | ------------- | ------ | ------- | ----------- | ----------------------------------------- | ----------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | -------------------- |
+| **Chumbo** | Transmutation | Action | 60 ft   | Instantâneo | —                                         | Disparo duplo: cada projétil 1d4 piercing | Você transfigura a munição para disparar dois projéteis simultâneos. Cada um causa 1d4 de dano perfurante ao mesmo ou a dois alvos. | Até 2 alvos          |
+| **Eco**    | Illusion      | Action | 60 ft   | 1 turno     | Sabedoria CD 8 + prof + CAR para resistir | 1d4 psychic no alvo e num adjacente       | Um disparo cria um eco fantasmal que segue até um segundo inimigo adjacente ao primeiro, causando 1d4 de dano psíquico a ambos.     | 2 alvos (adjacentes) |
 
 ### 3º Círculo
 
-|Nome|Escola|Tempo|Alcance|Duração|Ataque / CD|Efeito|
-|---|---|---|---|---|---|---|
-|**Ricochete**|Evocação|1 ação|90 pés|Instantâneo|—|Projétil ricocheteia em até 3 alvos diferentes, causando 1d6 de dano perfurante cada.|
-|**Vigor**|Abjuração|Bônus|Próprio|1 rodada|—|Recupera 1d6 de munição mágica perdida e concede +1 de dano em cada disparo neste turno.|
+| Nome          | Escola     | Tipo         | Alcance | Duração     | Acerto / CD | Dano / Efeito                                                      | Descrição                                                                                                                                        | Alvos                  |
+| ------------- | ---------- | ------------ | ------- | ----------- | ----------- | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------- |
+| **Ricochete** | Evocation  | Action       | 90 ft   | Instantâneo | —           | Projétil ricocheia em até 3 alvos, 1d6 piercing cada               | Você dispara um projétil que salta de alvo em alvo até atingir três criaturas distintas, causando 1d6 de dano perfurante em cada.                | Até 3 alvos diferentes |
+| **Vigor**     | Abjuration | Bonus Action | Self    | 1 turno     | —           | Recupera 1d6 de “munição mágica” e +1 dano por disparo neste turno | Como bônus, você recarrega instantaneamente parte da munição mágica perdida (1d6 projéteis) e recebe +1 de dano em cada tiro até o fim do turno. | Você                   |
 
 ### 4º Círculo
 
-|Nome|Escola|Tempo|Alcance|Duração|Ataque / CD|Efeito|
-|---|---|---|---|---|---|---|
-|**Estrela**|Evocação|1 ação|120 pés|Instantâneo|—|Disparo estelar: 3d6 de dano radiante, ignora cobertura; falha em Destreza CD para metade.|
-|**Fúria**|Transmutação|1 ação|Próprio|1 minuto|—|Gatilho ardente: toda rodada em que atacar, causa +1d4 de dano de fogo adicional.|
+| Nome        | Escola        | Tipo   | Alcance | Duração     | Acerto / CD                                    | Dano / Efeito                                        | Descrição                                                                                                                                     | Alvos  |
+| ----------- | ------------- | ------ | ------- | ----------- | ---------------------------------------------- | ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| **Estrela** | Evocation     | Action | 120 ft  | Instantâneo | Destreza CD 8 + prof + DES para metade do dano | 3d6 radiant (ignora cobertura)                       | Você dispara um projétil de pura luz estelar. Criaturas falham no CD sofrem 3d6 de dano radiante e ignoram cobertura; sucesso metade do dano. | 1 alvo |
+| **Fúria**   | Transmutation | Action | Self    | 4 turnos    | —                                              | Toda rodada em que atacar, +1d4 fire em cada disparo | Você imbuí o gatilho com chamas vivas. Durante 4 turnos, cada rodada em que você fizer um ataque com revólver, adiciona +1d4 de dano de fogo. | Você   |
 
 ---
 
