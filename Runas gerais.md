@@ -128,7 +128,7 @@ _Armas Permitidas: Facas_
 | **Dræpa**     | Abjuration    | Reaction (ao atingir) | Corpo a corpo | Instantâneo | —                                         | Ataque furtivo sem revelar posição | Ao acertar com a faca, você permanece oculto (como se tivesse usado Hide).     | Você   |
 | **Fukan**     | Abjuration    | Action                | Corpo a corpo | 1 turno     | Sabedoria CD 8 + prof + CAR para resistir | —                                  | O alvo fica incapaz de emitir sons vocais até o fim do próximo turno. _(versão | 1 alvo |
 | **Kora**      | Transmutation | Bonus Action          | Corpo-a-corpo | 1 turno     | —                                         | **vantagem**.                      | Seu próximo ataque com faca tem vantagem para acertar                          | 1 alvo |
-| **Shinketsu** | Abjuration    | Bonus Action          | Corpo-a-corpo | 1 turno     | —                                         | 1d10                               | Seu próximo dano de faca dentro desse turnocausa **1d10 de dano** adicional.   | 1 alvo |
+| **Shinketsu** | Abjuration    | Bonus Action          | Corpo-a-corpo | 1 turno     | —                                         | 1d10                               | Seu próximo dano de faca dentro desse turno causa **1d10 de dano** adicional.  | 1 alvo |
 
 ### 2º Círculo
 
@@ -140,10 +140,10 @@ _Armas Permitidas: Facas_
 
 ### 3º Círculo
 
-| Nome         | Escola    | Tipo                  | Alcance        | Duração      | Acerto / CD                               | Dano / Efeito                | Descrição                                                                                                                                                     | Alvos                   |
-| ------------ | --------- | --------------------- | -------------- | ------------ | ----------------------------------------- | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
-| **Nensho**   | Evocation | Reaction (ao atingir) | Corpo a corpo  | Até extinção | Destreza CD 8 + prof + DES para extinguir | 1d4 fogo/turno até extinguir | Ao acertar a faca, você incendeia o alvo: ele sofre 1d4 de dano de fogo no final de cada turno até usar ação para extinguir (Teste de Destreza DC 8+prof).    | Você escolhe até 1 alvo |
-| **Sazanami** | Evocation | Action                | 20 ft em linha | Instantâneo  | Destreza CD 8 + prof + DES para metade    | 1d6 cortante por alvo        | Lança um projétil rúnico em linha de 20 ft (largura 5 ft). Ele atinge o primeiro alvo e ricocheteia para até mais 2, causando 1d6 de dano cortante limitado)_ | Até 3 alvos em linha    |
+| Nome         | Escola    | Tipo                  | Alcance        | Duração      | Acerto / CD                               | Dano / Efeito                | Descrição                                                                                                                                                      | Alvos                   |
+| ------------ | --------- | --------------------- | -------------- | ------------ | ----------------------------------------- | ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| **Nensho**   | Evocation | Reaction (ao atingir) | Corpo a corpo  | Até extinção | Destreza CD 8 + prof + DES para extinguir | 1d4 fogo/turno até extinguir | Ao acertar a faca, você incendeia o alvo: ele sofre 1d4 de dano de fogo no final de cada turno até usar ação para extinguir (Teste de Destreza DC 8+prof+DEX). | Você escolhe até 1 alvo |
+| **Sazanami** | Evocation | Action                | 20 ft em linha | Instantâneo  | Destreza CD 8 + prof + DES para metade    | 1d6 cortante por alvo        | Lança um projétil rúnico em linha de 20 ft (largura 5 ft). Ele atinge o primeiro alvo e ricocheteia para até mais 2, causando 1d6 de dano cortante limitado)_  | Até 3 alvos em linha    |
 
 ### 4º Círculo
 
