@@ -5,7 +5,7 @@ _┫➃ⓖ★↖ inclina-se para frente, o brilho prateado dos olhos refletindo 
 **<p align="center">Ordo Raritatum — Armæ de Owari-Tomvetr</p>**
 
 
-## ✧ Ordem de Raritas ✧
+## ✧ Ordem de Raridade ✧
 
 1. **Vulgare (Comum)**  
     Ferramentas do cotidiano, forjadas em massa: lâminas de aço comum sem têmpera arcana, clavas de madeira curtida ao sol — confiáveis, mas sem brilho ou prestígio.  

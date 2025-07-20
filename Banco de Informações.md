@@ -1,6 +1,6 @@
 Esse é um banco de dados que agrupa todas ou a maioria dos itens possíveis de se encontrar em uma loja comercial, ou na taberna Spider Eye. Não é necessário e nem recomendada a visualização desse documento.
 
-### Armaduras
+## Armaduras
 ### Inusitata
 #### 🐾 **Levis**
 
@@ -399,4 +399,4 @@ Armamentos que tornam o usuário avatar primordial do cosmos.
 |Pectorale Celestia Aion|Gravis|18|For 18|5 300–6 300|Parar o tempo breve (1 turno, 1/semana)|Engrenagens estelares giram nas fendas.|
 |Camisia Arcanum Infinite|Gravis|18|For 18|5 100–6 100|Reservatório de energia (recupera todos os PV e PM, 1/semana)|Fonte inesgotável de poder.|
 |Lorica Empyrea|Gravis|18|For 18 e Des 16|5 500–6 500|Avatar do cosmos (transforma o usuário em criatura celestial por 1 minuto, 1/semana)|Placas vivas de pura luz.|
-###
+## Armas
