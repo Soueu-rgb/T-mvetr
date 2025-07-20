@@ -11,31 +11,31 @@ _┫➃ⓖ★↖ inclina-se para frente, o brilho prateado dos olhos refletindo 
     Ferramentas do cotidiano, forjadas em massa: lâminas de aço comum sem têmpera arcana, clavas de madeira curtida ao sol — confiáveis, mas sem brilho ou prestígio.  
     _“Boa para quem começa… não espere aplausos.”_
     
-2. **Inusitata (Incomum)**  
+2. **Varnel (Incomum)**  
     Ligas pouco usuais: adagas de bronze escurecido, machados de aço esmaltado — cuidado extra do armeiro, porém sem rúnica evidente.  
     _“Um toque de ousadia, mas nada que desafie o ordinário.”_
     
-3. **Rara (Rara)**  
+3. **Drelune (Rara)**  
     Lâminas pontiagudas com entalhes iniciais de runas, maças cujos cravos brilham sob luar — prestes a canalizar cataclismos menores, se bem lapidadas.  
     _“Sinta o poder vibrar… se souber desvendar seus recessos.”_
     
-4. **Valde Rara (Muito Rara)**  
+4. **Orkhyra (Muito Rara)**  
     Artesanatos místicos: espadas que cintilam à noite, lanças que ecoam trovões distantes; exigem perícia arcana para liberar dons.  
     _“Beleza noturna… mas cuidado com o preço do feitiço.”_
     
-5. **Epicum (Épica)**  
+5. **Thoryndal (Épica)**  
     Obras de ferreiros lendários: lâminas de obsidiana estelar, machados que uivam ao vento — símbolos de esperança ou terror em batalhas decisivas.  
     _“Grite com o metal… e o mundo ouvirá.”_
     
-6. **Legendaria (Lendária)**  
+6. **Myrcendrel (Lendária)**  
     Armas entoadas em canções: martelos do trovão, espadas do coração de dragões; vibram com histórias vivas, exigindo coragem para empunhá-las.  
     _“Assuma a lenda… mas não se torne vítima dela.”_
     
-7. **Artifex (Artefato)**  
+7. **Zarthiel (Artefato)**  
     Peças divinas de eras esquecidas: bastões que invocam tempestades, lâminas que desintegram muralhas — só heróis ousam manejá-las.  
     _“Poder de deuses… mas sombra de ruína acompanha o portador.”_
     
-8. **Mythica (Mítica)**  
+8. **Æltherion (Mítica)**  
     Fragmentos de constelações tangíveis: espadas que rasgam a própria realidade, lanças que abrem fendas no tecido do mundo — aptas a reescrever destinos.  
     _“Dobre o cosmos… mas prepare-se para receber o eco.”_
     

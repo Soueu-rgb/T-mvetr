@@ -10,26 +10,26 @@ _┫➃ⓖ★↖ inclina-se para frente, a cauda se enrolando em um gesto quase 
 1. **Vulgare (Comum)**  
     Proteções básicas de couro cru ou algodão rústico, malhas simples; usadas por recrutas e guardas de vilarejos, confortáveis mas frágeis diante de ataques formidáveis.
     
-2. **Inusitata (Incomum)**  
+2. **Varnel (Incomum)**  
     Peças de couro reforçado com placas de metal leve, malha de anéis não uniformes; equipadas por mercenários que buscam melhor custo-benefício, mas sem testemunhar prodígios.
         
-3. **Rara (Rara)**  
+3. **Drelune (Rara)**  
     Couraças de placas trabalhadas, escudos com brasões intricados; artefatos que já receberam bênçãos breves, capazes de resistir a impactos violentos por instantes.
         
-4. **Valde Rara (Muito Rara)**  
+4. **Orkhyra (Muito Rara)**  
     Cota ou placas entremeadas de filamentos rúnicos, capazes de dispersar energia ofensiva moderada; exigem rituais para sintonizar-se ao usuário.
         
-5. **Epicum (Épica)**  
+5. **Thoryndal (Épica)**  
     Peitorais e grevas de metal imbuído de energia tensa, escudos que absorvem magia de área; selados com runas de proteção permanente.
         
-6. **Legendaria (Lendária)**  
+6. **Myrcendrel (Lendária)**  
     Couraças gravadas com sagas antigas e mantos que envolvem o usuário em presença ancestral; forjam um escudo de mito ao portador.
         
-7. **Artifex (Artefato)**  
+7. **Zarthiel (Artefato)**  
     Couraças esculpidas em rochas cósmicas, escudos forjados em vulcões extintos; emanam poder destrutivo passivo e requerem linhagem ou pacto para uso seguro.
         
-8. **Mythica (Mítica)**  
-    Armaduras de pura luz sólida, adaptando-se ao cosmos; quem veste uma Mythica torna-se avatar de forças primordiais, capaz de remodelar continentes.
+8. **Æltherion (Mítica)**  
+    Armaduras de pura luz sólida, adaptando-se ao cosmos; quem veste uma Æltherion torna-se avatar de forças primordiais, capaz de remodelar continentes.
         
 9. **Celeste**  
     Forjadas nas fornalhas de cometas, finas camadas de metal estelar cristalizado entrelaçadas com filamentos de luz pura. Quem as veste sente o pulsar do cosmos sob a pele, adquirindo resistência a qualquer dano físico ou mágico — mas arrisca perder-se na imensidão do espaço interior.
