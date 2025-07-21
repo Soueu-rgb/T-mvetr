@@ -15,7 +15,7 @@ Hierarquia
 	**Orkyn**  
 	— Ligação de metais raros, forte e leve, com aura sutil.
 	**Syrentha**  
-	— Cristal vítreo que canaliza magia, quase etéreo.
+	— Material de extrema raridade.
 	**Zythera**  
 	— Material celestial, relíquia de eras perdidas, poderoso.
 	**Ælythar**  
