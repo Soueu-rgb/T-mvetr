@@ -1,0 +1,1 @@
+Concede invisibilidade até atacar.
