@@ -4,21 +4,21 @@
 
 
 Hierarquia
-	**Gravul**  
-	— Material comum, fácil de achar e coletar
-	**Silthar**  
-	— Material fácil de achar, um pouco difícil de coletar
-	**Vyrkal**  
-	— Material difícil de achar e/ou coletar.
-	**Lunthir**  
+	**Gravul**  (Branco)
+	— Material comum, fácil de achar e coletar.
+	**Silthar**  (Ciano #00ffff)
+	— Material fácil de achar, um pouco difícil de coletar.
+	**Vyrkal**  (Verde #1aff1a)
+	— Material difícil de achar e/ou coletar. 
+	**Lunthir**  (Roxo #a020f0)
 	— Materiais muito difíceis de achar e/ou coletar, tendo alto valor
-	**Orkyn**  
+	**Orkyn**  (Dourado #ffd700)
 	— Ligação de metais raros, forte e leve, com aura sutil.
-	**Syrentha**  
+	**Syrentha**  (Azul #0000cc)
 	— Material de extrema raridade.
-	**Zythera**  
+	**Zythera**  (Vermelho #ff1a1a)
 	— Material celestial, relíquia de eras perdidas, poderoso.
-	**Ælythar**  
+	**Ælythar**  (Preto)
 	— Matéria suprema, quase divina, base de artefatos lendários.
 
 ## Gravul
