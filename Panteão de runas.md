@@ -20,7 +20,6 @@ _┫➃ⓖ★↖ ajeita o capuz, as orelhas em alerta._
 ---
 # Skurval, a Fome da Lua
 
-_Origem: Fenrir redivivo_  
 **CD de resistência:** 8 + proficiência + mod. de Carisma  
 **Bônus de ataque:** igual ao bônus de ataque da arma (Força ou Destreza + proficiência)
 
@@ -73,7 +72,6 @@ _CR 1 (200 XP)_ | **CA** 13 | **PV** 22 | **Desloc.** 40 pés
 
 # Jörmungandr, O Abraço do Abismo
 
-_Origem: Serpente primitiva_  
 **CD de resistência:** 8 + proficiência + mod. de Carisma  
 **Bônus de ataque:** igual ao bônus de ataque da arma (Força ou Destreza + proficiência)
 
@@ -115,7 +113,6 @@ _Origem: Serpente primitiva_
 
 # Baldrath, O Cintilante Silencioso
 
-_Origem: Luz pura traída_  
 **CD de resistência:** 8 + proficiência + mod. de Carisma  
 **Bônus de ataque:** igual ao bônus de ataque da arma (Força ou Destreza + proficiência)
 

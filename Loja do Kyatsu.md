@@ -1,61 +1,90 @@
-- **Lorica Umbrae** _(Armadura/Varnel – Levis)_
+## 🗝️ Tesouros Selecionados
+
+### Lorica Punctata _(Levis, Varnel)_
+
+- **Categoria:** Levis
     
-    - CA: 11 + Modificador de Destreza
-        
-    - Valor: 192 po
-        
-    - Propriedades: Vantagem em testes de Furtividade em penumbra (1×/dia); absorve luz no escuro.
-        
-- **Pellicula Dura** _(Armadura/Varnel – Média)_
+- **CA:** 12 + Mod. Destreza
     
-    - CA: 12 + Modificador de Destreza (máx 2)
-        
-    - Requisito: Destreza 12
-        
-    - Valor: 175 po
-        
-    - Descrição: Couro espesso sem placas.
-        
-- **Espada Curta de Aço** _(Varnel)_
+- **Requisito:** Des 13
     
-    - Dano: 1d6 perfurante
-        
-    - Propriedades: Finesse, leve
-        
-    - Valor: 53 po
-        
-    - Descrição: Modelo padrão de viajante.
-        
-- **Rapieira Comum** _(Varnel)_
+- **Custo (gp):** 127
     
-    - Dano: 1d8 perfurante
-        
-    - Propriedades: Finesse
-        
-    - Valor: 72 po
-        
-    - Descrição: Ponta precisa, lâmina fina.
-        
-- **Anel do Sussurro** _(Drelune)_
+- **Habilidade:** —
     
-    - Tipo: Anel
-        
-    - Propriedade: +1 em testes de Furtividade (1×/dia)
-		
-	- Valor: 300 po
-		
-- **Pingente das Marés** _(Drelune)_
+- **Comentário:** Tachas sutis integradas ao couro
     
-    - Tipo: Pingente
-        
-    - Propriedade: Resistência a Frio por 10 min (1×/dia)
-        
-    - Valor: 325
-	    
-- **Ampulheta Elemental** _(Orkhyra)_
+
+### Lorica Squama Maris _(Media, Orkhyra)_
+
+- **Categoria:** Media
     
-    - Tipo: Relíquia
-        
-    - Propriedade: Altera clima local (chuva ou neblina) 1×/semana
-	    
-	- Valor: 2000
+- **CA:** 16 + Mod. Destreza (máx 2)
+    
+- **Requisito:** For 14
+    
+- **Custo (gp):** 623
+    
+- **Habilidade:** 1×/dia: nadar a velocidade normal em terra
+    
+- **Comentário:** Escamas marinhas resistentes
+    
+
+### Espada Longa Polida _(Espada Longa Polida, Varnel)_
+
+- **Dano:** 1d8 cortante
+    
+- **Propriedades:** Versátil (1d10)
+    
+- **Custo (ᴀ):** 74
+    
+- **Habilidade:** —
+    
+- **Comentário:** Aparência limpa, sem benefícios reais
+    
+
+### Fuzil de Ferreiro _(Fuzil de Ferreiro, Varnel)_
+
+- **Dano:** 1d10 perfurante
+    
+- **Propriedades:** 100/400, recarga (1), pesado
+    
+- **Custo (ᴀ):** 96
+    
+- **Munição Inicial:** 30 balas
+    
+- **Custo Munição:** 15–25 ᴀ por pente
+    
+- **Comentário:** Feito por armeiro local
+    
+
+### Espada Longa de Lua Crescente _(Espada Longa de Lua Crescente, Drelune)_
+
+- **Dano:** 1d8 cortante
+    
+- **Propriedades:** Versátil (1d10)
+    
+- **Custo (ᴀ):** 129
+    
+- **Habilidade:** 1×/noite: vantagem em Acrobacia lunar
+    
+- **Comentário:** Forjada em eclipse parcial
+    
+
+### Anel do Tempo _(Anel do Tempo, Myrcendrel)_
+
+- **Tipo:** Anel
+    
+- **Efeito Principal:** acelera tempo pessoal: ação bônus extra (1×/dia)
+    
+- **Preço:** 5000
+	
+
+### Bota do Celeritas _(Bota do Celeritas, Thoryndal)_
+
+- **Tipo:** Botas
+    
+- **Efeito Principal:** +10 pés de deslocamento por 10 min (1×/dia)
+	
+- **Preço:** 600
+	
