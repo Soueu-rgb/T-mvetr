@@ -1,90 +1,117 @@
-## 🗝️ Tesouros Selecionados
+## 🗝️ Nova Seleção de Itens
 
-### Lorica Punctata _(Levis, Varnel)_
+### Lorica Nebulae _(Levis, Varnel)_
 
 - **Categoria:** Levis
     
-- **CA:** 12 + Mod. Destreza
+- **CA:** 11 + Mod. Destreza
     
-- **Requisito:** Des 13
+- **Requisito:** —
     
-- **Custo (gp):** 127
+- **Custo (gp):** 173
+    
+- **Habilidade:** 1×/dia: +1 em Iniciativa
+    
+- **Comentário:** Textura esvoaçante como neblina
+    
+
+### Pellecan Aquatica _(Levis, Varnel)_
+
+- **Categoria:** Levis
+    
+- **CA:** 11 + Mod. Destreza
+    
+- **Requisito:** —
+    
+- **Custo (gp):** 142
     
 - **Habilidade:** —
     
-- **Comentário:** Tachas sutis integradas ao couro
+- **Comentário:** Resistente à água; seca rapidamente
     
 
-### Lorica Squama Maris _(Media, Orkhyra)_
+### Pellicula Magnus _(Media, Drelune)_
 
 - **Categoria:** Media
     
-- **CA:** 16 + Mod. Destreza (máx 2)
+- **CA:** 13 + Mod. Destreza (máx 2)
     
-- **Requisito:** For 14
+- **Requisito:** Des 14
     
-- **Custo (gp):** 623
+- **Custo (gp):** 319
     
-- **Habilidade:** 1×/dia: nadar a velocidade normal em terra
+- **Habilidade:** 1×/dia: ganha 1 PV temporário ao vestir
+    
+- **Comentário:** Ao equipar, ganha 1 PV temporário
+    
+
+### Lorica Squama Maris _(Media, Drelune)_
+
+- **Categoria:** Media
+    
+- **CA:** 14 + Mod. Destreza (máx 2)
+    
+- **Requisito:** For 13
+    
+- **Custo (gp):** 298
+    
+- **Habilidade:** 1×/dia: vantagem em Natação
     
 - **Comentário:** Escamas marinhas resistentes
     
 
-### Espada Longa Polida _(Espada Longa Polida, Varnel)_
+### Espada Curta de Aço _(Varnel)_
 
-- **Dano:** 1d8 cortante
+- **Dano:** 1d6 perfurante
     
-- **Propriedades:** Versátil (1d10)
+- **Propriedades:** finesse, leve
     
-- **Custo (ᴀ):** 74
+- **Custo (ᴀ):** 53
     
 - **Habilidade:** —
     
-- **Comentário:** Aparência limpa, sem benefícios reais
+- **Comentário:** Modelo padrão de viajante
     
 
-### Fuzil de Ferreiro _(Fuzil de Ferreiro, Varnel)_
+### Espada Longa de Mithril _(Orkhyra)_
 
-- **Dano:** 1d10 perfurante
+- **Dano:** 1d10 cortante (versátil 1d12)
     
-- **Propriedades:** 100/400, recarga (1), pesado
+- **Propriedades:** Versátil
     
-- **Custo (ᴀ):** 96
+- **Custo (ᴀ):** 224
     
-- **Munição Inicial:** 30 balas
+- **Habilidade:** —
     
-- **Custo Munição:** 15–25 ᴀ por pente
-    
-- **Comentário:** Feito por armeiro local
+- **Comentário:** Metal leve que evita fadiga
     
 
-### Espada Longa de Lua Crescente _(Espada Longa de Lua Crescente, Drelune)_
+### Rapieira Etérea Avançada _(Orkhyra)_
 
-- **Dano:** 1d8 cortante
+- **Dano:** 1d8 perfurante
     
-- **Propriedades:** Versátil (1d10)
+- **Propriedades:** finesse
     
-- **Custo (ᴀ):** 129
+- **Custo (ᴀ):** 221
     
-- **Habilidade:** 1×/noite: vantagem em Acrobacia lunar
+- **Habilidade:** 1×/turno: +2 em ataque furtivo
     
-- **Comentário:** Forjada em eclipse parcial
+- **Comentário:** Filamento arcano vibra leve
     
 
-### Anel do Tempo _(Anel do Tempo, Myrcendrel)_
+### Anel da Vigília _(Orkhyra)_
 
 - **Tipo:** Anel
     
-- **Efeito Principal:** acelera tempo pessoal: ação bônus extra (1×/dia)
+- **Efeito Principal:** Permite visão no escuro aprimorada (60 pés)
     
-- **Preço:** 5000
+- **Custo:** 350
 	
 
-### Bota do Celeritas _(Bota do Celeritas, Thoryndal)_
+### Capa de Névoa _(Orkhyra)_
 
-- **Tipo:** Botas
+- **Tipo:** Capa
     
-- **Efeito Principal:** +10 pés de deslocamento por 10 min (1×/dia)
+- **Efeito Principal:** Vantagem em Furtividade na chuva
 	
-- **Preço:** 600
-	
+- **Custo:** 300
