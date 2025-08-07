@@ -3,6 +3,7 @@ _Extensão rúnica para rapieira_
 
 **Tipo:** Artefato Mágico (modificação de arma)  
 **Raridade:** Raro  
+**Tamanho:** 1 metro
 **Sintonização:** Sim, requer sintonizar-se com uma rapieira (proficiente)  
 **Requisitos:** Só pode ser aplicado a uma rapieira +1 ou superior
 
@@ -13,7 +14,7 @@ Um fio cor de ônix e violeta, arrancado do abdômen da Matriarca Virex, é entr
 
 1. **Choque de Seda:**
     
-    - A cada acerto, a rapieira inflige +1d4 de dano elétrico (radiante substituído por elétrico para manter coerência).
+    - A cada acerto, a rapieira inflige +1d4 de dano elétrico.
         
 2. **Aperto da Teia (Bônus, 2×/descanso curto):**
     

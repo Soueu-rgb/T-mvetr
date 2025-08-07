@@ -127,22 +127,22 @@
 
 #### ⚖️ **Media**
 
-|Nome|Categoria|CA|Requisito|Custo (gp)|Habilidade|Comentário|
-|---|---|---|---|---|---|---|
-|Pellicula Dura|Media|**14 + Mod. Destreza (máx 2)**|Des 15|300–400|—|Couro espesso sem placas.|
-|Lorica Squamae|Media|**16 + Mod. Destreza (máx 2)**|For 14|400–600|1×/dia: resistência a perfurante (–1 dano)|Escamas sobrepostas.|
-|Pectorale Ferreum|Media|**16 + Mod. Destreza (máx 2)**|For 14 e Des 15|400–700|—|Placa frontal robusta.|
-|Camisia Catena|Media|**15 + Mod. Destreza (máx 2)**|Des 15|200–300|—|Malha leve e flexível.|
-|Lorica Squama Maris|Media|**16 + Mod. Destreza (máx 2)**|For 14|500–700|1×/dia: nadar a velocidade normal em terra|Escamas marinhas resistentes.|
-|Pectorale Ventorum|Media|**16 + Mod. Destreza (máx 2)**|For 14|440–640|—|Design aerodinâmico.|
-|Pellicula Magnus|Media|**14 + Mod. Destreza (máx 2)**|Des 15|360–480|1×/dia: ganha 2 PV temporários ao vestir|Ao equipar, ganha PV temporário.|
-|Lorica Squama Ignis|Media|**16 + Mod. Destreza (máx 2)**|For 14|540–740|—|Retém calor interno.|
-|Pectorale Lux|Media|**16 + Mod. Destreza (máx 2)**|For 14|600–800|1×/dia: cria luz ofuscante por 1 turno|Emite brilho suave.|
-|Camisia Catena Luminis|Media|**15 + Mod. Destreza (máx 2)**|Des 15|440–560|—|Malha com fios luminosos.|
-|Pellicula Onyx|Media|**14 + Mod. Destreza (máx 2)**|Des 15|520–720|—|Couro polido de ônix.|
-|Lorica Squama Sylvestri|Media|**16 + Mod. Destreza (máx 2)**|For 14|480–680|1×/dia: vantagem em Sobrevivência na mata|Escamas de criatura florestal.|
-|Camisia Catena Sylvestri|Media|**15 + Mod. Destreza (máx 2)**|Des 15|400–520|—|Vinhas entrelaçadas na malha.|
-|Pellicula Umbris|Media|**14 + Mod. Destreza (máx 2)**|Des 15|420–580|—|Couro tingido em tons escuros.|
+| Nome                     | Categoria | CA                             | Requisito       | Custo (gp) | Habilidade                                 | Comentário                       |
+| ------------------------ | --------- | ------------------------------ | --------------- | ---------- | ------------------------------------------ | -------------------------------- |
+| Pellicula Dura           | Media     | **14 + Mod. Destreza (máx 2)** | Des 15          | 300–400    | —                                          | Couro espesso sem placas.        |
+| Lorica Squamae           | Media     | **16 + Mod. Destreza (máx 2)** | For 14          | 400–600    | 1×/dia: resistência a perfurante (–1 dano) | Escamas sobrepostas.             |
+| Pectorale Ferreum        | Media     | **16 + Mod. Destreza (máx 2)** | For 14 e Des 15 | 400–700    | —                                          | Placa frontal robusta.           |
+| Camisia Catena           | Media     | **15 + Mod. Destreza (máx 2)** | Des 15          | 200–300    | —                                          | Malha leve e flexível.           |
+| Lorica Squama Maris      | Media     | **16 + Mod. Destreza (máx 2)** | For 14          | 500–700    | 1×/dia: nadar a velocidade normal em terra | Escamas marinhas resistentes.    |
+| Pectorale Ventorum       | Media     | **16 + Mod. Destreza (máx 2)** | For 14          | 440–640    | —                                          | Design aerodinâmico.             |
+| Pellicula Magnus         | Media     | **14 + Mod. Destreza (máx 2)** | Des 15          | 360–480    | 1×/dia: ganha 2 PV temporários ao vestir   | Ao equipar, ganha PV temporário. |
+| Lorica Squama Ignis      | Media     | **16 + Mod. Destreza (máx 2)** | For 14          | 540–740    | —                                          | Retém calor interno.             |
+| Pectorale Lux            | Media     | **16 + Mod. Destreza (máx 2)** | For 14          | 600–800    | 1×/dia: cria luz ofuscante por 1 turno     | Emite brilho suave.              |
+| Camisia Catena Luminis   | Media     | **15 + Mod. Destreza (máx 2)** | Des 15          | 440–560    | —                                          | Malha com fios luminosos.        |
+| Pellicula Onyx           | Media     | **14 + Mod. Destreza (máx 2)** | Des 15          | 520–720    | —                                          | Couro polido de ônix.            |
+| Lorica Squama Sylvestri  | Media     | **16 + Mod. Destreza (máx 2)** | For 14          | 480–680    | 1×/dia: vantagem em Sobrevivência na mata  | Escamas de criatura florestal.   |
+| Camisia Catena Sylvestri | Media     | **15 + Mod. Destreza (máx 2)** | Des 15          | 400–520    | —                                          | Vinhas entrelaçadas na malha.    |
+| Pellicula Umbris         | Media     | **14 + Mod. Destreza (máx 2)** | Des 15          | 420–580    | —                                          | Couro tingido em tons escuros.   |
 
 ---
 
