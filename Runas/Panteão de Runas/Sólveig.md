@@ -39,14 +39,14 @@
 
 ## 4º Círculo
 
-|Nome|Escola|Tipo|Alcance|Duração|Armas Permitidas|Acerto / CD|Efeito|Alvos|
-|---|---|---|---|---|---|---|---|---|
-|Proteção Eterna|Abjuration|Action|Toque|40 turnos|—|—|“Ward Against Death”: primeira vez que cairia a 0 HP, permanece em 1 HP|1 alvo|
-|Sentinela Solar|Conjuration|Action|Self (15 ft raio)|1 turno|—|Constituição CD|Inimigos na área sofrem 4d8 radiante no início de cada turno (sucesso metade)|Área de 15 ft|
-|Muralha de Lumen|Evocation|Action|5 ft × 30 ft parede vertical|1 turno|—|Constituição CD|Criaturas que atravessam sofrem 3d8 radiante (sucesso metade) e ficam cegas até fim do próximo turno|Muralha|
-|Renovatio|Transmutation|Bonus Action|Self (15 ft raio)|Concentração, 1 minuto|—|—|Aliados recebem 1d6 HP temporário por turno (máx 5 pontos empilhados)|Aliados em 15 ft|
-|**Sunhammer**|Evocation|Action|30 ft|Instantâneo|Martelos, maças|Sabedoria CD|Impacto de martelo de luz: 4d6 radiante + atordoar no falhar|1 alvo|
-|**Daybreak Rally**|Enchantment|Bonus Action|Self|1 turno|—|—|Aliados até 6 ganham +1d4 radiante em ataques e vantagem em testes de resistência contra medo e enfeitiçamento|Até 6 aliados|
+| Nome               | Escola        | Tipo         | Alcance                      | Duração                | Armas Permitidas | Acerto / CD     | Efeito                                                                                                         | Alvos            |
+| ------------------ | ------------- | ------------ | ---------------------------- | ---------------------- | ---------------- | --------------- | -------------------------------------------------------------------------------------------------------------- | ---------------- |
+| Proteção Eterna    | Abjuration    | Action       | Toque                        | 40 turnos              | —                | —               | “Ward Against Death”: primeira vez que cairia a 0 HP, permanece em 1 HP                                        | 1 alvo           |
+| Sentinela Solar    | Conjuration   | Action       | Self (15 ft raio)            | 1 turno                | —                | Constituição CD | Inimigos na área sofrem 4d8 radiante no início de cada turno (sucesso metade)                                  | Área de 15 ft    |
+| Muralha de Lumen   | Evocation     | Action       | 5 ft × 30 ft parede vertical | 1 turno                | —                | Constituição CD | Criaturas que atravessam sofrem 3d8 radiante (sucesso metade) e ficam cegas até fim do próximo turno           | Muralha          |
+| Renovatio          | Transmutation | Bonus Action | Self (15 ft raio)            | Concentração, 1 minuto | —                | —               | Aliados recebem 1d6 HP temporário por turno (máx 5 pontos empilhados)                                          | Aliados em 15 ft |
+| **Sunhammer**      | Evocation     | Action       | 30 ft                        | Instantâneo            | Martelos, maças  | Sabedoria CD    | Impacto de martelo de luz: 4d6 radiante + atordoar no falhar                                                   | 1 alvo           |
+| **Daybreak Rally** | Enchantment   | Bonus Action | Self                         | 1 turno                | —                | —               | Aliados até 6 ganham +1d4 radiante em ataques e vantagem em testes de resistência contra medo e enfeitiçamento | Até 6 aliados    |
 
 ---
 
