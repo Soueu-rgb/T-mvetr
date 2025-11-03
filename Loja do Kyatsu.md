@@ -1,117 +1,85 @@
-## 🗝️ Nova Seleção de Itens
-
-### Lorica Nebulae _(Levis, Varnel)_
+### Lorica Argentea _(Levis, Drelune)_
 
 - **Categoria:** Levis
     
-- **CA:** 11 + Mod. Destreza
-    
-- **Requisito:** —
-    
-- **Custo (gp):** 173
-    
-- **Habilidade:** 1×/dia: +1 em Iniciativa
-    
-- **Comentário:** Textura esvoaçante como neblina
-    
-
-### Pellecan Aquatica _(Levis, Varnel)_
-
-- **Categoria:** Levis
-    
-- **CA:** 11 + Mod. Destreza
-    
-- **Requisito:** —
-    
-- **Custo (gp):** 142
-    
-- **Habilidade:** —
-    
-- **Comentário:** Resistente à água; seca rapidamente
-    
-
-### Pellicula Magnus _(Media, Drelune)_
-
-- **Categoria:** Media
-    
-- **CA:** 13 + Mod. Destreza (máx 2)
+- **CA:** 13 + Mod. Destreza
     
 - **Requisito:** Des 14
     
-- **Custo (gp):** 319
+- **Custo (gp):** 378
     
-- **Habilidade:** 1×/dia: ganha 1 PV temporário ao vestir
+- **Habilidade:** 1×/dia: +1 em Salv. contra condições de metal
     
-- **Comentário:** Ao equipar, ganha 1 PV temporário
+- **Comentário:** Tachas prateadas para elegância
     
 
-### Lorica Squama Maris _(Media, Drelune)_
+### Lorica Squamae _(Media, Drelune)_
 
 - **Categoria:** Media
     
-- **CA:** 14 + Mod. Destreza (máx 2)
+- **CA:** 15 + Mod. Destreza (máx 2)
     
 - **Requisito:** For 13
     
-- **Custo (gp):** 298
-    
-- **Habilidade:** 1×/dia: vantagem em Natação
-    
-- **Comentário:** Escamas marinhas resistentes
-    
-
-### Espada Curta de Aço _(Varnel)_
-
-- **Dano:** 1d6 perfurante
-    
-- **Propriedades:** finesse, leve
-    
-- **Custo (ᴀ):** 53
+- **Custo (gp):** 324
     
 - **Habilidade:** —
     
-- **Comentário:** Modelo padrão de viajante
+- **Comentário:** Escamas sobrepostas
     
 
-### Espada Longa de Mithril _(Orkhyra)_
+### Espada Longa de Lua Crescente _(Drelune)_
 
-- **Dano:** 1d10 cortante (versátil 1d12)
+- **Dano:** 1d8 cortante (versátil 1d10)
     
 - **Propriedades:** Versátil
     
-- **Custo (ᴀ):** 224
+- **Custo (ᴀ):** 117
+    
+- **Habilidade:** Uma vez por noite: vantagem em Acrobacia lunar (1 turno)
+    
+- **Comentário:** Forjada em eclipse parcial
+    
+
+### Espada Curta Rúnica _(Drelune)_
+
+- **Dano:** 1d6 perfurante
+    
+- **Propriedades:** Finesse, leve
+    
+- **Custo (ᴀ):** 104
     
 - **Habilidade:** —
     
-- **Comentário:** Metal leve que evita fadiga
+- **Comentário:** Runa fraca: +1 em Testes de História sobre runas
     
 
-### Rapieira Etérea Avançada _(Orkhyra)_
-
-- **Dano:** 1d8 perfurante
-    
-- **Propriedades:** finesse
-    
-- **Custo (ᴀ):** 221
-    
-- **Habilidade:** 1×/turno: +2 em ataque furtivo
-    
-- **Comentário:** Filamento arcano vibra leve
-    
-
-### Anel da Vigília _(Orkhyra)_
+### Anel do Sussurro _(Drelune)_
 
 - **Tipo:** Anel
     
-- **Efeito Principal:** Permite visão no escuro aprimorada (60 pés)
+- **Efeito Principal:** Concede +1 em testes de Furtividade (1×/dia)
     
-- **Custo:** 350
-	
-
-### Capa de Névoa _(Orkhyra)_
-
-- **Tipo:** Capa
+- **Custo (po):** 300
     
-- **Efeito Principal:** Vantagem em Furtividade na chuva
-	
-- **Custo:** 300
+
+### Tiara Lunar _(Drelune)_
+
+- **Tipo:** Tiara
+    
+- **Efeito Principal:** +1 em Testes de História lunar (passiva)
+    
+- **Custo (po):** 275
+    
+
+### Escudo de Bronze Rúnico _(Orkhyra)_
+
+- **Tipo:** Escudo
+    
+- **Propriedades:** +3 CA
+    
+- **Custo (po):** 202
+    
+- **Habilidade:** Runas dispersam vibrações (vantagem em Resist. a Efeitos Sonoros, 1/descanso)
+    
+- **Comentário:** Runas que canalizam vibrações
