@@ -19,20 +19,20 @@
 
 ## 2º Círculo 
 
-|Nome|Escola|Tipo|Alcance|Duração|Armas Permitidas|Acerto / CD|Dano / Efeito|
-|---|---|---|---|---|---|---|---|
-|**Ciclorrho**|Conjuration|Action|10 ft raio|1 turno|Martelos, espadas|Constituição CD|Turbilhão prende (velocidade 0) ou danos 1d4 contundente (metade na falha).|
-|**Dravima**|Transmutation|Free Action|Self|Até consumo|Qualquer arma|—|Acumula 3 cargas; consome todas num golpe que causa 3d6 trovão + push 10 ft.|
-|**Zephyr Shield**|Abjuration|Reaction|Self|1 turno|—|—|Concede +2 CA contra um ataque.|
-|**Boreas Reach**|Evocation|Action|60 ft|Instantâneo|—|Destreza CD|Disco de vento causa 3d6 trovão em alvo.|
-|**Stormbind**|Enchantment|Action|30 ft|Concentração, 2 turnos|—|Sabedoria CD|Alvo não sai da área (velocidade 0) ou sofre 2d6 concussão.|
-|**Furtivae**|Illusion|Bonus Action|Self|1 turno|—|—|Torna você invisível enquanto não atacar.|
-|**Vinculum**|Abjuration|Reaction|Self|Instantâneo|—|—|Impõe restrição (prone) a criatura que tenta fugir de seu círculo de 10 ft.|
-|**Somnum**|Enchantment|Action|20 ft raio|Instantâneo|—|Sabedoria CD|Coloca criaturas em sono leve; falha metade.|
-|**Via Noctis**|Conjuration|Action|Touch|Concentração, 1 min|—|—|Transporta você silenciosamente até 20 ft em sombras.|
-|**Correlatio**|Divination|Action|30 ft|Instantâneo|—|Sabedoria CD|Conecta dois alvos: dano recebido por um é dividido com o outro pelo próximo turno.|
-|**Folium**|Transmutation|Action|Self|1 minuto|—|—|Sua trilha desaparece (não deixa vestígios) por toda a duração.|
-|**Intercursus**|Conjuration|Action|60 ft|Concentração, 1 min|—|—|Cria portal bidirecional de 5 ft entre dois pontos visíveis.|
+| Nome              | Escola        | Tipo         | Alcance    | Duração                | Armas Permitidas  | Acerto / CD     | Dano / Efeito                                                                       |
+| ----------------- | ------------- | ------------ | ---------- | ---------------------- | ----------------- | --------------- | ----------------------------------------------------------------------------------- |
+| **Ciclorrho**     | Conjuration   | Action       | 10 ft raio | 1 turno                | Martelos, espadas | Constituição CD | Turbilhão prende (velocidade 0) ou danos 1d4 contundente (metade na falha).         |
+| **Dravima**       | Transmutation | Free Action  | Self       | Até consumo            | Qualquer arma     | —               | Acumula 3 cargas; consome todas num golpe que causa 3d6 trovão + push 10 ft.        |
+| **Zephyr Shield** | Abjuration    | Reaction     | Self       | 1 turno                | —                 | —               | Concede +2 CA contra um ataque.                                                     |
+| **Boreas Reach**  | Evocation     | Action       | 60 ft      | Instantâneo            | —                 | Destreza CD     | Disco de vento causa 3d6 trovão em alvo.                                            |
+| **Stormbind**     | Enchantment   | Action       | 30 ft      | Concentração, 2 turnos | —                 | Sabedoria CD    | Alvo não sai da área (velocidade 0) ou sofre 2d6 concussão.                         |
+| **Furtivae**      | Illusion      | Bonus Action | Self       | 1 turno                | —                 | —               | Torna você invisível enquanto não atacar.                                           |
+| **Vinculum**      | Abjuration    | Reaction     | Self       | Instantâneo            | —                 | —               | Impõe restrição (prone) a criatura que tenta fugir de seu círculo de 10 ft.         |
+| **Somnum**        | Enchantment   | Action       | 20 ft raio | Instantâneo            | —                 | Sabedoria CD    | Coloca criaturas em sono leve; falha metade.                                        |
+| **Via Noctis**    | Conjuration   | Action       | Touch      | Concentração, 1 min    | —                 | —               | Transporta você silenciosamente até 20 ft em sombras.                               |
+| **Correlatio**    | Divination    | Action       | 30 ft      | Instantâneo            | —                 | Sabedoria CD    | Conecta dois alvos: dano recebido por um é dividido com o outro pelo próximo turno. |
+| **Folium**        | Transmutation | Action       | Self       | 1 minuto               | —                 | —               | Sua trilha desaparece (não deixa vestígios) por toda a duração.                     |
+| **Intercursus**   | Conjuration   | Action       | 60 ft      | Concentração, 1 min    | —                 | —               | Cria portal bidirecional de 5 ft entre dois pontos visíveis.                        |
 
 ---
 

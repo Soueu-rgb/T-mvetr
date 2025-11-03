@@ -19,39 +19,39 @@
 
 ## 2º Círculo
 
-|Nome|Escola|Tipo|Alcance|Duração|Acerto / CD|Dano / Efeito|Descrição|Alvos|
-|---|---|---|---|---|---|---|---|---|
-|**Chama Viva**|Evocation|Action|25 ft cone|Instantâneo|Destreza CD 8 + prof + DES para metade|2d6 fogo; metade no sucesso|Cartucho incendiário gera labareda em cone de 15 ft.|Criaturas no cone|
-|**Ricochete**|Illusion|Action|60 ft|Instantâneo|—|Até 3 alvos: 1d6 perfurante cada|Projétil fantasmal salta até três alvos dentro do alcance.|Até 3 alvos distintos|
-|**Overcharge**|Evocation|Bonus Action|Self|1 turno|—|+1d8 elétrico no próximo disparo|Arma sobrecarregada com energia estática.|Você|
-|**Blastwave**|Evocation|Action|20 ft cone|Instantâneo|Constituição CD 8 + prof + CAR para metade|2d8 trovão; metade no sucesso|Explosão de ar comprimido expulsa inimigos e causa dano sônico.|Criaturas no cone|
-|**Tight Spread**|Transmutation|Action|Self|Concentração, 1 turno|—|Faz com que o espalhamento atinja apenas 5 ft de largura, mas +1 de dano|Ajuste rúnico no choke para dispersão reduzida e impacto concentrado.|Você|
-|**Slug Volley**|Conjuration|Action|30 ft|Instantâneo|Destreza CD 8 + prof + DES para metade|3 projéteis de 1d6 perfurante; metade no sucesso|Dispara três projéteis sólidos de menor calibre em rápida sucessão.|Até 3 alvos|
-|**Recoil Lash**|Enchantment|Reaction|Self|Instantâneo|—|Ao ser atingido, provoque 1d4 concussão em atacante|Canaliza o recuo de volta ao agressor.|1 atacante|
-|**Fog Cartridge**|Conjuration|Action|15 ft circle|1 turno|—|Área fica obscurecida (equivalente a nevasca leve)|Cartucho especial expele névoa gelada para cegar inimigos.|Criaturas na área|
-|**Buckshot**|Transmutation|Action|10 ft cone|Instantâneo|—|+1d4 perfurante em cada alvo dentro do cone|Converte chumbinho em projéteis maiores para maior penetração.|Criaturas no cone|
-|**Bolt Trap**|Conjuration|Action|5 ft radius|Concentração, 1 turno|—|Ao entrar, criaturas sofrem 1d6 perfurante|Cria armadilha ao redor de você: pedaços afiados emergem do solo.|Criaturas na área|
-|**Heatwave**|Evocation|Action|30 ft line|1 turno|Constituição CD 8 + prof + CAR para metade|2d6 fogo + desaceleração de 10 ft (falha)|Rajada de calor intenso que distorce o ar em linha de 30 ft.|Criaturas na linha|
-|**Loadshell**|Abjuration|Bonus Action|Self|1 turno|—|Recupera 1d4 munição (até o máximo usual)|Automatismo rúnico recarrega parcialmente seu tambor.|Você|
+| Nome              | Escola        | Tipo         | Alcance      | Duração               | Acerto / CD                                | Dano / Efeito                                                            | Descrição                                                             | Alvos                 |
+| ----------------- | ------------- | ------------ | ------------ | --------------------- | ------------------------------------------ | ------------------------------------------------------------------------ | --------------------------------------------------------------------- | --------------------- |
+| **Chama Viva**    | Evocation     | Action       | 25 ft cone   | Instantâneo           | Destreza CD 8 + prof + DES para metade     | 2d6 fogo; metade no sucesso                                              | Cartucho incendiário gera labareda em cone de 15 ft.                  | Criaturas no cone     |
+| **Ricochete**     | Illusion      | Action       | 60 ft        | Instantâneo           | —                                          | Até 3 alvos: 1d6 perfurante cada                                         | Projétil fantasmal salta até três alvos dentro do alcance.            | Até 3 alvos distintos |
+| **Overcharge**    | Evocation     | Bonus Action | Self         | 1 turno               | —                                          | +1d8 elétrico no próximo disparo                                         | Arma sobrecarregada com energia estática.                             | Você                  |
+| **Blastwave**     | Evocation     | Action       | 20 ft cone   | Instantâneo           | Constituição CD 8 + prof + CAR para metade | 2d8 trovão; metade no sucesso                                            | Explosão de ar comprimido expulsa inimigos e causa dano sônico.       | Criaturas no cone     |
+| **Tight Spread**  | Transmutation | Action       | Self         | Concentração, 1 turno | —                                          | Faz com que o espalhamento atinja apenas 5 ft de largura, mas +1 de dano | Ajuste rúnico no choke para dispersão reduzida e impacto concentrado. | Você                  |
+| **Slug Volley**   | Conjuration   | Action       | 30 ft        | Instantâneo           | Destreza CD 8 + prof + DES para metade     | 3 projéteis de 1d6 perfurante; metade no sucesso                         | Dispara três projéteis sólidos de menor calibre em rápida sucessão.   | Até 3 alvos           |
+| **Recoil Lash**   | Enchantment   | Reaction     | Self         | Instantâneo           | —                                          | Ao ser atingido, provoque 1d4 concussão em atacante                      | Canaliza o recuo de volta ao agressor.                                | 1 atacante            |
+| **Fog Cartridge** | Conjuration   | Action       | 15 ft circle | 1 turno               | —                                          | Área fica obscurecida (equivalente a nevasca leve)                       | Cartucho especial expele névoa gelada para cegar inimigos.            | Criaturas na área     |
+| **Buckshot**      | Transmutation | Action       | 10 ft cone   | Instantâneo           | —                                          | +1d4 perfurante em cada alvo dentro do cone                              | Converte chumbinho em projéteis maiores para maior penetração.        | Criaturas no cone     |
+| **Bolt Trap**     | Conjuration   | Action       | 5 ft radius  | Concentração, 1 turno | —                                          | Ao entrar, criaturas sofrem 1d6 perfurante                               | Cria armadilha ao redor de você: pedaços afiados emergem do solo.     | Criaturas na área     |
+| **Heatwave**      | Evocation     | Action       | 30 ft line   | 1 turno               | Constituição CD 8 + prof + CAR para metade | 2d6 fogo + desaceleração de 10 ft (falha)                                | Rajada de calor intenso que distorce o ar em linha de 30 ft.          | Criaturas na linha    |
+| **Loadshell**     | Abjuration    | Bonus Action | Self         | 1 turno               | —                                          | Recupera 1d4 munição (até o máximo usual)                                | Automatismo rúnico recarrega parcialmente seu tambor.                 | Você                  |
 
 ---
 
 ## 3º Círculo
 
-|Nome|Escola|Tipo|Alcance|Duração|Acerto / CD|Dano / Efeito|Descrição|Alvos|
-|---|---|---|---|---|---|---|---|---|
-|**Carga Rápida**|Abjuration|Bonus Action|Self|1 turno|—|+2 no ataque do próximo disparo|Runa agiliza o mecanismo, permitindo disparo preciso sem penalidade de recarga.|Você|
-|**Ondulação**|Transmutation|Action|30 ft|1 turno|Constituição CD 8 + prof + CAR para metade|2d4 perfurante + empurra 5 ft (falha total; meio na CD)|Tiro forma onda que desloca o ar ao longo de uma linha.|Criaturas na linha|
-|**Scatter Bomb**|Conjuration|Action|15 ft cone|Instantâneo|Destreza CD 8 + prof + DES para metade|4d4 perfurante; metade no sucesso|Cardume de estilhaços rúnicos dispara em cone largo, perfurando múltiplos alvos.|Criaturas no cone|
-|**Volley**|Conjuration|Action|60 ft|Instantâneo|Sabedoria CD 8 + prof + CAR para metade|Até 5 projéteis de 1d6 perfurante|Invoca múltiplos cartuchos mágicos que visam diferentes alvos.|Até 5 alvos|
-|**Stormshell**|Evocation|Action|20 ft|Instantâneo|Constituição CD 8 + prof + CAR para metade|3d6 trovão; metade no sucesso|Explosão rúnica causa trovão e provoca prone em falha.|Criaturas na área|
-|**Frostload**|Transmutation|Action|30 ft|1 turno|Sabedoria CD 8 + prof + CAR para metade|2d6 frio + lentidão 10 ft|Cartucho gelado congela o ar ao redor do projétil, retardando alvos.|Criaturas atingidas|
-|**Blast Coil**|Conjuration|Action|Self|1 turno|—|Cartucho extra ganho (total +1)|Gera energia de recarga, fornecendo um disparo adicional.|Você|
-|**Shock Spread**|Evocation|Action|15 ft cone|Instantâneo|Constituição CD 8 + prof + CAR para metade|2d6 raio; metade no sucesso|Disparo elétrica se fragmenta em cone, eletrocutando inimigos leves.|Criaturas no cone|
-|**Arc Shell**|Conjuration|Action|60 ft|Instantâneo|Destreza CD 8 + prof + DES para metade|1d8 perfurante + 1d8 radiante|Projétil de metal magnético astral perfura e brilha com energia.|1 alvo|
-|**Quickload**|Abjuration|Bonus Action|Self|1 turno|—|Recarrega todas as munições em metade do tempo|Runa acelera drasticamente o processo de recarga.|Você|
-|**Pressure Burst**|Evocation|Action|10 ft sphere|Instantâneo|Constituição CD 8 + prof + CAR para metade|3d6 contundente; metade no sucesso|Cartucho de alta pressão expande-se violentamente, gerando explosão de ar denso.|Criaturas na esfera|
-|**Dazzle Shot**|Illusion|Action|30 ft|1 turno|Sabedoria CD 8 + prof + CAR para resistir|Cegueira leve em falha; metade da duração no sucesso|Faíscas rúnicas criam um clarão ofuscante no impacto.|1 alvo|
+| Nome               | Escola        | Tipo         | Alcance      | Duração     | Acerto / CD                                | Dano / Efeito                                           | Descrição                                                                        | Alvos               |
+| ------------------ | ------------- | ------------ | ------------ | ----------- | ------------------------------------------ | ------------------------------------------------------- | -------------------------------------------------------------------------------- | ------------------- |
+| **Carga Rápida**   | Abjuration    | Bonus Action | Self         | 1 turno     | —                                          | +2 no ataque do próximo disparo                         | Runa agiliza o mecanismo, permitindo disparo preciso sem penalidade de recarga.  | Você                |
+| **Ondulação**      | Transmutation | Action       | 30 ft        | 1 turno     | Constituição CD 8 + prof + CAR para metade | 2d4 perfurante + empurra 5 ft (falha total; meio na CD) | Tiro forma onda que desloca o ar ao longo de uma linha.                          | Criaturas na linha  |
+| **Scatter Bomb**   | Conjuration   | Action       | 15 ft cone   | Instantâneo | Destreza CD 8 + prof + DES para metade     | 4d4 perfurante; metade no sucesso                       | Cardume de estilhaços rúnicos dispara em cone largo, perfurando múltiplos alvos. | Criaturas no cone   |
+| **Volley**         | Conjuration   | Action       | 60 ft        | Instantâneo | Sabedoria CD 8 + prof + CAR para metade    | Até 5 projéteis de 1d6 perfurante                       | Invoca múltiplos cartuchos mágicos que visam diferentes alvos.                   | Até 5 alvos         |
+| **Stormshell**     | Evocation     | Action       | 20 ft        | Instantâneo | Constituição CD 8 + prof + CAR para metade | 3d6 trovão; metade no sucesso                           | Explosão rúnica causa trovão e provoca prone em falha.                           | Criaturas na área   |
+| **Frostload**      | Transmutation | Action       | 30 ft        | 1 turno     | Sabedoria CD 8 + prof + CAR para metade    | 2d6 frio + lentidão 10 ft                               | Cartucho gelado congela o ar ao redor do projétil, retardando alvos.             | Criaturas atingidas |
+| **Blast Coil**     | Conjuration   | Action       | Self         | 1 turno     | —                                          | Cartucho extra ganho (total +1)                         | Gera energia de recarga, fornecendo um disparo adicional.                        | Você                |
+| **Shock Spread**   | Evocation     | Action       | 15 ft cone   | Instantâneo | Constituição CD 8 + prof + CAR para metade | 2d6 raio; metade no sucesso                             | Disparo elétrica se fragmenta em cone, eletrocutando inimigos leves.             | Criaturas no cone   |
+| **Arc Shell**      | Conjuration   | Action       | 60 ft        | Instantâneo | Destreza CD 8 + prof + DES para metade     | 1d8 perfurante + 1d8 radiante                           | Projétil de metal magnético astral perfura e brilha com energia.                 | 1 alvo              |
+| **Quickload**      | Abjuration    | Bonus Action | Self         | 1 turno     | —                                          | Recarrega todas as munições em metade do tempo          | Runa acelera drasticamente o processo de recarga.                                | Você                |
+| **Pressure Burst** | Evocation     | Action       | 10 ft sphere | Instantâneo | Constituição CD 8 + prof + CAR para metade | 3d6 contundente; metade no sucesso                      | Cartucho de alta pressão expande-se violentamente, gerando explosão de ar denso. | Criaturas na esfera |
+| **Dazzle Shot**    | Illusion      | Action       | 30 ft        | 1 turno     | Sabedoria CD 8 + prof + CAR para resistir  | Cegueira leve em falha; metade da duração no sucesso    | Faíscas rúnicas criam um clarão ofuscante no impacto.                            | 1 alvo              |
 
 ---
 

@@ -1,19 +1,19 @@
 ## 1º Círculo 
 
-|Nome|Escola|Tipo|Alcance|Duração|Acerto / CD|Dano / Efeito|Descrição|Alvos|
-|---|---|---|---|---|---|---|---|---|
-|**Gyakufuku**|Abjuration|Reaction (ao sofrer dano)|Self|Instantâneo|—|Reflete 1d6 contundente|Ao sofrer dano, reflete 1d6 de dano contundente ao atacante.|1 atacante|
-|**Parma Lumen**|Abjuration|Action|Self|Concentração, 1 turno|—|Emite luz 20 ft|Escudo brilha como tocha, iluminando área e cega quem olhar diretamente.|Você|
-|**Aegis Echo**|Evocation|Reaction (ao bloquear)|Self|Instantâneo|—|Canaliza escudo: +1d4 dano force ao bloqueador|Quando bloquear ataque corpo a corpo, emana energia que fere o atacante.|1 atacante|
-|**Fortis**|Transmutation|Bonus Action|Self|1 turno|—|+1 CA|Escudo cresce levemente, aumentando sua CA em +1.|Você|
-|**Vigilo**|Divination|Reaction (ao rolar iniciativa)|Self|Instantâneo|—|Vantagem no primeiro teste do combate|Ao rolar iniciativa, você ganha vantagem em uma jogada de ataque ou teste de salvamento.|Você|
-|**Murro**|Transmutation|Bonus Action|Self|Instantâneo|—|Empurra 5 ft|Bate com o escudo, empurrando o alvo adjacente 5 ft.|1 alvo adjacente|
-|**Protego**|Abjuration|Reaction (alvo amigo)|5 ft|Instantâneo|Sabedoria CD|Transfere metade do dano recebido|Você intercepta ataque dirigido a aliado adjacente, recebendo metade do dano em seu lugar.|1 aliado adjacente|
-|**Scutum**|Abjuration|Action|Self|Concentração, 1 turno|—|Meia cobertura|Gira escudo para frente, concedendo meia cobertura (+2 CA, +2 desvantagem a inimigo distante).|Você|
-|**Reflectio**|Abjuration|Reaction (ao sofrer magia)|Self|Instantâneo|—|Reflete magia de projétil|Quando alvo de magia de projétil, reflete de volta ao lançador (mesmo nível).|1 conjurador|
-|**Solidum**|Transmutation|Action|Self|Concentração, 4 turnos|—|Redução de dano contundente 2|Escudo torna-se de pedra; você recebe redução de 2 em dano contundente.|Você|
-|**Tenax**|Abjuration|Action|Self|1 turno|—|Impede ser derrubado|Você não pode ser derrubado ou empurrado enquanto durar a runa.|Você|
-|**Repello**|Evocation|Reaction|Self|Instantâneo|—|Repele projétil: desvia uma flecha ou dardo|Quando alvo de projétil, escudo desvia tiro para longe.|1 projétil|
+| Nome            | Escola        | Tipo                           | Alcance | Duração                | Acerto / CD  | Dano / Efeito                                  | Descrição                                                                                      | Alvos              |
+| --------------- | ------------- | ------------------------------ | ------- | ---------------------- | ------------ | ---------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------ |
+| **Gyakufuku**   | Abjuration    | Reaction (ao sofrer dano)      | Self    | Instantâneo            | —            | Reflete 1d6 contundente                        | Ao sofrer dano, reflete 1d6 de dano contundente ao atacante.                                   | 1 atacante         |
+| **Parma Lumen** | Abjuration    | Action                         | Self    | Concentração, 1 turno  | —            | Emite luz 20 ft                                | Escudo brilha como tocha, iluminando área e cega quem olhar diretamente.                       | Você               |
+| **Aegis Echo**  | Evocation     | Reaction (ao bloquear)         | Self    | Instantâneo            | —            | Canaliza escudo: +1d4 dano force ao bloqueador | Quando bloquear ataque corpo a corpo, emana energia que fere o atacante.                       | 1 atacante         |
+| **Fortis**      | Transmutation | Bonus Action                   | Self    | 1 turno                | —            | +1 CA                                          | Escudo cresce levemente, aumentando sua CA em +1.                                              | Você               |
+| **Vigilo**      | Divination    | Reaction (ao rolar iniciativa) | Self    | Instantâneo            | —            | Vantagem no primeiro teste do combate          | Ao rolar iniciativa, você ganha vantagem em uma jogada de ataque ou teste de salvamento.       | Você               |
+| **Murro**       | Transmutation | Bonus Action                   | Self    | Instantâneo            | —            | Empurra 5 ft                                   | Bate com o escudo, empurrando o alvo adjacente 5 ft.                                           | 1 alvo adjacente   |
+| **Protego**     | Abjuration    | Reaction (alvo amigo)          | 5 ft    | Instantâneo            | Sabedoria CD | Transfere metade do dano recebido              | Você intercepta ataque dirigido a aliado adjacente, recebendo metade do dano em seu lugar.     | 1 aliado adjacente |
+| **Scutum**      | Abjuration    | Action                         | Self    | Concentração, 1 turno  | —            | Meia cobertura                                 | Gira escudo para frente, concedendo meia cobertura (+2 CA, +2 desvantagem a inimigo distante). | Você               |
+| **Reflectio**   | Abjuration    | Reaction (ao sofrer magia)     | Self    | Instantâneo            | —            | Reflete magia de projétil                      | Quando alvo de magia de projétil, reflete de volta ao lançador (mesmo nível).                  | 1 conjurador       |
+| **Solidum**     | Transmutation | Action                         | Self    | Concentração, 4 turnos | —            | Redução de dano contundente 2                  | Escudo torna-se de pedra; você recebe redução de 2 em dano contundente.                        | Você               |
+| **Tenax**       | Abjuration    | Action                         | Self    | 1 turno                | —            | Impede ser derrubado                           | Você não pode ser derrubado ou empurrado enquanto durar a runa.                                | Você               |
+| **Repello**     | Evocation     | Reaction                       | Self    | Instantâneo            | —            | Repele projétil: desvia uma flecha ou dardo    | Quando alvo de projétil, escudo desvia tiro para longe.                                        | 1 projétil         |
 
 ---
 
