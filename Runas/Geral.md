@@ -22,23 +22,23 @@
 
 ## 3º Círculo
 
-|Nome|Escola|Tipo|Duração / Efeito|
-|---|---|---|---|
-|**Viperstrike**|Necromancy|Action|Ataque causa 2d6 necrótico e alvo fica envenenado (1d6 necrótico/turno) até usar ação para limpar o veneno.|
-|**Chama Ancestral**|Evocation|Action|A arma incandesce, causando +1d6 fogo em cada acerto por 1 turno.|
-|**Estilhaço**|Conjuration|Action|Arremessa fragmento de arma: 20/60 ft, 2d8 cortante; a arma original não se move.|
-|**Sombras Oscilantes**|Illusion|Bonus Action|Ataque invisível: seu próximo golpe não revela sua posição (furtividade mantida).|
+| Nome                   | Escola      | Tipo         | Duração / Efeito                                                                                            |
+| ---------------------- | ----------- | ------------ | ----------------------------------------------------------------------------------------------------------- |
+| **Viperstrike**        | Necromancy  | Action       | Ataque causa 2d6 necrótico e alvo fica envenenado (1d6 necrótico/turno) até usar ação para limpar o veneno. |
+| **Chama Ancestral**    | Evocation   | Action       | A arma incandesce, causando +1d6 fogo em cada acerto por 1 turno.                                           |
+| **Estilhaço**          | Conjuration | Action       | Arremessa fragmento de arma: 20/60 ft, 2d8 cortante; a arma original não se move.                           |
+| **Sombras Oscilantes** | Illusion    | Bonus Action | Ataque invisível: seu próximo golpe não revela sua posição (furtividade mantida).                           |
 
 ---
 
 ## 4º Círculo
 
-|Nome|Escola|Tipo|Duração / Efeito|
-|---|---|---|---|
-|**Flecha Sísmica**|Evocation|Action|Arco dispara flecha que, ao atingir, gera tremor de 1d8 contundente em 10 ft (metade no DEX CD).|
-|**Lâmina Vorpalina**|Transmutation|Action|Atingir crítico desfere corte adicional de 2d6; falha no ataque normal, sem efeito extra.|
-|**Corrente Etérea**|Conjuration|Action|A arma atravessa cobertura não mágica (paredes finas) no próximo ataque.|
-|**Pulso Rúnico**|Enchantment|Reaction|Quando você falha no ataque, converte o golpe em pulso de 3d4 de dano forçado em si mesmo, mas acerta.|
+| Nome                 | Escola        | Tipo     | Duração / Efeito                                                                                       |
+| -------------------- | ------------- | -------- | ------------------------------------------------------------------------------------------------------ |
+| **Flecha Sísmica**   | Evocation     | Action   | Arco dispara flecha que, ao atingir, gera tremor de 1d8 contundente em 10 ft (metade no DEX CD).       |
+| **Lâmina Vorpalina** | Transmutation | Reaction | Atingir crítico desfere corte adicional de 2d6; falha no ataque normal, sem efeito extra.              |
+| **Corrente Etérea**  | Conjuration   | Action   | A arma atravessa cobertura não mágica (paredes finas) no próximo ataque.                               |
+| **Pulso Rúnico**     | Enchantment   | Reaction | Quando você falha no ataque, converte o golpe em pulso de 3d4 de dano forçado em si mesmo, mas acerta. |
 
 ---
 
