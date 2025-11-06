@@ -1,19 +1,19 @@
 ## 1º Círculo
 
-|Nome|Escola|Tipo|Alcance|Duração|Acerto / CD|Dano / Efeito|
-|---|---|---|---|---|---|---|
-|**Aetheris**|Evocation|Action|15 ft|Instantâneo|Constituição CD 8 + prof + CON para metade|Vapor letal: cone 15 ft; até 3 alvos; 1d4 slashing (metade na CD bem-sucedida).|
-|**Cruor**|Abjuration|Action|Self (melee)|Concentração, 1 turno|—|Sifão de sangue: regen 1 HP a cada 2 pts de dano infligido (máx 5 HP).|
-|**Celeris**|Transmutation|Bonus Action|Self|1 turno|—|Ganha +10 ft de deslocamento até o fim do turno.|
-|**Lethalis**|Evocation|Reaction|5 ft|Instantâneo|Sabedoria CD 8 + prof + CAR para metade|Quando você erra um ataque, provoca 1d4 slashing a um inimigo adjacente ao alvo original.|
-|**Noctuax**|Illusion|Action|Self|Concentração, 1 turno|—|Invisibilidade parcial: você fica sombriamente translúcido até iniciar um ataque.|
-|**Silva**|Enchantment|Action|Self|Concentração, 4 turnos|Carisma CD 8 + prof + CAR para resistir|Alvo escolhido ganha +2 CA por 1 turno. (pode ser você ou aliado).|
-|**Fragor**|Evocation|Action|10 ft raio|Instantâneo|Constituição CD 8 + prof + CON para metade|Ondas de choque: 1d6 contundente (metade na CD bem-sucedida).|
-|**Auriga**|Divination|Action|30 ft|Instantâneo|Sabedoria CD 8 + prof + SAB para metade|Revela a trajetória do próximo ataque inimigo; concede +2 CA a você ou aliado até o fim do próximo turno.|
-|**Umbra**|Illusion|Action|15 ft|Concentração, 1 min|Sabedoria CD 8 + prof + CAR para resistir|Clones sombrios: você conjura 2 imagens que duram até descarregar ou atacar.|
-|**Furtivo**|Transmutation|Reaction|Self|Instantâneo|—|Ao ser alvo de ataque corpo a corpo, você se torna incorpóreo até o fim do turno, evitando o ataque.|
-|**Veloce**|Enchantment|Bonus Action|Self|1 turno|—|Ganha um ataque extra com adaga dupla neste turno.|
-|**Rutilus**|Abjuration|Reaction|Self|Instantâneo|—|Cria flash de luz ofuscante; atacante falha CD de Sabedoria fica cego até o fim do próximo turno.|
+| Nome         | Escola        | Tipo         | Alcance      | Duração                | Acerto / CD                                | Dano / Efeito                                                                                             |
+| ------------ | ------------- | ------------ | ------------ | ---------------------- | ------------------------------------------ | --------------------------------------------------------------------------------------------------------- |
+| **Aetheris** | Evocation     | Action       | 15 ft        | Instantâneo            | Constituição CD 8 + prof + CON para metade | Vapor letal: cone 15 ft; até 3 alvos; 1d4 slashing (metade na CD bem-sucedida).                           |
+| **Cruor**    | Abjuration    | Action       | Self (melee) | Concentração, 1 turno  | —                                          | Sifão de sangue: regen 1 HP a cada 2 pts de dano infligido (máx 5 HP).                                    |
+| **Celeris**  | Transmutation | Bonus Action | Self         | 1 turno                | —                                          | Ganha +10 ft de deslocamento até o fim do turno.                                                          |
+| **Lethalis** | Evocation     | Reaction     | 5 ft         | Instantâneo            | Sabedoria CD 8 + prof + CAR para metade    | Quando você erra um ataque, provoca 1d4 slashing a um inimigo adjacente ao alvo original.                 |
+| **Noctuax**  | Illusion      | Action       | Self         | Concentração, 1 turno  | —                                          | Invisibilidade parcial: você fica sombriamente translúcido até iniciar um ataque.                         |
+| **Silva**    | Enchantment   | Action       | Self         | Concentração, 4 turnos | Carisma CD 8 + prof + CAR para resistir    | Alvo escolhido ganha +2 CA por 1 turno. (pode ser você ou aliado).                                        |
+| **Fragor**   | Evocation     | Action       | 10 ft raio   | Instantâneo            | Constituição CD 8 + prof + CON para metade | Ondas de choque: 1d6 contundente (metade na CD bem-sucedida).                                             |
+| **Auriga**   | Divination    | Action       | 30 ft        | Instantâneo            | Sabedoria CD 8 + prof + SAB para metade    | Revela a trajetória do próximo ataque inimigo; concede +2 CA a você ou aliado até o fim do próximo turno. |
+| **Umbra**    | Illusion      | Action       | 15 ft        | Concentração, 1 min    | Sabedoria CD 8 + prof + CAR para resistir  | Clones sombrios: você conjura 2 imagens que duram até descarregar ou atacar.                              |
+| **Furtivo**  | Transmutation | Reaction     | Self         | Instantâneo            | —                                          | Ao ser alvo de ataque corpo a corpo, você se torna incorpóreo até o fim do turno.                         |
+| **Veloce**   | Enchantment   | Bonus Action | Self         | 1 turno                | —                                          | Ganha um ataque extra com adaga dupla neste turno.                                                        |
+| **Rutilus**  | Abjuration    | Reaction     | Self         | Instantâneo            | —                                          | Cria flash de luz ofuscante; atacante falha CD de Sabedoria fica cego até o fim do próximo turno.         |
 
 ---
 
