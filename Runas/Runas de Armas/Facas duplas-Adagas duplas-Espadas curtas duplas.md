@@ -19,20 +19,20 @@
 
 ## 2º Círculo
 
-|Nome|Escola|Tipo|Alcance|Duração|Acerto / CD|Dano / Efeito|
-|---|---|---|---|---|---|---|
-|**Fissura**|Transmutation|Action|10 ft|Instantâneo|Sabedoria CD 8 + prof + CAR|Racha vontade: 1d6 psychic + desvantagem em ataques até seu próximo turno.|
-|**Reflexus**|Abjuration|Reaction|5 ft|Concentração, 4 turnos|—|Reflete metade do dano mágico de volta ao conjurador enquanto durar.|
-|**Aquila**|Conjuration|Action|Touch|Concentração, 1 min|—|Invoca penas cortantes: até 3 inimigos em 15 ft sofrem 1d4 slashing no início de cada um de seus turnos.|
-|**Catena**|Enchantment|Action|30 ft|1 turno|Sabedoria CD 8 + prof + SAB para resistir|Une você e alvo por correntes de energia: ambos compartilham modificadores de deslocamento (movimento espelhado).|
-|**Nexus**|Divination|Bonus Action|Self|1 turno|—|Conecta-se a até 2 aliados: compartilham bônus de ataque e CA entre si.|
-|**Glacies**|Evocation|Action|20 ft ao redor|Instantâneo|Constituição CD 8 + prof + CON para metade|Rajada de gelo: 2d4 frio + redução de 10 ft de deslocamento por 1 turno em falha.|
-|**Tenebra**|Illusion|Action|60 ft|Concentração, 1 min|Sabedoria CD 8 + prof + CAR|Campo de trevas: diminui visão a 5 ft para inimigos na área.|
-|**Umbra–Cruor**|Necromancy|Reaction|Self|Instantâneo|—|Gasta pontos de vida: cura você em 1d6 HP e maldições inimigos a 1d6 necrotic.|
-|**Celeritas**|Transmutation|Bonus Action|Self|1 turno|—|Ganha +2 em CA e +10 ft de deslocamento até o fim do turno.|
-|**Avidus**|Enchantment|Action|Touch|Concentração, 1 min|Sabedoria CD 8 + prof + CAR|Torna alvo ganancioso: ele sofre 1d4 psychic se mover para fora de um círculo de 15 ft.|
-|**Obex**|Abjuration|Reaction|Self|Instantâneo|—|Cria escudo efêmero que reduz o próximo dano recebido em 1d6.|
-|**Spicula**|Conjuration|Action|30 ft|Instantâneo|Destreza CD 8 + prof + DES para metade|Dispara até 3 espinhos etéreos: cada alvo sofre 1d4 perfurante (metade na CD bem-sucedida).|
+| Nome            | Escola        | Tipo         | Alcance        | Duração                | Acerto / CD                                | Dano / Efeito                                                                                                     |
+| --------------- | ------------- | ------------ | -------------- | ---------------------- | ------------------------------------------ | ----------------------------------------------------------------------------------------------------------------- |
+| **Fissura**     | Transmutation | Action       | 10 ft          | Instantâneo            | Sabedoria CD 8 + prof + CAR                | Racha vontade: 1d6 psychic + desvantagem em ataques até seu próximo turno.                                        |
+| **Reflexus**    | Abjuration    | Reaction     | 5 ft           | Concentração, 4 turnos | —                                          | Reflete metade do dano mágico de volta ao conjurador enquanto durar.                                              |
+| **Aquila**      | Conjuration   | Action       | Touch          | Concentração, 1 min    | —                                          | Invoca penas cortantes: até 3 inimigos em 15 ft sofrem 1d4 slashing no início de cada um de seus turnos.          |
+| **Catena**      | Enchantment   | Action       | 30 ft          | 1 turno                | Sabedoria CD 8 + prof + SAB para resistir  | Une você e alvo por correntes de energia: ambos compartilham modificadores de deslocamento (movimento espelhado). |
+| **Nexus**       | Divination    | Bonus Action | Self           | 1 turno                | —                                          | Conecta-se a até 2 aliados: compartilham bônus de ataque e CA entre si.                                           |
+| **Glacies**     | Evocation     | Action       | 20 ft ao redor | Instantâneo            | Constituição CD 8 + prof + CON para metade | Rajada de gelo: 2d4 frio + redução de 10 ft de deslocamento por 1 turno em falha.                                 |
+| **Tenebra**     | Illusion      | Action       | 60 ft          | Concentração, 1 min    | Sabedoria CD 8 + prof + CAR                | Campo de trevas: diminui visão a 5 ft para inimigos na área.                                                      |
+| **Umbra–Cruor** | Necromancy    | Reaction     | Self           | Instantâneo            | —                                          | Gasta pontos de vida: cura você em 1d6 HP e maldições inimigos a 1d6 necrotic.                                    |
+| **Celeritas**   | Transmutation | Bonus Action | Self           | 1 turno                | —                                          | Ganha +2 em CA e +10 ft de deslocamento até o fim do turno.                                                       |
+| **Avidus**      | Enchantment   | Action       | Touch          | Concentração, 1 min    | Sabedoria CD 8 + prof + CAR                | Torna alvo ganancioso: ele sofre 1d4 psychic se mover para fora de um círculo de 15 ft.                           |
+| **Obex**        | Abjuration    | Reaction     | Self           | Instantâneo            | —                                          | Cria escudo efêmero que reduz o próximo dano recebido em 1d6.                                                     |
+| **Spicula**     | Conjuration   | Action       | 30 ft          | Instantâneo            | Destreza CD 8 + prof + DES para metade     | Dispara até 3 espinhos etéreos: cada alvo sofre 1d4 perfurante (metade na CD bem-sucedida).                       |
 
 ---
 

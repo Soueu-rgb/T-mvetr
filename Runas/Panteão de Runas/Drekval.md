@@ -91,14 +91,14 @@
 
 ## 8º Círculo
 
-|Nome|Escola|Tipo|Alcance|Duração|Armas Permitidas|Acerto / CD|Efeito|
-|---|---|---|---|---|---|---|---|
-|World吞噬 (Devour)|Conjuration|Action|500 ft radius|Instantâneo|—|Constituição CD|Engole tudo numa vasta área: 20d6 necrotic; falha é sugado 30 ft ao centro e restrito.|
-|Oblivion Sphere|Abjuration|Bonus Action|Self|1 minuto|—|—|Esfera de vazio segue você; inimigos que se aproximam são devorados (Con CD ou 10d6 necrotic+restrição de movimento).|
-|Memory Vacuum|Enchantment|Action|300 ft|Instantâneo|—|Sabedoria CD|Apaga todos os registros de até 24 horas em área: mapas, anotações, memórias externas (papeis, etc.).|
-|Abyssal Riftstorm|Evocation|Action|Self (300 ft line)|Instantâneo|—|Constituição CD|Linha dupla de rifts que causam 12d6 necrotic em cada criatura atravessada.|
-|Null Infinity|Evocation|Bonus Action|Self|1 minuto|—|—|Você e aliados tornam-se etéreos ao vazio, atravessando objetos e inimigos sem colisão.|
-|Erasure Nova|Transmutation|Action|200 ft radius|Instantâneo|—|—|Combina vazio e antimatéria: terreno vira negação, criaturas na área somem por 1d4 rodadas.|
+| Nome              | Escola        | Tipo         | Alcance            | Duração     | Armas Permitidas | Acerto / CD     | Efeito                                                                                                                |
+| ----------------- | ------------- | ------------ | ------------------ | ----------- | ---------------- | --------------- | --------------------------------------------------------------------------------------------------------------------- |
+| World吞噬 (Devour)  | Conjuration   | Action       | 500 ft radius      | Instantâneo | —                | Constituição CD | Engole tudo numa vasta área: 20d6 necrotic; falha é sugado 30 ft ao centro e restrito.                                |
+| Oblivion Sphere   | Abjuration    | Bonus Action | Self               | 1 minuto    | —                | —               | Esfera de vazio segue você; inimigos que se aproximam são devorados (Con CD ou 10d6 necrotic+restrição de movimento). |
+| Memory Vacuum     | Enchantment   | Action       | 300 ft             | Instantâneo | —                | Sabedoria CD    | Apaga todos os registros de até 24 horas em área: mapas, anotações, memórias externas (papeis, etc.).                 |
+| Abyssal Riftstorm | Evocation     | Action       | Self (300 ft line) | Instantâneo | —                | Constituição CD | Linha dupla de rifts que causam 12d6 necrotic em cada criatura atravessada.                                           |
+| Null Infinity     | Evocation     | Bonus Action | Self               | 1 minuto    | —                | —               | Você e aliados tornam-se etéreos ao vazio, atravessando objetos e inimigos sem colisão.                               |
+| Erasure Nova      | Transmutation | Action       | 200 ft radius      | Instantâneo | —                | —               | Combina vazio e antimatéria: terreno vira negação, criaturas na área somem por 1d4 rodadas.                           |
 
 ---
 
