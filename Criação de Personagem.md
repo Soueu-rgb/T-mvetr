@@ -226,17 +226,6 @@ Todos os personagens começam com **4 em cada atributo** e podem distribuir **+4
 | 19    | 3                | 305.000       |
 | 20    | 3                | 355.000       |
 
----
-
-## 🌀 Multiclasse
-
-> *Quando uma alma não se contenta com um destino só.*
-
-A partir do **nível 6**, o personagem pode adotar uma **segunda classe**:
-
-- XP necessário por nível aumenta em **+25%**  
-- Deve justificar a origem da nova classe (narrativa)  
-- Runas/magias precisam de **origem compatível**
 
 ---
 
