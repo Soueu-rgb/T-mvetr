@@ -60,7 +60,7 @@
   > *“A lâmina solar rasga as trevas do coração.”*  
   Poder: purifica qualquer mal com seu corte luminar, desintegrando sombras e mentiras.
 
-- **🌙 Draumr** 
+	- **🌙 Draumr** 
   > *“Os sonhos sussurram segredos que o dia não ousa ouvir.”*  
   Poder: manipula visões oníricas para revelar verdades ocultas ou enganar a mente mais forte.
 
