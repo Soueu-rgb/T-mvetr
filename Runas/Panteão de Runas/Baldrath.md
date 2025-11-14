@@ -84,15 +84,15 @@
 
 ## 7º Círculo
 
-|Nome|Escola|Tipo|Alcance|Duração|Armas Permitidas|Acerto / CD|Dano / Efeito|Descrição & Ajuste|Alvos|
-|---|---|---|---|---|---|---|---|---|---|
-|Transcendent Dawn|Evocation|Action|300 ft|Instantâneo|—|Sabedoria CD 8 + prof + Carisma para metade|12d6 radiante|Um sol etéreo rasga o céu, ferindo tudo sob seu brilho.|Área de 300 ft|
-|Celestial Ward|Abjuration|Bonus Action|Self|1 minuto|—|—|Aliados e invocações ganham resistência a todo dano|Uma abóbada de luz os envolve, amortecendo feridas e feitiços.|Aliados/invocações|
-|Aurora’s Grace|Conjuration|Action|Self|Concentração, 1 min|—|—|Invocações regeneram 2d8 HP por turno|Uma dança de auroras sobre suas criações renova suas energias continuamente.|Suas invocações|
-|Radiant Bastion|Abjuration|Action|60 ft|Concentração, 1 min|—|—|Cria muralha de luz (5×20 ft) que bloqueia vis e projéteis|Uma barreira sólida de pura luminescência ergue-se para proteger todos atrás dela.|Até 20 ft de murada|
-|Dawnflare Lance|Evocation|Action|120 ft|Instantâneo|—|Sabedoria CD 8 + prof + Carisma para metade|8d6 radiante + atordoar (falha CD)|Lança uma lança de luz que perfura múltiplos inimigos, potencialmente atordoando-os.|Linha de alvos|
-|Solar Communion|Divination|Action|Self|Instantâneo|—|—|Revela áreas sombreadas e invisíveis em 120 ft|Seus olhos irradiam claridade divina, expondo qualquer ocultação ou ilusão.|Você e aliados próximos|
-|Everlasting Dawn|Enchantment|Bonus Action|Self|1 minuto|—|—|Invocações imunes a ser removidas ou banidas pelo inimigo|Laços eternos de luz ancoram suas criações ao plano, impedindo que sejam forçadas ou banidas.|Suas invocações|
+| Nome              | Escola      | Tipo         | Alcance | Duração             | Armas Permitidas | Acerto / CD                                 | Dano / Efeito                                              | Descrição & Ajuste                                                                            | Alvos                   |
+| ----------------- | ----------- | ------------ | ------- | ------------------- | ---------------- | ------------------------------------------- | ---------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ----------------------- |
+| Transcendent Dawn | Evocation   | Action       | 300 ft  | Instantâneo         | —                | Sabedoria CD 8 + prof + Carisma para metade | 12d6 radiante                                              | Um sol etéreo rasga o céu, ferindo tudo sob seu brilho.                                       | Área de 300 ft          |
+| Celestial Ward    | Abjuration  | Bonus Action | Self    | 1 minuto            | —                | —                                           | Aliados e invocações ganham resistência a todo dano        | Uma abóbada de luz os envolve, amortecendo feridas e feitiços.                                | Aliados/invocações      |
+| Aurora’s Grace    | Conjuration | Action       | Self    | Concentração, 1 min | —                | —                                           | Invocações regeneram 2d8 HP por turno                      | Uma dança de auroras sobre suas criações renova suas energias continuamente.                  | Suas invocações         |
+| Radiant Bastion   | Abjuration  | Action       | 60 ft   | Concentração, 1 min | —                | —                                           | Cria muralha de luz (5×20 ft) que bloqueia vis e projéteis | Uma barreira sólida de pura luminescência ergue-se para proteger todos atrás dela.            | Até 20 ft de murada     |
+| Dawnflare Lance   | Evocation   | Action       | 120 ft  | Instantâneo         | —                | Sabedoria CD 8 + prof + Carisma para metade | 8d6 radiante + atordoar (falha CD)                         | Lança uma lança de luz que perfura múltiplos inimigos, potencialmente atordoando-os.          | Linha de alvos          |
+| Solar Communion   | Divination  | Action       | Self    | Instantâneo         | —                | —                                           | Revela áreas sombreadas e invisíveis em 120 ft             | Seus olhos irradiam claridade divina, expondo qualquer ocultação ou ilusão.                   | Você e aliados próximos |
+| Everlasting Dawn  | Enchantment | Bonus Action | Self    | 1 minuto            | —                | —                                           | Invocações imunes a ser removidas ou banidas pelo inimigo  | Laços eternos de luz ancoram suas criações ao plano, impedindo que sejam forçadas ou banidas. | Suas invocações         |
 
 ---
 
