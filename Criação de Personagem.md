@@ -17,12 +17,10 @@ Agora... me mostre do que é feito. Pedra, gelo... ou sombra?
 
 | Raça                            | Modificadores        | HD  | PV Extra | Perícias                   | Visão de ┫➃ⓖ★↖                                                                         |
 | ------------------------------- | -------------------- | --- | -------- | -------------------------- | -------------------------------------------------------------------------------------- |
-| **[[Dvergrim Glacialis]]**      | STR +2, CON +1       | d10 | +1       | Ferraria, História         | *“Densos como o gelo que cavam. São rochas que andam, mas escutam como ecos.”*         |
 | **[[Jötunkin Borealis]]**       | CON +2, STR +1       | d12 | +2       | Intimidação, Sobrevivência | *“Altos, brutos... mas há uma tristeza em seus olhos que o mundo esqueceu.”*           |
 | **[[Fenriscanis]]**             | DEX +2, WIS +1       | d8  | +1       | Percepção, Furtividade     | *“Eles farejam mentiras antes mesmo de você pensar em dizê-las.”*                      |
 | **[[Elfi Frigoris]]**           | DEX +2, INT +1       | d8  | +1       | Arcana, Acrobacia          | *“Cada passo deles é uma dança com o silêncio. Bonitos demais pra serem confiáveis.”*  |
 | **[[Alfaro Borealis]]**         | INT +2, CHA +1       | d8  | +1       | Investigação, Persuasão    | *“Palavras doces, intenções amargas. Brilham como ouro — falsos como ele.”*            |
-| **[[Svartalfar Subterrans]]**   | INT +1, CON +2       | d10 | +1       | Enganação, Ferraria        | *“O subsolo os ensinou a esconder mais do que mostram. E eles mostram bem pouco.”*     |
 | **[[Valkyria Aeternae]]**       | STR +1, CHA +2       | d10 | +2       | Atletismo, Intimidação     | *“Lindas, letais, leais. Um trio de palavras que raramente andam juntas.”*             |
 | **[[Nornborn Seers]]**          | WIS +2, INT +1       | d6  | +1       | História, Religião         | *“Eles não falam muito... mas quando falam, o destino ouve.”*                          |
 | **[[Skogfolk Silvana]]**        | DEX +1, WIS +2       | d8  | +1       | Sobrevivência, Furtividade | *“Eles somem como névoa e caçam como lobos. Nunca os subestime por parecerem calmos.”* |

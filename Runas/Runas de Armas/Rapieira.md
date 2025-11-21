@@ -1,19 +1,19 @@
 ## 1º Círculo
 
-|Nome|Escola|Tempo|Alcance|Duração|Acerto / CD|Efeito|
-|---|---|---|---|---|---|---|
-|**Agulha Veloz**|Transmutation|1 ataque|Corpo a corpo|Instantâneo|—|Seu próximo ataque com rapieira ganha +1d4 perfurante.|
-|**Estocada Fantasma**|Illusion|Bônus Action|Próprio|1 turno|Sabedoria CD 8 + prof + CAR para resistir|Você executa uma estocada ilusória: o alvo faz CD ou sofre 1d4 cortante e não pode reagir até o fim do seu próximo turno.|
-|**Sangria Sílica**|Necromancy|Reaction|Próprio|1 turno|Constituição CD 8 + prof + CAR para estancar|Ao acertar, o alvo sangra: sofre 1 PV perfurante no fim de cada turno até usar ação para estancar.|
-|**Fio de Seda**|Conjuration|1 ação|Self (15 ft)|1 turno|—|Cria um fio de seda: criaturas atravessando sofrem 1d4 cortante.|
-|**Brisa Cortante**|Evocation|1 ataque|10 ft|Instantâneo|—|Seu ataque gera uma rajada de vento que causa +1d4 concussão a outro alvo em até 5 ft.|
-|**Lâmina Silenciosa**|Abjuration|Bonus Action|Self|1 turno|—|Seu próximo ataque não emite som e ignora cobertura leve.|
-|**Dardo Veloz**|Transmutation|1 ataque|Corpo a corpo|Instantâneo|—|Ganha +5 ft de deslocamento após o ataque.|
-|**Eco Letal**|Enchantment|Reaction|Próprio|Instantâneo|Sabedoria CD 8 + prof + CAR|Quando um inimigo falha no CD, você refaz o ataque com +2 no ataque e +1d4 perfurante.|
-|**Ponto Preciso**|Divination|Bonus Action|Self|Até 1 ataque realizado|—|Ganha vantagem em seu próximo ataque de rapieira.|
-|**Passo Ágil**|Transmutation|1 ação|Self|Instantâneo|—|Move-se até 15 ft antes ou depois de atacar sem perder CA.|
-|**Rapidez Fatal**|Enchantment|Bonus Action|Self|1 turno|—|Ganha +1 de bônus de ataque em todas as estocadas deste turno.|
-|**Reflexo Sutil**|Abjuration|Reaction|Próprio|Instantâneo|—|Ao ser alvo de ataque corpo a corpo, ganha +4 CA contra esse ataque.|
+| Nome                  | Escola        | Tempo        | Alcance       | Duração                | Acerto / CD                                  | Efeito                                                                                                                    |
+| --------------------- | ------------- | ------------ | ------------- | ---------------------- | -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| **Agulha Veloz**      | Transmutation | 1 ataque     | Corpo a corpo | Instantâneo            | —                                            | Seu próximo ataque com rapieira ganha +1d4 perfurante.                                                                    |
+| **Estocada Fantasma** | Illusion      | Bônus Action | Próprio       | 1 turno                | Sabedoria CD 8 + prof + wis para resistir    | Você executa uma estocada ilusória: o alvo faz CD ou sofre 1d4 cortante e não pode reagir até o fim do seu próximo turno. |
+| **Sangria Sílica**    | Necromancy    | Reaction     | Próprio       | 1 turno                | Constituição CD 8 + prof + CAR para estancar | Ao acertar, o alvo sangra: sofre 1 PV perfurante no fim de cada turno até usar ação para estancar.                        |
+| **Fio de Seda**       | Conjuration   | 1 ação       | Self (15 ft)  | 1 turno                | —                                            | Cria um fio de seda: criaturas atravessando sofrem 1d4 cortante.                                                          |
+| **Brisa Cortante**    | Evocation     | 1 ataque     | 10 ft         | Instantâneo            | —                                            | Seu ataque gera uma rajada de vento que causa +1d4 concussão a outro alvo em até 5 ft.                                    |
+| **Lâmina Silenciosa** | Abjuration    | Bonus Action | Self          | 1 turno                | —                                            | Seu próximo ataque não emite som e ignora cobertura leve.                                                                 |
+| **Dardo Veloz**       | Transmutation | 1 ataque     | Corpo a corpo | Instantâneo            | —                                            | Ganha +5 ft de deslocamento após o ataque.                                                                                |
+| **Eco Letal**         | Enchantment   | Reaction     | Próprio       | Instantâneo            | Sabedoria CD 8 + prof + CAR                  | Quando um inimigo falha no CD, você refaz o ataque com +2 no ataque e +1d4 perfurante.                                    |
+| **Ponto Preciso**     | Divination    | Bonus Action | Self          | Até 1 ataque realizado | —                                            | Ganha vantagem em seu próximo ataque de rapieira.                                                                         |
+| **Passo Ágil**        | Transmutation | 1 ação       | Self          | Instantâneo            | —                                            | Move-se até 15 ft antes ou depois de atacar sem perder CA.                                                                |
+| **Rapidez Fatal**     | Enchantment   | Bonus Action | Self          | 1 turno                | —                                            | Ganha +1 de bônus de ataque em todas as estocadas deste turno.                                                            |
+| **Reflexo Sutil**     | Abjuration    | Reaction     | Próprio       | Instantâneo            | —                                            | Ao ser alvo de ataque corpo a corpo, ganha +4 CA contra esse ataque.                                                      |
 
 ---
 

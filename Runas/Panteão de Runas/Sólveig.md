@@ -1,26 +1,26 @@
 ## 1º Círculo
 
-|Nome|Escola|Tipo|Alcance|Duração|Armas Permitidas|Acerto / CD|Efeito|Alvos|
-|---|---|---|---|---|---|---|---|---|
-|Aurora|Evocation|Action|30 ft|Instantâneo|—|Constituição CD|2d6 radiante (sucesso metade)|Área de 10 ft|
-|Luminex|Abjuration|Action|Toque|Concentração, 4 turnos|—|—|Próximos 3 ataques +1d4 radiante|Você|
-|Renascor|Transmutation|Action|Toque|Instantâneo|—|—|Cura 1d4 HP + remove 1 nível de exaustão|1 alvo|
-|Fortitudo|Enchantment|Action|Self (10 ft)|1 turno|—|—|Vantagem em resistências a medo e charme|Aliados em 10 ft|
-|**Solar Aid**|Conjuration|Bonus Action|Toque|Instantâneo|—|—|Cura adicional 1d6 HP e concede 5 ft de deslocamento extra|1 aliado|
-|**Dawn’s Grace**|Abjuration|Reaction|Self|Instantâneo|—|—|Concede +2 CA até o fim do próximo turno|Você|
+| Nome             | Escola        | Tipo         | Alcance      | Duração                | Armas Permitidas | Acerto / CD     | Efeito                                                     | Alvos            |
+| ---------------- | ------------- | ------------ | ------------ | ---------------------- | ---------------- | --------------- | ---------------------------------------------------------- | ---------------- |
+| Aurora           | Evocation     | Action       | 30 ft        | Instantâneo            | —                | Constituição CD | 2d6 radiante (sucesso metade)                              | Área de 10 ft    |
+| Luminex          | Abjuration    | Action       | Toque        | Concentração, 4 turnos | —                | —               | Próximos 3 ataques +1d4 radiante                           | Você             |
+| Renascor         | Transmutation | Action       | Toque        | Instantâneo            | —                | —               | Cura 1d4 HP + remove 1 nível de exaustão                   | 1 alvo           |
+| Fortitudo        | Enchantment   | Action       | Self (10 ft) | 1 turno                | —                | —               | Vantagem em resistências a medo e charme                   | Aliados em 10 ft |
+| **Solar Aid**    | Conjuration   | Bonus Action | Toque        | Instantâneo            | —                | —               | Cura adicional 1d6 HP e concede 5 ft de deslocamento extra | 1 aliado         |
+| **Dawn’s Grace** | Abjuration    | Reaction     | Self         | Instantâneo            | —                | —               | Concede +2 CA até o fim do próximo turno                   | Você             |
 
 ---
 
 ## 2º Círculo
 
-|Nome|Escola|Tipo|Alcance|Duração|Armas Permitidas|Acerto / CD|Efeito|Alvos|
-|---|---|---|---|---|---|---|---|---|
-|Aura do Alvor|Abjuration|Action|Self (15 ft)|Concentração, 4 turnos|—|—|Aliados recuperam 1d4 HP radiante ao fim de cada seu turno|Aliados em 15 ft|
-|Luz do Meio-Dia|Evocation|Action|30 ft|1 turno|—|Constituição CD|2d6 radiante (sucesso metade)|Área de 30 ft|
-|Chama do Forjador|Evocation|Reaction|Self (arma)|Instantâneo|Qualquer arma|—|+1d6 radiante + empurra 5 ft|Você (próximo ataque)|
-|Purificação|Abjuration|Action|Toque|Instantâneo|—|—|Remove enfermidade ou veneno|1 alvo|
-|**Radiant Strike**|Evocation|Bonus Action|Self|Instantâneo|Qualquer arma|—|Próximo ataque causa +2d6 radiante|Você|
-|**Sunlit Ward**|Abjuration|Action|30 ft|Concentração, 1 minuto|—|—|Aliados em área ganham resistência a necrótico e veneno|Aliados em 30 ft|
+| Nome               | Escola     | Tipo         | Alcance      | Duração                | Armas Permitidas | Acerto / CD     | Efeito                                                     | Alvos                 |
+| ------------------ | ---------- | ------------ | ------------ | ---------------------- | ---------------- | --------------- | ---------------------------------------------------------- | --------------------- |
+| Aura do Alvor      | Abjuration | Action       | Self (15 ft) | Concentração, 4 turnos | —                | —               | Aliados recuperam 1d4 HP radiante ao fim de cada seu turno | Aliados em 15 ft      |
+| Luz do Meio-Dia    | Evocation  | Action       | 30 ft        | 1 turno                | —                | Constituição CD | 2d6 radiante (sucesso metade)                              | Área de 30 ft         |
+| Chama do Forjador  | Evocation  | Reaction     | Self (arma)  | Instantâneo            | Qualquer arma    | —               | +1d6 radiante + empurra 5 ft                               | Você (próximo ataque) |
+| Purificação        | Abjuration | Action       | Toque        | Instantâneo            | —                | —               | Remove enfermidade ou veneno                               | 1 alvo                |
+| **Radiant Strike** | Evocation  | Bonus Action | Self         | Instantâneo            | Qualquer arma    | —               | Próximo ataque causa +2d6 radiante                         | Você                  |
+| **Sunlit Ward**    | Abjuration | Action       | 30 ft        | Concentração, 1 minuto | —                | —               | Aliados em área ganham resistência a necrótico e veneno    | Aliados em 30 ft      |
 
 ---
 

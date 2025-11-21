@@ -1,19 +1,19 @@
 ## 1º Círculo
 
-|Nome|Escola|Tipo|Alcance|Duração|Acerto / CD|Dano / Efeito|Descrição|Alvos|
-|---|---|---|---|---|---|---|---|---|
-|**Dræpa**|Abjuration|Reaction (ao atingir)|Corpo a corpo|Instantâneo|—|Ataque furtivo sem revelar posição|Ao acertar, você permanece oculto como se tivesse usado Hide.|Você|
-|**Fukan**|Abjuration|Action|Corpo a corpo|1 turno|Sabedoria CD 8 + prof + CAR|—|O alvo fica incapaz de emitir sons até o fim do seu próximo turno.|1 alvo|
-|**Kora**|Transmutation|Bonus Action|Corpo a corpo|1 turno|—|Vantagem no próximo ataque com faca|A lâmina vibra com energia rúnica, guiando seu golpe.|1 alvo|
-|**Shinketsu**|Abjuration|Bonus Action|Corpo a corpo|1 turno|—|+1d10 dano adicional no próximo ataque de faca|Runas de ferro lunar amplificam o corte.|1 alvo|
-|**Silentium**|Abjuration|Reaction (ao atacar)|Corpo a corpo|Instantâneo|—|Silencia o ataque, removendo vantagem do inimigo|Ao atacar, você impede sons de seu golpe, negando vantagem do alvo.|Você|
-|**Obtectus**|Illusion|Bonus Action|Corpo a corpo|1 turno|—|Você fica semi‐invisível até atacar|Uma névoa ilusória cobre você, dificultando ser visto.|Você|
-|**Aerugo**|Transmutation|Action|Corpo a corpo|Concentração, 1 turno|—|+1d4 corrosivo em dano cortante|A lâmina enferruja magicamente, corroendo armaduras e carne.|1 alvo|
-|**Lamina**|Evocation|Bonus Action|Corpo a corpo|1 turno|—|+1d6 perfurante no próximo ataque|Runas de vela lunar imbuem a lâmina de precisão extra.|1 alvo|
-|**Venena**|Necromancy|Action|Corpo a corpo|Concentração, 1 turno|Constituição CD 8 + prof + CON|1d6 veneno no próximo ataque|Aplica toxina arcana na lâmina; ataque causa dano de veneno adicional.|1 alvo|
-|**Umbra**|Illusion|Reaction (sofrer dano)|Self|Instantâneo|—|Inimigo vê múltiplas sombras suas — desvantagem em próximo ataque|Cria duplicata ilusória ao sofrer dano.|Você|
-|**Argutia**|Enchantment|Action|Corpo a corpo|1 turno|Sabedoria CD 8 + prof + CAR|+2 no próximo teste de Furtividade com faca|A lâmina vibra com malícia, facilitando ataques sorrateiros.|Você|
-|**Praefica**|Conjuration|Action|5 ft|Instantâneo|—|Conjura adaga espiritual: 1 ataque de 1d6 cortante|Uma lâmina fantasmagórica surge e ataca um inimigo ao seu lado.|1 alvo|
+| Nome          | Escola        | Tipo                   | Alcance       | Duração               | Acerto / CD                    | Dano / Efeito                                                     | Descrição                                                              | Alvos  |
+| ------------- | ------------- | ---------------------- | ------------- | --------------------- | ------------------------------ | ----------------------------------------------------------------- | ---------------------------------------------------------------------- | ------ |
+| **Dræpa**     | Abjuration    | Reaction (ao atingir)  | Corpo a corpo | Instantâneo           | —                              | Ataque furtivo sem revelar posição                                | Ao acertar, você permanece oculto como se tivesse usado Hide.          | Você   |
+| **Fukan**     | Abjuration    | Action                 | Corpo a corpo | 1 turno               | Sabedoria CD 8 + prof + CAR    | —                                                                 | O alvo fica incapaz de emitir sons até o fim do seu próximo turno.     | 1 alvo |
+| **Kora**      | Transmutation | Bonus Action           | Corpo a corpo | 1 turno               | —                              | Vantagem no próximo ataque com faca                               | A lâmina vibra com energia rúnica, guiando seu golpe.                  | 1 alvo |
+| **Shinketsu** | Abjuration    | Bonus Action           | Corpo a corpo | 1 turno               | —                              | +1d10 dano adicional no próximo ataque de faca                    | Runas de ferro lunar amplificam o corte.                               | 1 alvo |
+| **Silentium** | Abjuration    | Reaction (ao atacar)   | Corpo a corpo | Instantâneo           | —                              | Silencia o ataque, removendo vantagem do inimigo                  | Ao atacar, você impede sons de seu golpe, negando vantagem do alvo.    | Você   |
+| **Obtectus**  | Illusion      | Bonus Action           | Corpo a corpo | 1 turno               | —                              | Você fica semi‐invisível até atacar                               | Uma névoa ilusória cobre você, dificultando ser visto.                 | Você   |
+| **Aerugo**    | Transmutation | Action                 | Corpo a corpo | Concentração, 1 turno | —                              | +1d4 corrosivo em dano cortante                                   | A lâmina enferruja magicamente, corroendo armaduras e carne.           | 1 alvo |
+| **Lamina**    | Evocation     | Bonus Action           | Corpo a corpo | 1 turno               | —                              | +1d6 perfurante no próximo ataque                                 | Runas de vela lunar imbuem a lâmina de precisão extra.                 | 1 alvo |
+| **Venena**    | Necromancy    | Action                 | Corpo a corpo | Concentração, 1 turno | Constituição CD 8 + prof + CON | 1d6 veneno no próximo ataque                                      | Aplica toxina arcana na lâmina; ataque causa dano de veneno adicional. | 1 alvo |
+| **Umbra**     | Illusion      | Reaction (sofrer dano) | Self          | Instantâneo           | —                              | Inimigo vê múltiplas sombras suas — desvantagem em próximo ataque | Cria duplicata ilusória ao sofrer dano.                                | Você   |
+| **Argutia**   | Enchantment   | Action                 | Corpo a corpo | 1 turno               | Sabedoria CD 8 + prof + CAR    | +2 no próximo teste de Furtividade com faca                       | A lâmina vibra com malícia, facilitando ataques sorrateiros.           | Você   |
+| **Praefica**  | Conjuration   | Action                 | 5 ft          | Instantâneo           | —                              | Conjura adaga espiritual: 1 ataque de 1d6 cortante                | Uma lâmina fantasmagórica surge e ataca um inimigo ao seu lado.        | 1 alvo |
 
 ---
 
