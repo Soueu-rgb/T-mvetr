@@ -38,20 +38,20 @@
 
 ## 3º Círculo
 
-|Nome|Escola|Tipo|Alcance|Duração|Acerto / CD|Dano / Efeito|Descrição|Alvos|
-|---|---|---|---|---|---|---|---|---|
-|**Nensho**|Evocation|Reaction (acerto)|Corpo a corpo|Até extinção|Destreza CD 8 + prof + DES|1d4 fogo/turno até extinguir|Acerto incendeia o alvo: sofre dano contínuo até extinguir com Destreza.|1 alvo|
-|**Sazanami**|Evocation|Action|20 ft linha|Instantâneo|Destreza CD 8 + prof + DES|1d6 cortante por alvo|Projétil rúnico ricocheteia em até 3 alvos em linha.|Até 3 alvos em linha|
-|**Fyritum**|Evocation|Action|Self (5 ft)|Concentração, 1 turno|—|+1d6 fogo em cada ataque|Lâmina inflama-se, imbuindo todos os golpes de fogo.|Você|
-|**Hydrosplash**|Evocation|Action|15 ft cone|Instantâneo|Constituição CD 8 + prof + CON|2d6 contundente em cone|Explosão aquática que derruba e molha inimigos, dificultando fogo.|Área de 15 ft|
-|**Terrabra**|Evocation|Action|10 ft raio|Instantâneo|Sabedoria CD 8 + prof + SAB|2d6 concussão + lento (mov metade)|Golpe gera tremor local, retardando inimigos.|Área de 10 ft|
-|**Fulgaris**|Evocation|Action|Self (5 ft)|Concentração, 1 turno|—|+1d6 raio em cada ataque|A lâmina crepita com eletricidade, zapando cada golpe.|Você|
-|**Umbrae Tela**|Conjuration|Action|30 ft|Instantâneo|—|Invoca faca sombria: 1 ataque de 1d6 necrótico|Lâmina espectral surge e ataca ao seu comando.|1 alvo|
-|**Vinclum Menti**|Enchantment|Action|30 ft|1 turno|Sabedoria CD 8 + prof + CAR|Confusão leve (falha)|A lâmina sussurra enganos ao inimigo, tornando-o confuso.|1 alvo|
-|**Soterris**|Conjuration|Action|5 ft|1 turno|—|Prende e restringe o alvo (falha)|A lâmina cava sombras ao redor do alvo, prendendo-o ao chão.|1 alvo|
-|**Lucentis**|Abjuration|Bonus Action|Self|1 turno|—|+1d4 radiante em cada ataque|A lâmina emite luz celestial, adicionando dano radiante.|Você|
-|**Ardens**|Transmutation|Reaction|Self|Instantâneo|—|Flash de fogo: dardeja 1d6 fogo ao redor|Ao ser atingido, expele chamas de sua lâmina em 5 ft.|Área de 5 ft|
-|**Glacies**|Transmutation|Action|Self|Concentração, 1 turno|—|+1d6 frio em cada ataque|A lâmina gela o ar à sua volta, arrefecendo cada golpe.|Você|
+| Nome              | Escola        | Tipo              | Alcance       | Duração               | Acerto / CD                    | Dano / Efeito                                  | Descrição                                                                | Alvos                |
+| ----------------- | ------------- | ----------------- | ------------- | --------------------- | ------------------------------ | ---------------------------------------------- | ------------------------------------------------------------------------ | -------------------- |
+| **Nensho**        | Evocation     | Reaction (acerto) | Corpo a corpo | 4 turnos              | Destreza CD 8 + prof + DES     | 1d4 fogo/turno até extinguir                   | Acerto incendeia o alvo: sofre dano contínuo até extinguir com Destreza. | 1 alvo               |
+| **Sazanami**      | Evocation     | Action            | 20 ft linha   | Instantâneo           | Destreza CD 8 + prof + DES     | 1d6 cortante por alvo                          | Projétil rúnico ricocheteia em até 3 alvos em linha.                     | Até 3 alvos em linha |
+| **Fyritum**       | Evocation     | Action            | Self (5 ft)   | Concentração, 1 turno | —                              | +1d6 fogo em cada ataque                       | Lâmina inflama-se, imbuindo todos os golpes de fogo.                     | Você                 |
+| **Hydrosplash**   | Evocation     | Action            | 15 ft cone    | Instantâneo           | Constituição CD 8 + prof + CON | 2d6 contundente em cone                        | Explosão aquática que derruba e molha inimigos, dificultando fogo.       | Área de 15 ft        |
+| **Terrabra**      | Evocation     | Action            | 10 ft raio    | Instantâneo           | Sabedoria CD 8 + prof + SAB    | 2d6 concussão + lento (mov metade)             | Golpe gera tremor local, retardando inimigos.                            | Área de 10 ft        |
+| **Fulgaris**      | Evocation     | Action            | Self (5 ft)   | Concentração, 1 turno | —                              | +1d6 raio em cada ataque                       | A lâmina crepita com eletricidade, zapando cada golpe.                   | Você                 |
+| **Umbrae Tela**   | Conjuration   | Action            | 30 ft         | Instantâneo           | —                              | Invoca faca sombria: 1 ataque de 1d6 necrótico | Lâmina espectral surge e ataca ao seu comando.                           | 1 alvo               |
+| **Vinclum Menti** | Enchantment   | Action            | 30 ft         | 1 turno               | Sabedoria CD 8 + prof + CAR    | Confusão leve (falha)                          | A lâmina sussurra enganos ao inimigo, tornando-o confuso.                | 1 alvo               |
+| **Soterris**      | Conjuration   | Action            | 5 ft          | 1 turno               | —                              | Prende e restringe o alvo (falha)              | A lâmina cava sombras ao redor do alvo, prendendo-o ao chão.             | 1 alvo               |
+| **Lucentis**      | Abjuration    | Bonus Action      | Self          | 1 turno               | —                              | +1d4 radiante em cada ataque                   | A lâmina emite luz celestial, adicionando dano radiante.                 | Você                 |
+| **Ardens**        | Transmutation | Reaction          | Self          | Instantâneo           | —                              | Flash de fogo: dardeja 1d6 fogo ao redor       | Ao ser atingido, expele chamas de sua lâmina em 5 ft.                    | Área de 5 ft         |
+| **Glacies**       | Transmutation | Action            | Self          | Concentração, 1 turno | —                              | +1d6 frio em cada ataque                       | A lâmina gela o ar à sua volta, arrefecendo cada golpe.                  | Você                 |
 
 ---
 
