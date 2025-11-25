@@ -32,25 +32,9 @@
   > *“A mentira que beija a verdade é sua arma favorita.”*  
   Poder: cria ilusões perfeitas, metamorfoses sutis e comanda marionetes com sarcasmo melancólico.
 
-- **🦉 Vördrann** 
-  > *“O sacrifício carrega a sabedoria do corvo.”*  
-  Poder: ousa selar visões do tempo, sacrifica para curar e convoca corvos como mensageiros do destino.
-
 - **🔥 Yrsaelka** 
   > *“O amor brilha nas cinzas da morte.”*  
   Poder: alterna entre sedução e morte, gera chamas rituais e divide almas em três vertentes de poder.
-
-- **🔨 Skarnulfr** 
-  > *“Cada martelo carrega a alma do artífice.”*  
-  Poder: forja maldições vivas, anima armas conscientes e sela pactos com sangue e fogo.
-
-- **🔥 Náuthgrind** 
-  > *“O calor da fornalha deita juramentos em aço vivo.”*  
-  Poder: anima artefatos, convoca colossos de metal e cria selos eternos com o fôlego da fornalha.
-
-- **⚖️ Hrafnvaldr** 
-  > *“Nem mesmo uma balança escapa ao peso das memórias.”*  
-  Poder: pesa ações e almas, altera destinos e equilibra passado e futuro em sua balança ancestral.
 
 - **🎵 Eldskald** 
   > *“Suas notas são fósseis de mundos que não voltam.”*  
@@ -76,33 +60,9 @@
   > *“A beleza sussurra mentiras doces como veneno.”*  
   Poder: enfeitiça corações com um encanto ilusório que cobra um alto preço.
 
-- **🔥 Glóð** 
-  > *“Uma centelha basta para incendiar a imaginação.”*  
-  Poder: incendeia a inspiração, permitindo criações extraordinárias em um sopro.
-
-- **🚶 Hermévar**  
-  > *“As sombras o seguem como promessas não cumpridas.”*  
-  Poder: atravessa mundos sem deixar trilha, transportando mensagens, almas e segredos.
-
-- **🔗 Sigvárra**  
-  > *“Um laço inquebrável desafia até o silêncio.”*  
-  Poder: unge vínculos emocionais ou espirituais, impedindo qualquer ruptura.
-
-- **⚔️ Skarnith** 
-  > *“A morte é apenas o primeiro ato de sua fúria.”*  
-  Poder: consome e ressuscita seres com força e fúria redobradas.
-
 - **🖤 Ósvart** 
   > *“O luto é seu martelo mais pesado.”*  
   Poder: evoca dor profunda que paralisa ou enlouquece seus oponentes.
-
-- **👁️ Vörstyr** 
-  > *“Nada escapa ao olhar que se recusa a dormir.”*  
-  Poder: vê tudo em vastas distâncias, cruzando matéria, magia e tempo.
-
-- **😂 Skenja** 
-  > *“Seu riso corrói o que resta do seu coração.”*  
-  Poder: manipula emoções para transformar alegria em pânico e coragem em desespero.
 
 - **🕳️ Drekval**  
   > *“O vazio engole até a lembrança de quem ousou olhar.”*  
