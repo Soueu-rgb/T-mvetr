@@ -38,6 +38,80 @@ Todos os personagens começam com **4 em cada atributo** e podem distribuir **+4
 
 ---
 
+# Raças
+## Humanos
+
+- **+2 pontos** livres, máx. **+1** por atributo.
+
+- **2 proficiências** à escolha.
+
+- - **Adaptáveis:** ganham +1 em um teste por descanso longo (qualquer um).
+
+Descrição: Raça despresivel de rapida adaptação.
+
+---
+
+## Fenrryr
+
+- Recebem **3 pontos** para distribuir entre **Força** e **Destreza** (máx. **+2** no mesmo atributo).
+
+- +1 em Percepção
+
+- Proeficiente em Atletismo e Acrobacia
+
+- +5 ft de movimento;
+
+- NV8: Visão no escuro: 18 m;
+
+Descrição: Humanoides de maior porte físico, ágeis ou fortes. Às vezes ambos. Alguma característica animalesca em sua aparência.
+
+---
+
+## Altani
+
+- Recebem +2 de força e +1 de constituição.
+
+- Vantagens em testes de levantar/empurrar
+
+- +2 de vida por nivel
+
+Descrição: Humanoides com corpos mais robusto que variam entre 2,30m a 2,60m de altura.
+
+---
+
+## Khorlin
+
+- Recebem +2 constituição e +1 sabedoria
+
+- Habilidade única: uma vez por descanso longo, ao levarem dano fatal (quando possuem mais de 10% de vida), ficam com 1 de vida.
+
+Descrição: Criaturas humanoides de corpo menor, possuindo entre 0,9 m e 1,3 m de altura.
+
+---
+
+## Rhalid
+
+- Recebem +2 inteligência e +1 carisma;
+
+- Possuem +1 CA;
+
+- Resistencia a relampago
+
+Descrição: Humanoides com corpos feitos de cristais, quase imperceptíveis à luz natural ou no escuro.
+
+---
+
+## Aerwyn
+
+- Recebem +2 destreza e +1 carisma
+
+- Possuem a habilidade de planar (não recebem dano de queda);
+
+- Pode passar por cima de criaturas médias (1/Descanço curto);
+
+Descrição: Humanoides com penas no corpo ou asas coloridas nas costas
+
+---
 # Classes
 
 ## Bárbaro
@@ -150,10 +224,6 @@ Invocar Divindade (1/Mês)
 | 5                                 | ∞    | 3      |
 | 10                                | ∞    | 4      |
 | 19                                | ∞    | 6      |
-
----
-## Druida (Desenvolvendo transformações)
-
 
 ---
 ## Paladino
