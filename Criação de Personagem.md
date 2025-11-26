@@ -67,6 +67,7 @@ Fúria
 | --------------------------------- | ------------ |
 | 1-20                              | ∞            |
 
+--- 
 ## Guerreiro
 - Vida: d10
 - Passivas: Estilo de luta (Escolha)
@@ -88,6 +89,7 @@ Fúria
 | 14                                | ∞            | 4      |
 | 19                                | ∞            | 5      |
 
+---
 ## Bardo
 - Vida: d8
 - Passiva: Resistencia espiritual a escolha
@@ -117,6 +119,8 @@ Inspiração: Ação bonus
 | 14                                | ∞      | 3      | 2    |
 | 16                                | ∞      | 3      | 3    |
 | 19                                | ∞      | 4      | 3    |
+
+---
 ## Clérigo
 - Vida: d8
 - Passiva: Resistencia magica a divindade (Juramento obrigatório)
@@ -147,8 +151,11 @@ Invocar Divindade (1/Mês)
 | 10                                | ∞    | 4      |
 | 19                                | ∞    | 6      |
 
+---
 ## Druida (Desenvolvendo transformações)
 
+
+---
 ## Paladino
 - Vida: d10
 - Magias Próprias: Smite, Aura de proteção
@@ -178,8 +185,51 @@ Smite
 | 7                                 | ∞      | 2    | 2            |
 | 14                                | ∞      | 2    | 3            |
 | 18                                | ∞      | 3    | 4            |
-## Patrulheiro (Desenvolvendo companheiros)
 
+---
+## Patrulheiro 
+- Vida: d10
+- Passiva: Companheiro (Escolha)
+- Magias Próprias: Tiro preciso, emboscada, Olho de caçador
+- Tipo magico: Divino [[L]], Summon [[L]], fortificação [[L]]
+### Evolução de criatura
+
++1d8 por nivel (do player)
++4 de CA
+### Magias
+Tiro Preciso: Ação Bonus (Mod Dex/descanço longo)
+	Passiva: Em ataques a distancia, ignora cobertura parcial, critico com 19-20
+	Ativa: +2 no ataque ou dano (escolha antes de ativar)
+
+Emboscada (Ataques, Ilimitado)
+	Quando em ataques surpresa ou sorrateiros, ganham +1d6 +mod Dex de dano
+
+Olho do caçador: Ação
+	Magia de circulo 2
+	Ao rastrear criaturas você tem vantagem.
+	Ataques contra criaturas rastreadas ganham +1d4 de dano (Fisico ou a distancia)
+	Rastreia até em terreno dificil.
+	Se a criatura alvo tentar se esconder, usando uma ação bonus, é possivel achar a criatura (CD dex)
+
+### Evolução por nivel
+1- Após se mover >= 10ft ataques a distancia ganham +1d4 de dano
+3- Ataque contra inimigo rastreado ganha +1d6 de dano
+6- Companheiro ganha +1 ataque e +2 de vida por nivel (do usuário)
+10- Pode converter 3 slots de 1° circulo em 1 de 3° circulo (Dura 1 turno)
+14- Ataques surpresa/Sorrateiros ganham +3d6 de dano
+18- Pode ignorar resistência ou transformar imunidade em resistência (1/Descanso longo)
+20- Sentinela
+
+| Tipo →<br>Nível ↓<br>Quantidade ➘ | Fortificação | Divino | Summon |
+| --------------------------------- | ------------ | ------ | ------ |
+| 1                                 | 1            | 1      | 1      |
+| 4                                 | 1            | 2      | 1      |
+| 9                                 | 2            | 2      | 1      |
+| 14                                | 2            | 3      | 1      |
+| 16                                | 2            | 3      | 2      |
+| 19                                | 3            | 3      | 2      |
+
+---
 ## Ladino
 - Vida: d8
 - Passivas: Vantagem em furtividade, dano furtivo conta como critico
@@ -211,6 +261,8 @@ Golpe preciso: Ação (1/ turno)
 | 5                                 | 2      | 1            |
 | 7                                 | 2      | 2            |
 | 14                                | 3      | 3            |
+
+---
 ## Feiticeiro
 - Vida: d6
 - Passivas: Metamagia, aprendizado diario 
@@ -237,6 +289,7 @@ Aprendizado diario
 | --------------------------------- | ------ |
 | 1-20                              | ∞      |
 
+---
 ## Mago
 - Vida: d6
 - Passivas: Recuperação Arcana, Aprendizado diario
@@ -259,6 +312,14 @@ Aprendizado diario
 18- Recupera 3 slots de circulos menores (1-4) imediatamente. (1/ descanso longo)
 20- Oráculo
 
+| Tipo →<br>Nível ↓<br>Quantidade ➘ | Arcano | Divino |
+| --------------------------------- | ------ | ------ |
+| 1                                 | ∞      | 1      |
+| 5                                 | ∞      | 2      |
+| 8                                 | ∞      | 3      |
+| 15                                | ∞      | 4      |
+
+---
 
 # Tipos de Magias
 
