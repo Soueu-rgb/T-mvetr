@@ -237,7 +237,28 @@ Aprendizado diario
 | --------------------------------- | ------ |
 | 1-20                              | ∞      |
 
-## Mago (Inserindo no Foundry)
+## Mago
+- Vida: d6
+- Passivas: Recuperação Arcana, Aprendizado diario
+- Tipo de magia: Arcana, divina [[L]]
+
+### Magias
+Recuperação Arcana
+	Recupera slots = nivel/2 uma vez por descanso curto
+
+Aprendizado diario
+	Pode estudar uma magia por dia, ganhando vantagem nela.
+	1N1, 5N2, 9N3, 18N4
+	
+### Evolução por nivel
+1- +1d4 de dano elemental
+3- +1 slot de 1° circulo
+	6- Magias ganham ou +1d6 ou +1CA (1/Descanso curto)
+10- +1 slot de 2° circulo
+14- converte 2 slots de 2° circulo em 1 de 4° circulo (1 turno)
+18- Recupera 3 slots de circulos menores (1-4) imediatamente. (1/ descanso longo)
+20- Oráculo
+
 
 # Tipos de Magias
 
