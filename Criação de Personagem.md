@@ -376,7 +376,7 @@ Aprendizado diario
 ### Evolução por nivel
 1- +1d4 de dano elemental
 3- +1 slot de 1° circulo
-	6- Magias ganham ou +1d6 ou +1CA (1/Descanso curto)
+6- Magias ganham ou +1d6 ou +1CA (1/Descanso curto)
 10- +1 slot de 2° circulo
 14- converte 2 slots de 2° circulo em 1 de 4° circulo (1 turno)
 18- Recupera 3 slots de circulos menores (1-4) imediatamente. (1/ descanso longo)
@@ -395,7 +395,7 @@ Aprendizado diario
 
 ### **Fortificação**
 
-- **Descrição:** Magias que aumentam defesa, resistência ou resistência a condições negativas.
+- **Descrição:** Magias que aumentam defesa, resistência ou resistência a condições negativas. Ou causam/aumentam dano fisico
 
 ### **Arcano**
 
