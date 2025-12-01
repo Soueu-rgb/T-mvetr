@@ -1,17 +1,5 @@
 # 👤 Criação de Personagens
 
-> *┫➃ⓖ★↖ inclina a cabeça, olhos faiscando em antecipação.*  
-> *Ah... então você veio até aqui, curioso ou perdido. Não importa.  
-A criação de um personagem não é apenas uma ficha — é o começo de  
-uma cicatriz na história. Cada escolha que você fizer deixará marcas.  
-Algumas douradas... outras negras. Mas todas suas.*  
->   
-> Volte quantas vezes quiser.  
-O início sempre parecerá o mesmo — mas a cada retorno, será você quem mudou.  
-Agora... me mostre do que é feito. Pedra, gelo... ou sombra?
-
----
-
 
 ---
 
