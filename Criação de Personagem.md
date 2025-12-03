@@ -249,7 +249,7 @@ Smite
 - Vida: d10
 - Passiva: Companheiro (Escolha)
 - Magias Próprias: Tiro preciso, emboscada, Olho de caçador
-- Tipo magico: Divino [[L]], Summon [[L]], fortificação [[L]]
+- Tipo magico: Divino [[L]], fortificação [[L]]
 ### Evolução de criatura
 
 +1d8 por nivel (do player)
@@ -278,14 +278,14 @@ Olho do caçador: Ação
 18- Pode ignorar resistência ou transformar imunidade em resistência (1/Descanso longo)
 20- Sentinela
 
-| Tipo →<br>Nível ↓<br>Quantidade ➘ | Fortificação | Divino | Summon |
-| --------------------------------- | ------------ | ------ | ------ |
-| 1                                 | 1            | 1      | 1      |
-| 4                                 | 1            | 2      | 1      |
-| 9                                 | 2            | 2      | 1      |
-| 14                                | 2            | 3      | 1      |
-| 16                                | 2            | 3      | 2      |
-| 19                                | 3            | 3      | 2      |
+| Tipo →<br>Nível ↓<br>Quantidade ➘ | Fortificação | Divino |
+| --------------------------------- | ------------ | ------ |
+| 1                                 | 1            | 1      |
+| 4                                 | 1            | 2      |
+| 9                                 | 2            | 2      |
+| 14                                | 2            | 3      |
+| 16                                | 2            | 3      |
+| 19                                | 3            | 3      |
 
 ---
 ## Ladino
@@ -396,10 +396,6 @@ Aprendizado diario
 ### **Cura**
 
 - **Descrição:** Magias focadas em restaurar pontos de vida ou remover condições negativas.
-
-### **Summon**
-
-- **Descrição:** Criação, transformação ou invocação de criaturas, construtos ou espíritos para lutar ou auxiliar.
 
 
 
