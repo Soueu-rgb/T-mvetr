@@ -5,10 +5,10 @@
 ## 🌌 Divindades e Seus Poderes
 
 - **🐺 Skurval** 
-  > *“O mundo treme quando ele mastiga o céu.”*  
+  > *“O lobo que mastiga o céu.”*  
 
 - **🐍 Jörmungandr** 
-  > *“O ciclo não termina, apenas se refaz em outra forma.”*  
+  > *“O ciclo da serpente.”*  
 
 - **🌕 Baldrath** 
   > *“Há luz suficiente para enganar até as trevas.”*  
@@ -17,22 +17,22 @@
   > *“No silêncio absoluto, até o tempo se congela.”*  
 
 - **⚔️ Gungnir** 
-  > *“Cada golpe carrega o peso de um destino irrefutável.”*  
+  > *“A lâmina que nunca erra o alvo.”*  
 
 - **🌩️ Tharnn** 
-  > *“O trovão anuncia seu martelo preso ao vento.”*  
+  > *“O titã que carrega os céus.”*  
 
 - **🔥 Yrsaelka** 
-  > *“O amor brilha nas cinzas da morte.”*  
+  > *“O amor brilha com o poder das raízes.”*  
 
 - **🎵 Eldskald** 
-  > *“Suas notas são fósseis de mundos que não voltam.”*  
+  > *“Sua voz ecoa por todos os ouvidos.”*  
 
 - **☀️ Sólveig** 
   > *“A lâmina solar rasga as trevas.”*  
 
 - **🌙 Draumr** 
-  > *“Os sonhos sussurram segredos que o dia não ousa ouvir.”*  
+  > *“O segredo entre os sonhos.”*  
 
 - **💨 Vindr**  
   > *“O vento traz histórias que ninguém escreveu.”*  
