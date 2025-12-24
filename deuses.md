@@ -38,5 +38,5 @@
   > *“O vento traz histórias que ninguém escreveu.”*  
 
 - **❄️ Eirlys** 
-  > *“A neve abraça os fracos antes do amanhecer.”*  
+  > *“As ondas abraçam os fracos antes do amanhecer.”*  
 
